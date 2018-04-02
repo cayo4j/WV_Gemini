@@ -1,0 +1,228 @@
+{
+    "title": " ",
+	"activities": [
+		{
+			"type": "video",
+			"name": "Management Functions Overview - Exercise",
+			"label": "Multiple Choice",
+			"video": {
+				"url": "lessons/shared/html/chime.mp3"
+			},
+			"cuepoints": [
+
+				{
+					"videoControl" : {
+						"time": "0",
+						"play": true
+					},
+					"caption": " ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/va-logo-screen-exercise.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "multipleChoice",
+			"name": "Management Functions Overview - Exercise",
+			"label": "All Reports are accessed from the Reports menu on the Management Functions Home screen.",
+			"options": [
+				{
+					"label": "True",
+					"isCorrect": true
+				},
+				{
+					"label": "False",
+					"isCorrect": false
+				}
+			],
+			"feedback": {
+				"valid": {
+					"label": "Correct!",
+					"text": "Click OK to Continue."
+				},
+				"invalid": {
+					"label": "Incorrect.",
+					"text": "Sorry, the correct answer is True. The Home screen was streamlined and all Reports are now accessed from a single Reports menu."
+				}
+			}
+		},
+		{
+			"type": "guiSimulation",
+			"name": "Management Functions Overview - Exercise",
+			"label": "Find the menu option that is used to access functions for loading and unloading bins.",
+			
+			"cuepoints": [
+				{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 181,
+							"top": 170,
+							"image": {
+								"url": "lessons/shared/images/instant_ticket_mgmt_btn.png",
+								"width": 219,
+								"height": 71
+							},
+                            "blink": "triple",
+							"hotspot": "Instant Ticket Management Button",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 50,
+                            "top": 15,
+                            "label": "Now, identify the various parts of the Management Functions Home screen we just reviewed. Find the menu option that is used to access functions for loading and unloading bins."
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},
+				{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 180,
+							"top": 242,
+							"image": {
+								"url": "lessons/shared/images/mgmt_functions_btn.png",
+								"width": 219,
+								"height": 73
+							},
+							"blink": "triple",
+							"hotspot": "Management Functions Button",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 50,
+                            "top": 15,
+                            "label": "Find the menu option that is used to access functions to check Device Status, perform Device Tests and view Video Help."
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},				
+				{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 399,
+							"top": 314,
+							"image": {
+								"url": "lessons/shared/images/instant_functions_btn.png",
+								"width": 223,
+								"height": 78
+							},
+							"blink": "triple",
+							"hotspot": "Instant Functions Button",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 50,
+                            "top": 15,
+                            "label": "Find the menu option that accesses the Pack Management functions used for confirming Scratcher game deliveries and activating packs of tickets."
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},					
+				{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 581,
+							"top": 59,
+							"image": {
+								"url": "lessons/shared/images/sign_off_btn.png",
+								"width": 37,
+								"height": 38
+							},
+							"blink": "triple",
+							"hotspot": "Sign Off Button",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 50,
+                            "top": 15,
+                            "label": "Find the Sign Off button."
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				} 				
+				
+				
+				],
+				
+		},
+		
+		{
+			"type": "summary",
+			"name": "Summary"
+		}
+	
+	]
+}

@@ -1,0 +1,1045 @@
+{
+	"title": " ",
+	"activities": [
+		{
+			"type": "video",
+			"name": "Management Functions Overview",
+			"video": {
+				"url": "lessons/shared/videos/ManagementFunctionsOverview_v4.mp4"
+			},
+
+				"cuepoints": [
+
+				{
+					"videoControl" : {
+						"time": "0",
+						"play": true
+					},
+					"caption": "So, let's look at each of the main Home screen menu options.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/management-functions.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reports-menu.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-functions.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-pack-movement.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+						
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "4.313437",
+						"play": true
+					},
+					"caption": "Let's look at Instant Ticket Management.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/itim.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "6.318541",
+						"play": true
+					},
+					"caption": "I'll touch Instant Ticket Management",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/itim.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 262,
+							"top": 225,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "8.654666",
+						"play": true
+					},
+					"caption": "and the Instant Ticket Management screen displays.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "11.481833",
+						"play": true
+					},
+					"caption": "Here you can access functions for loading and unloading bins and forwarding tickets out of a burster in case of a jam.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scratchmgmt.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "19.674291",
+						"play": true
+					},
+					"caption": "Additionally you can view bin inventory and Scratch Ticket parameters.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scratchmgmt.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "23.772541",
+						"play": true
+					},
+					"caption": "We'll cover these in detail later in this course."
+				},
+				{
+
+					"videoControl" : {
+						"time": "26.452729",
+						"play": true
+					},
+					"caption": "You can return to the Home screen at any time by touching the Home icon.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homebutton.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "31.270937",
+						"play": true
+					},
+					"caption": "I'll touch Home.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homebutton.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 173,
+							"top": 82,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "32.702041",
+						"play": true
+					},
+					"caption": "Reprints allows you to reprint the Last Transaction, Last Wager and Last Shift Report.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen_reprints.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "40.198458",
+						"play": true
+					},
+					"caption": "Let's look at Management Functions.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/mgmtfunctions.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 262,
+							"top": 279,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "42.534562",
+						"play": true
+					},
+					"caption": "This menu provides you with access to managerial functions available on the terminal.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/management-functions.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "46.633854",
+						"play": true
+					},
+					"caption": "These include controls to reboot the terminal,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/management-functions.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reboot.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "49.338958",
+						"play": true
+					},
+					"caption": "check Device Status, ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/management-functions.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/devicestatus.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "51.018062",
+						"play": true
+					},
+					"caption": "and view journals which include the System Event Log, Cash Log and Security Log, ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/management-functions.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/journals.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "57.242458",
+						"play": true
+					},
+					"caption": "and view Video Help for several terminal functions.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/management-functions.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/videohelp.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "61.255645",
+						"play": true
+					},
+					"caption": "Now, let's return to the Home screen.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/management-functions.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/home_button_mfmenu.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 175,
+							"top": 84,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "63.91977",
+						"play": true
+					},
+					"caption": "The Device Tests option provides access to tests for the Bill Acceptor, Barcode Reader, Printer and Burster.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/devicetests.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "71.545229",
+						"play": true
+					},
+					"caption": "Next is Reports.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen_reports.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "73.430354",
+						"play": true
+					},
+					"caption": "Touching this button ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen_reports.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 252,
+							"top": 342,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "74.783416",
+						"play": true
+					},
+					"caption": "displays the Reports menu.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reports-menu.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "76.135458",
+						"play": true
+					},
+					"caption": "All of the reports are now located here in one single Reports menu. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reports-menu.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "80.599729",
+						"play": true
+					},
+					"caption": "I'll touch Home again.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reports-menu.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homebutton.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 172,
+							"top": 77,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "82.441812",
+						"play": true
+					},
+					"caption": "And we'll look at the last option on the Home screen, Instant Functions.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "86.294062",
+						"play": true
+					},
+					"caption": "I'll touch Instant Functions ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instantfunctions.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 472,
+							"top": 344,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "88.385166",
+						"play": true
+					},
+					"caption": "and the menu displays options for Instant Pack Movement.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-functions.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "92.028375",
+						"play": true
+					},
+					"caption": "The Instant Pack Movement option is where all of your pack management data is located.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-functions.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/packmovement.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "96.857666",
+						"play": true
+					},
+					"caption": "I'll touch Instant Pack Movement ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-functions.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/packmovement.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 273,
+							"top": 242,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "99.02775",
+						"play": true
+					},
+					"caption": "and the menu displays functions used for confirming Scratcher game deliveries and activating packs of tickets.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-pack-movement.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "105.132145",
+						"play": true
+					},
+					"caption": "The steps for performing these functions are the same as performing them on your Altura Flex terminal.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-pack-movement.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "110.129375",
+						"play": true
+					},
+					"caption": "Going back to the Home screen, ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-pack-movement.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homebutton.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 173,
+							"top": 82,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "111.93152",
+						"play": true
+					},
+					"caption": "let me point out these buttons that appear on all menu screens.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/settingbuttons.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "115.207708",
+						"play": true
+					},
+					"caption": "The first is the Settings button which accesses the Manager Functions menu.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homesettings.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "119.098916",
+						"play": true
+					},
+					"caption": "Next is the Help button. Touch Help on any screen to view help information related to the screen.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homehelp.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "125.32327",
+						"play": true
+					},
+					"caption": "Finally is the Sign Off button, used to sign out of Manager functions.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homesignoff.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "129.94952",
+						"play": true
+					},
+					"caption": "And that's an overview of the Manager functions available from the Gemini Touch Home screen."
+				},
+				{
+
+					"videoControl" : {
+						"time": "134.45377",
+						"play": true
+					},
+					"caption": "Let's continue!"
+				}
+	]
+},
+				{
+
+					"type": "summary",
+					"name": "Summary",
+
+					"isOptional": true
+
+				}
+]
+}

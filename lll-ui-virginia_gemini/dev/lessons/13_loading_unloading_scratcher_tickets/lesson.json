@@ -1,0 +1,1058 @@
+{
+	"title": " ",
+	"activities": [
+		{
+			"type": "video",
+			"name": "Loading and Unloading Scratcher Tickets",
+			"video": {
+				"url": "lessons/shared/videos/LoadingandUnloadingScratcherTickets_v3.mp4"
+			},
+
+				"cuepoints": [
+
+				{
+					"videoControl" : {
+						"time": "0",
+						"play": true
+					},
+					"caption": "Now I'm going to show you how to load Scratcher tickets into Gemini Touch bins.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/va-logo-screen-exercise.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9990,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9990,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9990,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-zero.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9990,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan_that_ticket_pack.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9990,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-first-submit.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9990,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-last-full-pack.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9990,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-last-ticket.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9990,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/load-confirm.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9990,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/parameters.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+                        {
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-bin4.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-zero.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-last-ticket.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/parameters.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/gemini-front.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/gemini_scan_first_ticket.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10-inch-scratcher.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/unload-confirm.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+						]
+				},
+				{
+
+					"videoControl" : {
+						"time": "4.7885",
+						"play": true
+					},
+					"caption": "To begin, from the Home screen I'll touch Instant Ticket Management.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scratch-functions.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 267,
+							"top": 225,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "9.578791",
+						"play": true
+					},
+					"caption": "From here you may either scan the Load barcode on the bin you want to load",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "13.835041",
+						"play": true
+					},
+					"caption": "or touch the Bin number on the screen to select it,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/bin4.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 569,
+							"top": 149,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "17.154187",
+						"play": true
+					},
+					"caption": "and touch Load Tickets.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-bin4.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/loadtickets.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 199,
+							"top": 296,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "19.118312",
+						"play": true
+					},
+					"caption": "When loading a full pack of tickets, you can scan any barcode on the back of the tickets,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/gemini_scan_first_ticket.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+                {
+
+					"videoControl" : {
+						"time": "24.156604",
+						"play": true
+					},
+					"caption": "touch SUBMIT,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-first-submit.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-first-submit-btn.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 309,
+							"top": 244,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+                {
+
+					"videoControl" : {
+						"time": "25.590666",
+						"play": true
+					},
+					"caption": "FULL PACK,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-last-full-pack.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-last-full-pack-btn.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 264,
+							"top": 288,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+                {
+
+					"videoControl" : {
+						"time": "26.82175",
+						"play": true
+					},
+					"caption": "and SUBMIT again.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-last-ticket.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-last-ticket-btn.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 307,
+							"top": 246,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+                {
+
+					"videoControl" : {
+						"time": "28.949875",
+						"play": true
+					},
+					"caption": "A Load Successful message will display and you select OK.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/load-confirm.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/load-confirm-btn.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 377,
+							"top": 270,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "33.497125",
+						"play": true
+					},
+					"caption": "The Gemini Touch will recognize that it is a full pack of tickets and all of its game parameters like the ticket price, length and quantity will automatically populate in the machine.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/parameters.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "44.43375",
+						"play": true
+					},
+					"caption": "There is no longer the need to manually enter the parameters for a new pack of tickets.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/parameters.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "48.980979",
+						"play": true
+					},
+					"caption": "Additionally, the artwork for the game will display on the front of the Gemini Touch in the bin that you selected.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/gemini-front.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "55.537375",
+						"play": true
+					},
+					"caption": "When a partial pack of tickets is loaded, all you need to do is scan the barcode of the first ticket,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/gemini_scan_first_ticket.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+                {
+
+					"videoControl" : {
+						"time": "61.062666",
+						"play": true
+					},
+					"caption": "and touch SUBMIT.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-first-submit.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-first-submit-btn.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 307,
+							"top": 245,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+                {
+
+					"videoControl" : {
+						"time": "62.53675",
+						"play": true
+					},
+					"caption": "Then scan the barcode of the last ticket",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-last-full-pack.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+                {
+
+					"videoControl" : {
+						"time": "65.897937",
+						"play": true
+					},
+					"caption": "and touch SUBMIT.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-last-ticket.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-last-ticket-btn.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 307,
+							"top": 245,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},	
+                {
+
+					"videoControl" : {
+						"time": "67.414041",
+						"play": true
+					},
+					"caption": "Again, a Load Successful message will display and select OK.",
+                    "overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/load-confirm.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/load-confirm-btn.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 377,
+							"top": 270,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "73.188375",
+						"play": true
+					},
+					"caption": "Now, open the tray that you wish to load tickets into by pushing this green lever towards the bin "
+				},
+				{
+
+					"videoControl" : {
+						"time": "79.537729",
+						"play": true
+					},
+					"caption": "and pulling the tray towards you."
+				},
+				{
+
+					"videoControl" : {
+						"time": "81.548854",
+						"play": true
+					},
+					"caption": "Now insert the pack into the desired bin and guide the first ticket's edge "
+				},
+				{
+
+					"videoControl" : {
+						"time": "86.949145",
+						"play": true
+					},
+					"caption": "until it firmly touches the black rubber feed rollers."
+				},
+				{
+
+					"videoControl" : {
+						"time": "89.856291",
+						"play": true
+					},
+					"caption": "Doing so activates the ticket sensor switch and the tickets load automatically."
+				},
+				{
+
+					"videoControl" : {
+						"time": "95.00",
+						"play": true
+					},
+					"caption": "To avoid ticket jams, do not load tickets over 10\" long into the lowest ticket trays - Bins 25 through 28. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10-inch-scratcher.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "102.964041",
+						"play": true
+					},
+					"caption": "Now your tickets are loaded and you are ready to sell."
+				},
+				{
+
+					"videoControl" : {
+						"time": "105.874208",
+						"play": true
+					},
+					"caption": "Now to Unload tickets."
+				},
+				{
+
+					"videoControl" : {
+						"time": "108.453354",
+						"play": true
+					},
+					"caption": "Unloading is even easier!"
+				},
+				{
+
+					"videoControl" : {
+						"time": "110.543479",
+						"play": true
+					},
+					"caption": "We'll start here at the Instant Ticket Management screen.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "114.189687",
+						"play": true
+					},
+					"caption": "From here you may either scan the Unload barcode on the bin you want to unload and the inventory unloads from the bin",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "121.154062",
+						"play": true
+					},
+					"caption": "or touch the Bin number on the screen to select it,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-bin4.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/bin4.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 569,
+							"top": 149,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "124.55725",
+						"play": true
+					},
+					"caption": "and touch Unload Bin",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-bin4.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/unload-bin.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 264,
+							"top": 297,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "126.605375",
+						"play": true
+					},
+					"caption": "then touch OK to confirm.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/unload-confirm.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/confirm-button.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 376,
+							"top": 274,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "128.9825",
+						"play": true
+					},
+					"caption": "This will zero all of the inventory in that bin and let you reload it by scanning the first and last tickets in the pack.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-zero.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "136.192916",
+						"play": true
+					},
+					"caption": "Before we leave this screen let me show you a function that you may find helpful when you need to adjust your physical inventory either when loading or when clearing a jam:",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-zero.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "146.186479",
+						"play": true
+					},
+					"caption": "Forward Tickets.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-zero.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/forward-tickets.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "147.701666",
+						"play": true
+					},
+					"caption": "Should you need to adjust a ticket in a burster use this button to move the tickets forward.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-tkt-mgmt-zero.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/forward-tickets.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "152.578833",
+						"play": true
+					},
+					"caption": "On this same note, never pull tickets from bursters, that could cause damage to the burster itself or the tickets."
+				},
+				{
+
+					"videoControl" : {
+						"time": "159.65925",
+						"play": true
+					},
+					"caption": "Ok, let's keep going."
+				}
+	]
+},
+				{
+
+					"type": "summary",
+					"name": "Summary",
+
+					"isOptional": true
+
+				}
+]
+}

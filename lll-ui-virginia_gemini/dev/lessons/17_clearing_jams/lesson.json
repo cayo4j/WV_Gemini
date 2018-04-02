@@ -1,0 +1,277 @@
+{
+	"title": " ",
+	"activities": [
+		{
+			"type": "video",
+			"name": "Clearing Jams in the Bill Acceptor",
+			"video": {
+				"url": "lessons/shared/videos/ClearningJams_1.mp4"
+			},
+
+				"cuepoints": [
+
+				{
+					"videoControl" : {
+						"time": "0",
+						"play": true
+					},
+					"caption": "Now I'll walk you through clearing a jam in the Bill Acceptor.",
+					"overlays": [
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/test-bill-acceptor.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/device-tests.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/test-ba-confirm.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "3.352",
+						"play": true
+					},
+					"caption": "Use the Bill Acceptor key to open the Bill Acceptor door"
+				},
+				{
+
+					"videoControl" : {
+						"time": "6.743",
+						"play": true
+					},
+					"caption": "and gently tilt the assembly down."
+				},
+				{
+
+					"videoControl" : {
+						"time": "9.034",
+						"play": true
+					},
+					"caption": "Remove the Bill Acceptor by pushing up the silver latching bar"
+				},
+				{
+
+					"videoControl" : {
+						"time": "12.5",
+						"play": true
+					},
+					"caption": "and pulling straight out."
+				},
+				{
+
+					"videoControl" : {
+						"time": "14.425",
+						"play": true
+					},
+					"caption": "Gently lift the read head from the Bill Acceptor"
+				},
+				{
+
+					"videoControl" : {
+						"time": "16.919",
+						"play": true
+					},
+					"caption": "and clear the jammed bills."
+				},
+				{
+
+					"videoControl" : {
+						"time": "19.219",
+						"play": true
+					},
+					"caption": "After the Bill Acceptor has been cleared, gently slide it back into its locked position."
+				},
+				{
+
+					"videoControl" : {
+						"time": "24.052",
+						"play": true
+					},
+					"caption": "If the Bill Acceptor is put into its proper position, it will reset after 10 seconds."
+				},
+				{
+
+					"videoControl" : {
+						"time": "29.123",
+						"play": true
+					},
+					"caption": "Now run a Bill Acceptor Test.  "
+				},
+				{
+
+					"videoControl" : {
+						"time": "31.223",
+						"play": true
+					},
+					"caption": "From the Manager Functions menu, touch Device Tests",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/device-test.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 484,
+							"top": 280,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "35.000",
+						"play": true
+					},
+					"caption": "and touch Test Bill Acceptor.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/device-tests.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/billaccept.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 214,
+							"top": 254,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "37.100",
+						"play": true
+					},
+					"caption": "The Test Bill Acceptor screen displays.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/test-bill-acceptor.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "40.055",
+						"play": true
+					},
+					"caption": "Insert a bill into the acceptor "
+				},
+				{
+
+					"videoControl" : {
+						"time": "42.00",
+						"play": true
+					},
+					"caption": "and verify that the acceptor properly recognizes the bill inserted.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/test-ba-confirm.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "46.298",
+						"play": true
+					},
+					"caption": "You should run a Bill Acceptor Test every time you clear a jam.  "
+				},
+				{
+
+					"videoControl" : {
+						"time": "50.197",
+						"play": true
+					},
+					"caption": "That's it!  You've cleared a Bill Acceptor jam!"
+				}
+	]
+},
+				{
+
+					"type": "summary",
+					"name": "Summary",
+
+					"isOptional": true
+
+				}
+]
+}
