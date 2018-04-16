@@ -1,0 +1,307 @@
+{
+	"title": " ",
+	"activities": [{
+		"type": "video",
+		"name": "Introduction to the Gemini Touch",
+		"video": {
+			"url": "lessons/shared/videos/1920_1080_test.mp4"
+		},
+		"cuepoints": [{
+			"videoControl": {
+				"time": "0",
+				"play": true
+			},
+			"caption": "Welcome to the Virginia Lottery Learning Link web-based retailer training!",
+			"overlays": [{
+				"left": -9999,
+				"top": 0,
+				"image": {
+					"url": "lessons/shared/images/homescreen.jpg",
+					"width": 800,
+					"height": 450
+				}
+				},
+				{
+				"left": -9999,
+				"top": 0,
+				"image": {
+					"url": "lessons/shared/images/gemini-dimensions.jpg",
+					"width": 800,
+					"height": 450
+				}
+				},
+				{
+				"left": -9999,
+				"top": 0,
+				"image": {
+					"url": "lessons/shared/images/gemini-front.jpg",
+					"width": 800,
+					"height": 450
+				}
+				},
+				{
+				"left": -9999,
+				"top": 0,
+				"image": {
+					"url": "lessons/shared/images/scratch-draw-icons.jpg",
+					"width": 800,
+					"height": 450
+				}
+				},
+				{
+				"left": -9999,
+				"top": 0,
+				"image": {
+					"url": "lessons/shared/images/barcode-scanner.jpg",
+					"width": 800,
+					"height": 450
+				}
+				}
+			]
+		},
+		{
+			"videoControl": {
+				"time": "3.975",
+				"play": true
+			},
+			"caption": "In this course, you will learn about the latest and greatest in self-service lottery technology, the Gemini Touch terminal.",
+			"overlays": [{
+				"left": 15,
+				"top": 15,
+				"label": "Gemini Touch Self-Service Lottery Terminal",
+				"blink": "none"
+			}]
+		},
+		{
+			"videoControl": {
+				"time": "10.491",
+				"play": true
+			},
+			"caption": "We are going to begin by discussing the hardware components of your new terminal,"
+		},
+		{
+			"videoControl": {
+				"time": "14.053",
+				"play": true
+			},
+			"caption": "including the built-in Touch Screen display."
+		},
+		{
+			"videoControl": {
+				"time": "16.49",
+				"play": true
+			},
+			"caption": "Then we'll move on to the Retailer Home screen, loading and unloading Scratcher tickets as well as maintaining the terminal in your store.",
+			"overlays": [{
+				"left": 0,
+				"top": 0,
+				"image": {
+					"url": "lessons/shared/images/homescreen.jpg",
+					"width": 800,
+					"height": 450
+				}
+			}]
+		},
+		{
+			"videoControl": {
+				"time": "25.122",
+				"play": true
+			},
+			"caption": "First, let's talk about the benefits of the new Gemini Touch.  "
+		},
+		{
+			"videoControl": {
+				"time": "29.018",
+				"play": true
+			},
+			"caption": "The size and weight of the terminal provide high security for money and tickets. ",
+			"overlays": [{
+				"left": 0,
+				"top": 0,
+				"image": {
+					"url": "lessons/shared/images/gemini-dimensions.jpg",
+					"width": 800,
+					"height": 450
+				}
+			}]
+		},
+		{
+			"videoControl": {
+				"time": "33.973",
+				"play": true
+			},
+			"caption": "For security purposes, an alarm will notify you of any access to the terminal."
+		},
+		{
+			"videoControl": {
+				"time": "38.92",
+				"play": true
+			},
+			"caption": "The internal Cash Box is also protected by a separate lock and key.  "
+		},
+		{
+			"videoControl": {
+				"time": "43.746",
+				"play": true
+			},
+			"caption": "The new touch-enabled Player Display, supports a 42\" diagonal wide high definition Touch Screen.",
+			"overlays": [{
+				"left": 0,
+				"top": 0,
+				"image": {
+					"url": "lessons/shared/images/gemini-front.jpg",
+					"width": 800,
+					"height": 450
+				}
+			}]
+		},
+		{
+			"videoControl": {
+				"time": "50.02",
+				"play": true
+			},
+			"caption": "It features technology that presents colorful, eye-catching graphics to capture the attention of your players. ",
+			"overlays": [{
+				"left": 0,
+				"top": 0,
+				"image": {
+					"url": "lessons/shared/images/gemini-front.jpg",
+					"width": 800,
+					"height": 450
+				}
+			},
+			{
+				"left": 50,
+				"top": 50,
+				"label": "SAW Technology",
+				"blink": "none"
+			}]
+		},
+		{
+			"videoControl": {
+				"time": "56.178",
+				"play": true
+			},
+			"caption": "Customers can purchase both Scratcher and Draw games without assistance which means less people tying up lines at the counter.",
+			"overlays": [{
+				"left": 0,
+				"top": 0,
+				"image": {
+					"url": "lessons/shared/images/gemini-front.jpg",
+					"width": 800,
+					"height": 450
+				}
+			}]
+		},
+		{
+			"videoControl": {
+				"time": "64.125",
+				"play": true
+			},
+			"caption": "When a game icon is selected ",
+			"overlays": [{
+				"left": 0,
+				"top": 0,
+				"image": {
+					"url": "lessons/shared/images/scratch-draw-icons.jpg",
+					"width": 800,
+					"height": 450
+				}
+			},
+			{
+				"left": 50,
+				"top": 50,
+				"label": "Scratch Games AND Draw Games",
+				"blink": "none"
+			}]
+		},
+		{
+			"videoControl": {
+				"time": "66.041",
+				"play": true
+			},
+			"caption": "the Touch Screen displays the cost for each play, ",
+			"overlays": [
+			{
+				"left": 50,
+				"top": 15,
+				"label": "Scratch Games AND Draw Games",
+				"blink": "none"
+			}]
+		},
+		{
+			"videoControl": {
+				"time": "69.125",
+				"play": true
+			},
+			"caption": "allowing your customers to quickly and easily know the prices of the tickets in the bins.",
+			"overlays": [
+			{
+				"left": 50,
+				"top": 15,
+				"label": "Scratch Games AND Draw Games",
+				"blink": "none"
+			}]
+		},
+		{
+			"videoControl": {
+				"time": "74.292",
+				"play": true
+			},
+			"caption": "The terminal also features a Ticket Scan Plus function that allows players to scan Scratcher and Draw Game ticket barcodes to see if it is a winner.",
+			"overlays": [{
+				"left": 0,
+				"top": 0,
+				"image": {
+					"url": "lessons/shared/images/barcode-scanner.jpg",
+					"width": 800,
+					"height": 450
+				}
+			},
+			{
+				"left": 50,
+				"top": 50,
+				"label": "Ticket Scan Plus",
+				"blink": "none"
+			}]
+		},
+		{
+			"videoControl": {
+				"time": "83.148",
+				"play": true
+			},
+			"caption": "When players win, they can choose to receive credits for their winnings up to $200 that can be used to purchase additional tickets from the Gemini Touch.",
+			"overlays": [{
+				"left": 50,
+				"top": 50,
+				"label": "Players Can Reinvest Up to $200.00 of Winnings for Credits",
+				"blink": "none"
+			}]
+		},
+		{
+			"videoControl": {
+				"time": "92.141",
+				"play": true
+			},
+			"caption": "To use this option, all credits must be used.",
+			"overlays": [{
+				"left": 50,
+				"top": 50,
+				"label": "All Credits Must Be Used",
+				"blink": "none"
+			}]
+		},
+		{
+			"videoControl": {
+				"time": "95.701",
+				"play": true
+			},
+			"caption": "Let's move on and look closer at the terminal hardware."
+		}]
+	},
+	{
+		"type": "summary",
+		"name": "Summary",
+		"isOptional": true
+	}]
+}
