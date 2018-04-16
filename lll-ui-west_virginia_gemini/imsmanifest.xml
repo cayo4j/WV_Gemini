@@ -8,10 +8,10 @@
 </metadata>
  <organizations default="ORG1">
     <organization identifier="ORG1" structure="hierarchical" adlseq:objectivesGlobalToSystem="false" adlcp:sharedDataGlobalToSystem="false">
-      <title>PLACE COURSE NAME HERE</title>
+      <title>West Virginia Gemini Touch</title>
   
         <item identifier="sco1" identifierref="sco1_resources" isvisible="true">
-          <title>LESSON NAME</title>
+          <title>Introduction</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <!-- Added data buckets to every SCO after evaluating the requirements according the to the texas SPEC -->
@@ -44,7 +44,7 @@
         </item>
 
         <item identifier="sco2" identifierref="sco2_resources" isvisible="true">
-          <title>LESSON NAME</title>
+          <title>Introduction Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -85,7 +85,7 @@
         </item>
 
         <item identifier="sco3" identifierref="sco3_resources" isvisible="true">
-          <title>LESSON NAME</title>
+          <title>External Hardware</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -125,7 +125,7 @@
 		
 		
         <item identifier="sco4" identifierref="sco4_resources" isvisible="true">
-          <title>LESSON NAME</title>
+          <title>External Hardware Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -165,7 +165,7 @@
 		
 		
         <item identifier="sco5" identifierref="sco5_resources" isvisible="true">
-          <title>LESSON NAME</title>
+          <title>Internal Hardware</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -204,7 +204,7 @@
         </item>		
 		
         <item identifier="sco6" identifierref="sco6_resources" isvisible="true">
-          <title>LESSON NAME</title>
+          <title>Internal Hardware Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -243,7 +243,7 @@
         </item>		
 		
         <item identifier="sco7" identifierref="sco7_resources" isvisible="true">
-          <title>LESSON NAME</title>
+          <title>Placing Wagers Using the Gemini Touch</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -282,7 +282,7 @@
         </item>	
 		
         <item identifier="sco8" identifierref="sco8_resources" isvisible="true">
-          <title>LESSON NAME</title>
+          <title>Placing Wagers Using the Gemini Touch - Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -322,7 +322,7 @@
 
 		
         <item identifier="sco9" identifierref="sco9_resources" isvisible="true">
-          <title>LESSON NAME</title>
+          <title>Accessing Retailer Management Functions</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -362,7 +362,7 @@
 
 		
         <item identifier="sco010" identifierref="sco010_resources" isvisible="true">
-          <title>LESSON NAME</title>
+          <title>Accessing Retailer Management Functions - Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -402,7 +402,7 @@
 		
 		
         <item identifier="sco011" identifierref="sco011_resources" isvisible="true">
-          <title>LESSON NAME</title>
+          <title>Management Functions</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -442,7 +442,7 @@
 
 		
         <item identifier="sco012" identifierref="sco012_resources" isvisible="true">
-          <title>LESSON NAME</title>
+          <title>Management Functions - Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -482,7 +482,7 @@
 
 		
         <item identifier="sco013" identifierref="sco013_resources" isvisible="true">
-          <title>LESSON NAME</title>
+          <title>Loading and Unloading Scratcher Tickets</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -522,7 +522,7 @@
 		
 		
         <item identifier="sco014" identifierref="sco014_resources" isvisible="true">
-          <title>LESSON NAME</title>
+          <title>Loading and Unloading Scratcher Tickets - Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -562,7 +562,7 @@
 		
 		
         <item identifier="sco015" identifierref="sco015_resources" isvisible="true">
-          <title>LESSON NAME</title>
+          <title>Removing Money from the Cash Box</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -602,7 +602,7 @@
 				
 		
         <item identifier="sco016" identifierref="sco016_resources" isvisible="true">
-          <title>LESSON NAME</title>
+          <title>Terminal Maintenance</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -642,7 +642,7 @@
 		
 		
         <item identifier="sco017" identifierref="sco017_resources" isvisible="true">
-          <title>LESSON NAME</title>
+          <title>Clearing Jams</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -682,7 +682,7 @@
 
 		
         <item identifier="sco018" identifierref="sco018_resources" isvisible="true">
-          <title>LESSON NAME</title>
+          <title>Clea</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -722,7 +722,7 @@
 		
 		
         <item identifier="sco019" identifierref="sco019_resources" isvisible="true">
-          <title>LESSON NAME</title>
+          <title>Assessment</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -762,7 +762,7 @@
 		
 		
         <item identifier="sco020" identifierref="sco020_resources" isvisible="true">
-          <title>LESSON NAME</title>
+          <title>Course End</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -804,7 +804,7 @@
 
 		
         <item identifier="assessment" identifierref="assessment_resources" isvisible="true">
-          <title>LESSON NAME</title>
+          <title>Final Assessment</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
