@@ -4,7 +4,7 @@
 		"type": "video",
 		"name": "Introduction to the Gemini Touch",
 		"video": {
-			"url": "lessons/shared/videos/1920_1080_test.mp4"
+			"url": "lessons/shared/videos/some_video.mp4"
 		},
 		"cuepoints": [{
 			"videoControl": {
