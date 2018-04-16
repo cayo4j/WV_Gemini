@@ -8,10 +8,10 @@
 </metadata>
  <organizations default="ORG1">
     <organization identifier="ORG1" structure="hierarchical" adlseq:objectivesGlobalToSystem="false" adlcp:sharedDataGlobalToSystem="false">
-      <title>Your New Gemini Touch Self Service Lottery Terminal</title>
+      <title>PLACE COURSE NAME HERE</title>
   
-        <item identifier="introduction" identifierref="introduction_resources" isvisible="true">
-          <title>Introduction</title>
+        <item identifier="sco1" identifierref="sco1_resources" isvisible="true">
+          <title>LESSON NAME</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <!-- Added data buckets to every SCO after evaluating the requirements according the to the texas SPEC -->
@@ -23,7 +23,7 @@
           <adlcp:completionThreshold progressWeight=".0277" />
           <imsss:sequencing IDRef="common_seq_rules">
             <imsss:objectives>
-              <imsss:primaryObjective objectiveID="introduction_resources">
+              <imsss:primaryObjective objectiveID="sco1_resources">
                 <!-- Do not map imsss objectives global objectives, the adlseq are the objectives you can set with javascript -->
                 <!-- Putting satisfiedByMeasure = true means there's NO other way to complete the activity objectives with JS ...-->
                 <!-- you become beholden to the LMS to manage completion overriding the adlcp mappings after termination-->
@@ -33,18 +33,18 @@
               </imsss:primaryObjective>
             </imsss:objectives>
             <adlseq:objectives>
-              <adlseq:objective objectiveID="introduction_resources">
+              <adlseq:objective objectiveID="sco1_resources">
                 <!-- By sharing the id with the mapped global objective and the primary objective, this wont cause conflictions and confusion -->
                 <!-- adlseq objectives are the ones you get with cmi.objectives.n.* -->
                 <!-- This will be completed with javascript -->
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.introduction_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco1_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>
         </item>
 
-        <item identifier="intro_exercise" identifierref="intro_exercise_resources" isvisible="true">
-          <title>Introduction - Exercise</title>
+        <item identifier="sco2" identifierref="sco2_resources" isvisible="true">
+          <title>LESSON NAME</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -58,32 +58,34 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+				<!-- COMMENT OUT THE FOLLOWING RULEACTION:DISABLED IN ORDER TO ACTIVATE CHOICE NAVIGATION -->
+                <imsss:ruleAction action="disabled" /> <!-- LEAVING THIS DISABLED MEANS FORCED NAV - THERE ARE TWO IN EACH LESSON -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+				<!-- COMMENT OUT THE FOLLOWING RULEACTION:DISABLED IN ORDER TO ACTIVATE CHOICE NAVIGATION -->
+                <imsss:ruleAction action="disabled" /><!-- LEAVING THIS DISABLED MEANS FORCED NAV - THERE ARE TWO IN EACH LESSON -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
-              <imsss:primaryObjective objectiveID="intro_exercise_complete" />
+              <imsss:primaryObjective objectiveID="sco2_complete" />
               <imsss:objective objectiveID="previous_sco_complete" />
             </imsss:objectives>
             <adlseq:objectives>
-              <adlseq:objective objectiveID="intro_exercise_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.intro_exercise_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              <adlseq:objective objectiveID="sco2_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco2_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
               <adlseq:objective objectiveID="previous_sco_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.introduction_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco1_complete" readCompletionStatus="true" writeCompletionStatus="false" />
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>
         </item>
 
-        <item identifier="external_hdw" identifierref="external_hdw_resources" isvisible="true">
-          <title>External Hardware</title>
+        <item identifier="sco3" identifierref="sco3_resources" isvisible="true">
+          <title>LESSON NAME</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -97,33 +99,33 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
-              <imsss:primaryObjective objectiveID="external_hdw_complete" />
+              <imsss:primaryObjective objectiveID="sco3_complete" />
               <imsss:objective objectiveID="previous_sco_complete" />
             </imsss:objectives>
             <adlseq:objectives>
-              <adlseq:objective objectiveID="external_hdw_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.external_hdw_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              <adlseq:objective objectiveID="sco3_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco3_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
               <adlseq:objective objectiveID="previous_sco_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.intro_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco2_complete" readCompletionStatus="true" writeCompletionStatus="false" />
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>
         </item>
 		
 		
-        <item identifier="external_hdw_exercise" identifierref="external_hdw_exercise_resources" isvisible="true">
-          <title>External Hardware - Exercise</title>
+        <item identifier="sco4" identifierref="sco4_resources" isvisible="true">
+          <title>LESSON NAME</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -137,33 +139,33 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
-              <imsss:primaryObjective objectiveID="external_hdw_exercise_complete" />
+              <imsss:primaryObjective objectiveID="sco4_complete" />
               <imsss:objective objectiveID="previous_sco_complete" />
             </imsss:objectives>
             <adlseq:objectives>
-              <adlseq:objective objectiveID="external_hdw_exercise_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.external_hdw_exercise_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              <adlseq:objective objectiveID="sco4_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco4_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
               <adlseq:objective objectiveID="previous_sco_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.external_hdw_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco3_complete" readCompletionStatus="true" writeCompletionStatus="false" />
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>
         </item>		
 		
 		
-        <item identifier="internal" identifierref="internal_resources" isvisible="true">
-          <title>Internal Hardware</title>
+        <item identifier="sco5" identifierref="sco5_resources" isvisible="true">
+          <title>LESSON NAME</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -177,32 +179,32 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
-              <imsss:primaryObjective objectiveID="internal_complete" />
+              <imsss:primaryObjective objectiveID="sco5_complete" />
               <imsss:objective objectiveID="previous_sco_complete" />
             </imsss:objectives>
             <adlseq:objectives>
-              <adlseq:objective objectiveID="internal_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.internal_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              <adlseq:objective objectiveID="sco5_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco5_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
               <adlseq:objective objectiveID="previous_sco_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.external_hdw_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco4_complete" readCompletionStatus="true" writeCompletionStatus="false" />
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>
         </item>		
 		
-        <item identifier="internal_exercise" identifierref="internal_exercise_resources" isvisible="true">
-          <title>Internal Hardware - Exercise</title>
+        <item identifier="sco6" identifierref="sco6_resources" isvisible="true">
+          <title>LESSON NAME</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -216,32 +218,32 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
-              <imsss:primaryObjective objectiveID="internal_exercise_complete" />
+              <imsss:primaryObjective objectiveID="sco6_complete" />
               <imsss:objective objectiveID="previous_sco_complete" />
             </imsss:objectives>
             <adlseq:objectives>
-              <adlseq:objective objectiveID="internal_exercise_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.internal_exercise_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              <adlseq:objective objectiveID="sco6_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco6_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
               <adlseq:objective objectiveID="previous_sco_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.internal_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco5_complete" readCompletionStatus="true" writeCompletionStatus="false" />
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>
         </item>		
 		
-        <item identifier="placing_wagers" identifierref="placing_wagers_resources" isvisible="true">
-          <title>Placing Wagers Using the Gemini Touch</title>
+        <item identifier="sco7" identifierref="sco7_resources" isvisible="true">
+          <title>LESSON NAME</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -255,32 +257,32 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
-              <imsss:primaryObjective objectiveID="placing_wagers_complete" />
+              <imsss:primaryObjective objectiveID="sco7_complete" />
               <imsss:objective objectiveID="previous_sco_complete" />
             </imsss:objectives>
             <adlseq:objectives>
-              <adlseq:objective objectiveID="placing_wagers_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.placing_wagers_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              <adlseq:objective objectiveID="sco7_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco7_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
               <adlseq:objective objectiveID="previous_sco_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.internal_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco6_complete" readCompletionStatus="true" writeCompletionStatus="false" />
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>
         </item>	
 		
-        <item identifier="placing_wagers_exercise" identifierref="placing_wagers_exercise_resources" isvisible="true">
-          <title>Placing Wagers Using the Gemini Touch - Exercise</title>
+        <item identifier="sco8" identifierref="sco8_resources" isvisible="true">
+          <title>LESSON NAME</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -294,33 +296,33 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
-              <imsss:primaryObjective objectiveID="placing_wagers_exercise_complete" />
+              <imsss:primaryObjective objectiveID="sco8_complete" />
               <imsss:objective objectiveID="previous_sco_complete" />
             </imsss:objectives>
             <adlseq:objectives>
-              <adlseq:objective objectiveID="placing_wagers_exercise_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.placing_wagers_exercise_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              <adlseq:objective objectiveID="sco8_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco8_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
               <adlseq:objective objectiveID="previous_sco_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.placing_wagers_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco7_complete" readCompletionStatus="true" writeCompletionStatus="false" />
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>
         </item>
 
 		
-        <item identifier="accessing_functions" identifierref="accessing_functions_resources" isvisible="true">
-          <title>Accessing Retailer Management Functions</title>
+        <item identifier="sco9" identifierref="sco9_resources" isvisible="true">
+          <title>LESSON NAME</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -334,33 +336,33 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
-              <imsss:primaryObjective objectiveID="accessing_functions_complete" />
+              <imsss:primaryObjective objectiveID="sco9_complete" />
               <imsss:objective objectiveID="previous_sco_complete" />
             </imsss:objectives>
             <adlseq:objectives>
-              <adlseq:objective objectiveID="accessing_functions_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.accessing_functions_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              <adlseq:objective objectiveID="sco9_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco9_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
               <adlseq:objective objectiveID="previous_sco_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.placing_wagers_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco8_complete" readCompletionStatus="true" writeCompletionStatus="false" />
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>
         </item>
 
 		
-        <item identifier="accessing_functions_exercise" identifierref="accessing_functions_exercise_resources" isvisible="true">
-          <title>Accessing Retailer Management Functions - Exercise</title>
+        <item identifier="sco010" identifierref="sco010_resources" isvisible="true">
+          <title>LESSON NAME</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -374,33 +376,33 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
-              <imsss:primaryObjective objectiveID="accessing_functions_exercise_complete" />
+              <imsss:primaryObjective objectiveID="sco010_complete" />
               <imsss:objective objectiveID="previous_sco_complete" />
             </imsss:objectives>
             <adlseq:objectives>
-              <adlseq:objective objectiveID="accessing_functions_exercise_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.accessing_functions_exercise_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              <adlseq:objective objectiveID="sco010_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco010_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
               <adlseq:objective objectiveID="previous_sco_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.accessing_functions_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco9_complete" readCompletionStatus="true" writeCompletionStatus="false" />
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>
         </item>
 		
 		
-        <item identifier="management_functions" identifierref="management_functions_resources" isvisible="true">
-          <title>Management Functions Overview</title>
+        <item identifier="sco011" identifierref="sco011_resources" isvisible="true">
+          <title>LESSON NAME</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -414,73 +416,33 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
-              <imsss:primaryObjective objectiveID="management_functions_complete" />
+              <imsss:primaryObjective objectiveID="sco011_complete" />
               <imsss:objective objectiveID="previous_sco_complete" />
             </imsss:objectives>
             <adlseq:objectives>
-              <adlseq:objective objectiveID="management_functions_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.management_functions_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              <adlseq:objective objectiveID="sco011_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco011_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
               <adlseq:objective objectiveID="previous_sco_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.accessing_functions_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
-              </adlseq:objective>
-            </adlseq:objectives>
-          </imsss:sequencing>
-        </item>
-
-		
-        <item identifier="management_functions_exercise" identifierref="management_functions_exercise_resources" isvisible="true">
-          <title>Management Functions Overview - Exercise</title>
-          <adlcp:data>
-            <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
-            <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
-            <adlcp:map targetID="lll.sequencing.forcedsequential.courseCompleted" readSharedData="true" writeSharedData="true" />
-            <adlcp:map targetID="lll.sequencing.forcedsequential.lastVisitedSCO" readSharedData="true" writeSharedData="true" />
-          </adlcp:data>
-          <adlcp:completionThreshold progressWeight=".022" />
-          <imsss:sequencing IDRef="common_seq_rules">
-            <imsss:sequencingRules>
-              <imsss:preConditionRule>
-                <imsss:ruleConditions conditionCombination="any">
-                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
-                </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
-              </imsss:preConditionRule>
-              <imsss:preConditionRule>
-                <imsss:ruleConditions conditionCombination="any">
-                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
-                </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
-              </imsss:preConditionRule>
-            </imsss:sequencingRules>
-            <imsss:objectives>
-              <imsss:primaryObjective objectiveID="management_functions_exercise_complete" />
-              <imsss:objective objectiveID="previous_sco_complete" />
-            </imsss:objectives>
-            <adlseq:objectives>
-              <adlseq:objective objectiveID="management_functions_exercise_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.management_functions_exercise_complete" readCompletionStatus="true" writeCompletionStatus="true" />
-              </adlseq:objective>
-              <adlseq:objective objectiveID="previous_sco_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.management_functions_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco010_complete" readCompletionStatus="true" writeCompletionStatus="false" />
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>
         </item>
 
 		
-        <item identifier="loading_scratcher_tickets" identifierref="loading_scratcher_tickets_resources" isvisible="true">
-          <title>Loading and Unloading Scratcher Tickets</title>
+        <item identifier="sco012" identifierref="sco012_resources" isvisible="true">
+          <title>LESSON NAME</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -494,33 +456,73 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
-              <imsss:primaryObjective objectiveID="loading_scratcher_tickets_complete" />
+              <imsss:primaryObjective objectiveID="sco012_complete" />
               <imsss:objective objectiveID="previous_sco_complete" />
             </imsss:objectives>
             <adlseq:objectives>
-              <adlseq:objective objectiveID="loading_scratcher_tickets_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.loading_scratcher_tickets_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              <adlseq:objective objectiveID="sco012_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco012_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
               <adlseq:objective objectiveID="previous_sco_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.management_functions_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco011_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+              </adlseq:objective>
+            </adlseq:objectives>
+          </imsss:sequencing>
+        </item>
+
+		
+        <item identifier="sco013" identifierref="sco013_resources" isvisible="true">
+          <title>LESSON NAME</title>
+          <adlcp:data>
+            <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.courseCompleted" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.lastVisitedSCO" readSharedData="true" writeSharedData="true" />
+          </adlcp:data>
+          <adlcp:completionThreshold progressWeight=".022" />
+          <imsss:sequencing IDRef="common_seq_rules">
+            <imsss:sequencingRules>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+            </imsss:sequencingRules>
+            <imsss:objectives>
+              <imsss:primaryObjective objectiveID="sco013_complete" />
+              <imsss:objective objectiveID="previous_sco_complete" />
+            </imsss:objectives>
+            <adlseq:objectives>
+              <adlseq:objective objectiveID="sco013_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco013_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              </adlseq:objective>
+              <adlseq:objective objectiveID="previous_sco_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco012_complete" readCompletionStatus="true" writeCompletionStatus="false" />
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>
         </item>		
 		
 		
-        <item identifier="loading_scratcher_tickets_exercise" identifierref="loading_scratcher_tickets_exercise_resources" isvisible="true">
-          <title>Loading and Unloading Scratcher Tickets - Exercise</title>
+        <item identifier="sco014" identifierref="sco014_resources" isvisible="true">
+          <title>LESSON NAME</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -534,33 +536,33 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
-              <imsss:primaryObjective objectiveID="loading_scratcher_tickets_exercise_complete" />
+              <imsss:primaryObjective objectiveID="sco014_complete" />
               <imsss:objective objectiveID="previous_sco_complete" />
             </imsss:objectives>
             <adlseq:objectives>
-              <adlseq:objective objectiveID="loading_scratcher_tickets_exercise_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.loading_scratcher_tickets_exercise_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              <adlseq:objective objectiveID="sco014_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco014_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
               <adlseq:objective objectiveID="previous_sco_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.loading_scratcher_tickets_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco013_complete" readCompletionStatus="true" writeCompletionStatus="false" />
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>
         </item>			
 		
 		
-        <item identifier="removing_money_cash_box" identifierref="removing_money_cash_box_resources" isvisible="true">
-          <title>Removing Money from the Cash Box</title>
+        <item identifier="sco015" identifierref="sco015_resources" isvisible="true">
+          <title>LESSON NAME</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -574,33 +576,33 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
-              <imsss:primaryObjective objectiveID="removing_money_cash_box_complete" />
+              <imsss:primaryObjective objectiveID="sco015_complete" />
               <imsss:objective objectiveID="previous_sco_complete" />
             </imsss:objectives>
             <adlseq:objectives>
-              <adlseq:objective objectiveID="removing_money_cash_box_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.removing_money_cash_box_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              <adlseq:objective objectiveID="sco015_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco015_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
               <adlseq:objective objectiveID="previous_sco_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.loading_scratcher_tickets_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco014_complete" readCompletionStatus="true" writeCompletionStatus="false" />
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>
         </item>			
 				
 		
-        <item identifier="terminal_maintenance" identifierref="terminal_maintenance_resources" isvisible="true">
-          <title>Terminal Maintenance</title>
+        <item identifier="sco016" identifierref="sco016_resources" isvisible="true">
+          <title>LESSON NAME</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -614,33 +616,33 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
-              <imsss:primaryObjective objectiveID="terminal_maintenance_complete" />
+              <imsss:primaryObjective objectiveID="sco016_complete" />
               <imsss:objective objectiveID="previous_sco_complete" />
             </imsss:objectives>
             <adlseq:objectives>
-              <adlseq:objective objectiveID="terminal_maintenance_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.terminal_maintenance_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              <adlseq:objective objectiveID="sco016_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco016_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
               <adlseq:objective objectiveID="previous_sco_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.removing_money_cash_box_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco015_complete" readCompletionStatus="true" writeCompletionStatus="false" />
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>
         </item>					
 		
 		
-        <item identifier="clearing_jams" identifierref="clearing_jams_resources" isvisible="true">
-          <title>Clearing Jams</title>
+        <item identifier="sco017" identifierref="sco017_resources" isvisible="true">
+          <title>LESSON NAME</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -654,34 +656,33 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
-              <imsss:primaryObjective objectiveID="clearing_jams_complete" />
+              <imsss:primaryObjective objectiveID="sco017_complete" />
               <imsss:objective objectiveID="previous_sco_complete" />
             </imsss:objectives>
             <adlseq:objectives>
-              <adlseq:objective objectiveID="clearing_jams_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.clearing_jams_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              <adlseq:objective objectiveID="sco017_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco017_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
               <adlseq:objective objectiveID="previous_sco_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.terminal_maintenance_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco016_complete" readCompletionStatus="true" writeCompletionStatus="false" />
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>
         </item>	
+
 		
-		
-		
-        <item identifier="course_end" identifierref="course_end_resources" isvisible="true">
-          <title>Course End</title>
+        <item identifier="sco018" identifierref="sco018_resources" isvisible="true">
+          <title>LESSON NAME</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -695,35 +696,115 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
-              <imsss:primaryObjective objectiveID="course_end_complete" />
+              <imsss:primaryObjective objectiveID="sco018_complete" />
               <imsss:objective objectiveID="previous_sco_complete" />
             </imsss:objectives>
             <adlseq:objectives>
-              <adlseq:objective objectiveID="course_end_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.course_end_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              <adlseq:objective objectiveID="sco018_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco018_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
               <adlseq:objective objectiveID="previous_sco_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.clearing_jams_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco017_complete" readCompletionStatus="true" writeCompletionStatus="false" />
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>
         </item>			
 		
 		
+        <item identifier="sco019" identifierref="sco019_resources" isvisible="true">
+          <title>LESSON NAME</title>
+          <adlcp:data>
+            <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.courseCompleted" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.lastVisitedSCO" readSharedData="true" writeSharedData="true" />
+          </adlcp:data>
+          <adlcp:completionThreshold progressWeight=".022" />
+          <imsss:sequencing IDRef="common_seq_rules">
+            <imsss:sequencingRules>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+            </imsss:sequencingRules>
+            <imsss:objectives>
+              <imsss:primaryObjective objectiveID="sco019_complete" />
+              <imsss:objective objectiveID="previous_sco_complete" />
+            </imsss:objectives>
+            <adlseq:objectives>
+              <adlseq:objective objectiveID="sco019_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco019_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              </adlseq:objective>
+              <adlseq:objective objectiveID="previous_sco_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco018_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+              </adlseq:objective>
+            </adlseq:objectives>
+          </imsss:sequencing>
+        </item>			
+		
+		
+        <item identifier="sco020" identifierref="sco020_resources" isvisible="true">
+          <title>LESSON NAME</title>
+          <adlcp:data>
+            <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.courseCompleted" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.lastVisitedSCO" readSharedData="true" writeSharedData="true" />
+          </adlcp:data>
+          <adlcp:completionThreshold progressWeight=".022" />
+          <imsss:sequencing IDRef="common_seq_rules">
+            <imsss:sequencingRules>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+            </imsss:sequencingRules>
+            <imsss:objectives>
+              <imsss:primaryObjective objectiveID="sco020_complete" />
+              <imsss:objective objectiveID="previous_sco_complete" />
+            </imsss:objectives>
+            <adlseq:objectives>
+              <adlseq:objective objectiveID="sco020_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco020_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              </adlseq:objective>
+              <adlseq:objective objectiveID="previous_sco_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco019_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+              </adlseq:objective>
+            </adlseq:objectives>
+          </imsss:sequencing>
+        </item>			
+		
+<!-- additional lessons can go here.  The only important variables are the item identifier, for each lesson.-->		
 
 		
         <item identifier="assessment" identifierref="assessment_resources" isvisible="true">
-          <title>Assessment</title>
+          <title>LESSON NAME</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -738,7 +819,7 @@
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <!--<imsss:ruleAction action="disabled" />-->
+                <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
               <!-- IF SCO isn't Satisfied which is set using JS when the user completes the test ( ), then when continue is called the LMS -->
               <!-- will send them back to the assessment SCO as if they never took it, this keeps the Course status as "In Progress" -->
@@ -761,113 +842,116 @@
             </imsss:objectives>
             <adlseq:objectives>
               <adlseq:objective objectiveID="previous_sco_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.course_end_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sco020_complete" readCompletionStatus="true" writeCompletionStatus="false" />
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>       
         </item>
 
 <!-- choiceExit needs to be false to hide the root aggregation from the TOC -->
+<!-- DO NOT EDIT THIS SECTION!!!-->
       <imsss:sequencing>
         <imsss:controlMode choice="true" choiceExit="false" flow="true" forwardOnly="false" />
       </imsss:sequencing>
     </organization>
   </organizations>
+<!-- DO NOT EDIT THE ABOVE NODES!!! -->
+
 
   <resources>
-    <resource identifier="introduction_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/01_introduction">
-      <file href="lessons/01_introduction/lesson.json" />
+    <resource identifier="sco1_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/foldername">
+      <file href="lessons/foldername/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="sco2_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/foldername">
+      <file href="lessons/foldername/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 	
-    <resource identifier="intro_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/02_introduction-exercise">
-      <file href="lessons/02_introduction-exercise/lesson.json" />
+    <resource identifier="sco3_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/foldername">
+      <file href="lessons/foldername/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="sco4_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/foldername">
+      <file href="lessons/foldername/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 	
-    <resource identifier="external_hdw_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/03_external-hardware">
-      <file href="lessons/03_external-hardware/lesson.json" />
+    <resource identifier="sco5_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/foldername">
+      <file href="lessons/foldername/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="sco6_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/foldername">
+      <file href="lessons/foldername/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 	
-    <resource identifier="external_hdw_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/04_external-hardware-exercise">
-      <file href="lessons/04_external-hardware-exercise/lesson.json" />
+    <resource identifier="sco7_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/foldername">
+      <file href="lessons/foldername/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="sco8_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/foldername">
+      <file href="lessons/foldername/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 	
-    <resource identifier="internal_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/05_internal_hardware_overview">
-      <file href="lessons/05_internal_hardware_overview/lesson.json" />
+    <resource identifier="sco9_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/foldername">
+      <file href="lessons/foldername/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
-	
-    <resource identifier="internal_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/06_internal_hardware_overview-exercise">
-      <file href="lessons/06_internal_hardware_overview-exercise/lesson.json" />
-      <dependency identifierref="common_files" />
-    </resource>
-	
-    <resource identifier="placing_wagers_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/07_placing_wagers_using_the_gemini_touch">
-      <file href="lessons/07_placing_wagers_using_the_gemini_touch/lesson.json" />
-      <dependency identifierref="common_files" />
-    </resource>
-	
-    <resource identifier="placing_wagers_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/08_placing_wagers_using_the_gemini_touch-exercise">
-      <file href="lessons/08_placing_wagers_using_the_gemini_touch-exercise/lesson.json" />
-      <dependency identifierref="common_files" />
-    </resource>
-	
-    <resource identifier="accessing_functions_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/09_accessing_retailer_management_functions">
-      <file href="lessons/09_accessing_retailer_management_functions/lesson.json" />
-      <dependency identifierref="common_files" />
-    </resource>
-	
-    <resource identifier="accessing_functions_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/10_accessing_retailer_management_functions-exercise">
-      <file href="lessons/10_accessing_retailer_management_functions-exercise/lesson.json" />
+    <resource identifier="sco010_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/foldername">
+      <file href="lessons/foldername/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 	
 	
-    <resource identifier="management_functions_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/11_management_functions_overview">
-      <file href="lessons/11_management_functions_overview/lesson.json" />
+    <resource identifier="sco011_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/foldername">
+      <file href="lessons/foldername/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="sco012_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/foldername">
+      <file href="lessons/foldername/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 	
-    <resource identifier="management_functions_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/12_management_functions_overview-exercise">
-      <file href="lessons/12_management_functions_overview-exercise/lesson.json" />
+    <resource identifier="sco013_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/foldername">
+      <file href="lessons/foldername/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="sco014_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/foldername">
+      <file href="lessons/foldername/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 	
-    <resource identifier="loading_scratcher_tickets_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/13_loading_unloading_scratcher_tickets">
-      <file href="lessons/13_loading_unloading_scratcher_tickets/lesson.json" />
+    <resource identifier="sco015_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/foldername">
+      <file href="lessons/foldername/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="sco016_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/foldername">
+      <file href="lessons/foldername/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 	
-    <resource identifier="loading_scratcher_tickets_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/14_loading_unloading_scratcher_tickets-exercise">
-      <file href="lessons/14_loading_unloading_scratcher_tickets-exercise/lesson.json" />
+    <resource identifier="sco017_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/foldername">
+      <file href="lessons/foldername/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="sco018_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/foldername">
+      <file href="lessons/foldername/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 	
-    <resource identifier="removing_money_cash_box_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/15_removing_money_cash_box">
-      <file href="lessons/15_removing_money_cash_box/lesson.json" />
+    <resource identifier="sco019_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/foldername">
+      <file href="lessons/foldername/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="sco020_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/foldername">
+      <file href="lessons/foldername/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 	
-    <resource identifier="terminal_maintenance_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/16_terminal_maintenance">
-      <file href="lessons/16_terminal_maintenance/lesson.json" />
-      <dependency identifierref="common_files" />
-    </resource>
-	
-    <resource identifier="clearing_jams_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/17_clearing_jams">
-      <file href="lessons/17_clearing_jams/lesson.json" />
-      <dependency identifierref="common_files" />
-    </resource>
-
-    <resource identifier="course_end_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/18_course_end">
-      <file href="lessons/18_course_end/lesson.json" />
-      <dependency identifierref="common_files" />
-    </resource>
-	
-    <resource identifier="assessment_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/19_assessment">
-      <file href="lessons/19_assessment/lesson.json" />
+    <resource identifier="assessment_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/foldername">
+      <file href="lessons/foldername/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 </resources>
