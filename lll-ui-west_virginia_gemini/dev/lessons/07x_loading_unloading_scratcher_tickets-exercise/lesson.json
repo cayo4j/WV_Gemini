@@ -113,9 +113,59 @@
 			]
 		},
 		{
+			"type": "singleChoice",
+			"name": "Loading and Unloading Scratcher Tickets - Exercise",
+			"label": "There are several rules you should follow to avoid ticket jams in the Gemini Touch. When loading tickets that are 8 inches or longer, which of these rules apply?",
+			"options": [
+				{
+					"label": "Feed the tickets Over the roller",
+					"isCorrect": false
+				},
+				{
+					"label": "Feed the tickets Under the roller",
+					"isCorrect": true
+				}
+			],
+			"feedback": {
+				"valid": {
+					"label": "You're right!",
+					"text": "Click OK to Continue."
+				},
+				"invalid": {
+					"label": "Sorry,",
+					"text": "Tickets that are 8\" or longer should be fed Under the roller."
+				}
+			}
+		},
+		{
+			"type": "singleChoice",
+			"name": "Loading and Unloading Scratcher Tickets - Exercise",
+			"label": "Never load ticket bins 25-28 with tickets greater than 10\" long.",
+			"options": [
+				{
+					"label": "True",
+					"isCorrect": true
+				},
+				{
+					"label": "false",
+					"isCorrect": false
+				}
+			],
+			"feedback": {
+				"valid": {
+					"label": "Right!",
+					"text": "Click OK to Continue."
+				},
+				"invalid": {
+					"label": "Sorry,",
+					"text": "the statement is True. Never load ticket bins 25-28 with tickets greater than 10\" long."
+				}
+			}
+		},
+		{
 			"type": "guiSimulation",
 			"name": "Loading and Unloading Scratcher Tickets - Exercise",
-			"label": "Now it's your turn to load a pack of Scratcher tickets using the Management Functions. ",
+			"label": "Now it's your turn to load a pack of Scratch Off tickets using the Management functions. Load a pack of tickets into Bin 4. ",
 			
 			"cuepoints": [
 				{
