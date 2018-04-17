@@ -105,7 +105,7 @@
 						"time": "5.53527",
 						"play": true
 					},
-					"caption": "When your Gemini Touch is installed you receive one key for the Main Door and one key for the Cash Box.",
+					"caption": "When your Gemini Touch is installed you receive  two sets of keys for the main door and the cash box.",
 					"overlays": [
 						{
 							"left": 0,
@@ -276,7 +276,7 @@
 						"time": "50.564812",
 						"play": true
 					},
-					"caption": "When the door is open, you'll notice that it is equipped with a Main Door Stay that prevents the door from closing.",
+					"caption": "On the top right is the large amber Power Button for the terminal.  ",
 					"overlays": [
 						{
 							"left": 0,
@@ -295,7 +295,7 @@
 						"time": "57.115229",
 						"play": true
 					},
-					"caption": "On the top right is the large amber Power Button for the terminal.  ",
+					"caption": "When the button is in the \"Up\" position the power is ON,",
 					"overlays": [
 						{
 							"left": 0,
@@ -314,7 +314,7 @@
 						"time": "62.455458",
 						"play": true
 					},
-					"caption": "When the button is in the \"Up\" position the power is ON,",
+					"caption": "when in the \"Down\" position it is OFF.",
 					"overlays": [
 						{
 							"left": 290,
@@ -330,7 +330,7 @@
 						"time": "66.469708",
 						"play": true
 					},
-					"caption": "when in the \"Down\" position it is OFF.",
+					"caption": "The inner doors here are used to access the bins when loading or unloading Scratch Off tickets. ",
 					"overlays": [
 						{
 							"left": 280,
@@ -344,25 +344,6 @@
 
 					"videoControl" : {
 						"time": "69.231875",
-						"play": true
-					},
-					"caption": "The inner doors here are used to access the bins when loading or unloading Scratcher tickets. ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/inside-gemini-doors.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "75.523208",
 						"play": true
 					},
 					"caption": "On the first door is a listing of Reports you can print from the terminal. ",
@@ -381,10 +362,29 @@
 				{
 
 					"videoControl" : {
+						"time": "75.523208",
+						"play": true
+					},
+					"caption": "Notice each of these has a bar code just under the Report name for convenience.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/inside-gemini-doors.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
 						"time": "79.226479",
 						"play": true
 					},
-					"caption": "Notice each of these has a barcode just under the Report name for convenience.",
+					"caption": "All you have to do is scan the bar code with the Bar Code Scanner ",
 					"overlays": [
 						{
 							"left": 0,
@@ -403,7 +403,7 @@
 						"time": "85.274729",
 						"play": true
 					},
-					"caption": "All you have to do is scan the barcode with the Barcode Scanner "
+					"caption": "and the Report will display and print.  "
 				},
 				{
 
@@ -411,7 +411,7 @@
 						"time": "88.401958",
 						"play": true
 					},
-					"caption": "and the Report will display.",
+					"caption": "To the right of that is a Quick Reference sticker that shows instructions for loading and unloading Scratch Off tickets and loading the Printer paper.",
 					"overlays": [
 						{
 							"left": 0,
@@ -430,7 +430,7 @@
 						"time": "90.967062",
 						"play": true
 					},
-					"caption": "If you would like a copy of the report, touch the printer icon at the top right hand side of the screen",
+					"caption": "To open the inner doors, simply turn the latch to the left ",
 					"overlays": [
 						{
 							"left": 0,
@@ -467,7 +467,7 @@
 						"time": "97.273416",
 						"play": true
 					},
-					"caption": "and select OK.",
+					"caption": "and pull open both doors.",
 					"overlays": [
 						{
 							"left": 0,
@@ -504,7 +504,7 @@
 						"time": "98.634541",
 						"play": true
 					},
-					"caption": "The printer will print your report.",
+					"caption": "The first door prevents static electricity.",
 					"overlays": [
 						{
 							"left": 0,
@@ -523,7 +523,7 @@
 						"time": "101.083625",
 						"play": true
 					},
-					"caption": "To the right of that is a Quick Reference sticker that shows instructions for loading and unloading Scratcher tickets and loading the Printer paper.",
+					"caption": "The second inner door helps to ensure tickets dispense correctly.",
 					"overlays": [
 						{
 							"left": 0,
@@ -542,7 +542,7 @@
 						"time": "109.607125",
 						"play": true
 					},
-					"caption": "To open the inner doors, simply turn the latch to the left "
+					"caption": "To lock the door, simply close "
 				},
 				{
 
@@ -550,7 +550,7 @@
 						"time": "113.453354",
 						"play": true
 					},
-					"caption": "and pull open both doors."
+					"caption": "and turn the latch to the right."
 				},
 				{
 
@@ -558,7 +558,7 @@
 						"time": "115.581479",
 						"play": true
 					},
-					"caption": "The first door prevents static electricity."
+					"caption": "This is the removable Bar Code Scanner used to run Reports and scan Scratch Off tickets during the loading process.  "
 					
 				},
 				{
@@ -567,7 +567,7 @@
 						"time": "119.838708",
 						"play": true
 					},
-					"caption": "The second inner door helps to ensure tickets dispense correctly."
+					"caption": "Below the Bar Code Scanner is the Bill Acceptor.  "
 				},
 				{
 
@@ -575,7 +575,7 @@
 						"time": "124.220937",
 						"play": true
 					},
-					"caption": "To lock the door, simply close "
+					"caption": "We’ll cover accessing the Bill Acceptor in detail later in the course."
 				},
 				{
 
@@ -583,7 +583,7 @@
 						"time": "126.354062",
 						"play": true
 					},
-					"caption": "and turn the latch to the right."
+					"caption": "Here is the Play Slip Reader."
 				},
 				{
 
@@ -591,7 +591,7 @@
 						"time": "128.199166",
 						"play": true
 					},
-					"caption": "This is the removable Barcode Scanner used to run Reports and scan Scratcher tickets during the loading process.  "
+					"caption": "Finally, we have the Printer that will produce your Reports and Draw Game tickets."
 				},
 				{
 
@@ -599,7 +599,7 @@
 						"time": "135.085583",
 						"play": true
 					},
-					"caption": "Below the Barcode Scanner is the Bill Acceptor.  "
+					"caption": "Now that you are familiar with the parts of the machine we’ll continue to the next lesson, placing wagers! "
 				},
 				{
 
@@ -607,47 +607,7 @@
 						"time": "138.15975",
 						"play": true
 					},
-					"caption": "The Gemini Touch Bill Acceptor holds up to 2,000 bills, compared to the 600 bills that the current Lottery Express Self-Service terminal holds."
-				},
-				{
-
-					"videoControl" : {
-						"time": "146.354208",
-						"play": true
-					},
-					"caption": "We'll cover accessing the Bill Acceptor in detail later in the course."
-				},
-				{
-
-					"videoControl" : {
-						"time": "150.856458",
-						"play": true
-					},
-					"caption": "Here is the Play Slip Reader."
-				},
-				{
-
-					"videoControl" : {
-						"time": "153.109583",
-						"play": true
-					},
-					"caption": "Finally, we have the Printer that will produce your Reports and Draw Game tickets."
-				},
-				{
-
-					"videoControl" : {
-						"time": "158.640875",
-						"play": true
-					},
-					"caption": "Now that you are familiar with the parts of the machine we'll continue to the next lesson, placing wagers! "
-				},
-				{
-
-					"videoControl" : {
-						"time": "164.70125",
-						"play": true
-					},
-					"caption": "Ready? Let's Go!"
+					"caption": "Ready? Let’s Go!"
 				}
 	]
 },

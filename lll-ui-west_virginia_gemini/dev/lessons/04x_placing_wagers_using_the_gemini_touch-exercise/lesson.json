@@ -31,9 +31,9 @@
 			]
 		},
 		{
-			"type": "multipleChoice",
+			"type": "singleChoice",
 			"name": " ",
-			"label": "True or False: Using the player Touch Screen, only Draw Game Easy Picks are available for Draw Games.",
+			"label": "True or False: Using the player Touch Screen, only Draw Game Easy Picks are available for draw games.",
 			"options": [
 				{
 					"label": "True",
@@ -51,7 +51,7 @@
 				},
 				"invalid": {
 					"label": "Sorry,",
-					"text": "the answer is False. Players can choose to play Easy Picks or choose their own numbers using the Touch Screen."
+					"text": "the answer is False. Using the player Touch Screenplayers an choose an Easy Pick or select their own numbers manually. Players can also use Play Slips to place wagers for their numbers."
 				}
 			}
 		},
@@ -65,7 +65,7 @@
 					"isCorrect": false
 				},
 				{
-					"label": "$200.00",
+					"label": "$250.00",
 					"isCorrect": true
 				},
 				{
@@ -75,12 +75,12 @@
 			],
 			"feedback": {
 				"valid": {
-					"label": "Correct!",
+					"label": "You're right!",
 					"text": "Click OK to Continue"
 				},
 				"invalid": {
-					"label": "Incorrect.",
-					"text": "Sorry, the correct answer is $200.00"
+					"label": "Sorry,",
+					"text": "the correct answer is $250.00"
 				}
 			}
 		},

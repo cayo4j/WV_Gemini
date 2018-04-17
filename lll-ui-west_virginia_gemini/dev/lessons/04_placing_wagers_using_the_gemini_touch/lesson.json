@@ -15,7 +15,7 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Let's talk about placing wagers for Draw Games and purchasing Scratcher tickets using the Gemini Touch. ",
+					"caption": "Let’s talk about placing wagers for Draw Games and purchasing Scratch Off tickets using the Gemini Touch. ",
 					"overlays": [
 						{
 							"left": -9999,
@@ -65,7 +65,7 @@
 						"time": "24.361625",
 						"play": true
 					},
-					"caption": "The maximum amount a player can add to the terminal is $200.00.",
+					"caption": "The maximum amount a player can add to the terminal is $250.00.",
 					"overlays": [
 						{
 							"left": 150,
@@ -81,7 +81,7 @@
 						"time": "28.008833",
 						"play": true
 					},
-					"caption": "If a player attempts to add more than $200.00 to the terminal, ",
+					"caption": "The machine does not refund credits or issue any change.",
 					"overlays": [
 						{
 							"left": 0,
@@ -100,7 +100,7 @@
 						"time": "31.92702",
 						"play": true
 					},
-					"caption": "it will display a message indicating the maximum credit amount has already been met and the bills will be rejected. ",
+					"caption": "To purchase Scratch Off tickets the player selects the preferred game on the touch screen ",
 					"overlays": [
 						{
 							"left": 0,
@@ -126,7 +126,7 @@
 						"time": "37.968354",
 						"play": true
 					},
-					"caption": "To purchase Scratcher tickets the player selects the preferred game on the Touch Screen and the desired quantity of the game"
+					"caption": "and the desired quantity of the game"
 				},
 				{
 
@@ -134,7 +134,7 @@
 						"time": "45.284791",
 						"play": true
 					},
-					"caption": "and the tickets dispense to the Ticket Retrieval Area."
+					"caption": "and the ticket dispenses to the Ticket Retrieval Area."
 				},
 				{
 
@@ -158,7 +158,7 @@
 						"time": "57.7005",
 						"play": true
 					},
-					"caption": "and the tickets will be dispensed to the Ticket Retrieval Area."
+					"caption": "and the tickets will be dispensed to the ticket retrieval area. "
 				},
 				{
 
@@ -182,7 +182,7 @@
 						"time": "70.421229",
 						"play": true
 					},
-					"caption": "If a player wants to purchase a Draw Game ticket using a play slip, ",
+					"caption": "If a player wants to purchase a Draw game ticket using a play slip, ",
 					"overlays": [
 						{
 							"left": 0,
@@ -217,7 +217,7 @@
 						"time": "83.917958",
 						"play": true
 					},
-					"caption": "If a player attempts to purchase a Draw or Scratcher Game without the appropriate amount of credit, "
+					"caption": "If a player attempts to purchase a Draw or Scratch Off game without the appropriate amount of credit, "
 				},
 				{
 
@@ -225,7 +225,7 @@
 						"time": "88.44125",
 						"play": true
 					},
-					"caption": "the terminal will display a message prompting the player to add additional credits. ",
+					"caption": "the terminal will display a message prompting the player to add the amount needed to complete the purchase.",
 					"overlays": [
 						{
 							"left": 0,
@@ -250,7 +250,7 @@
 						"time": "93.010479",
 						"play": true
 					},
-					"caption": "It's that easy to purchase tickets using the Gemini Touch!"
+					"caption": "It's that easy to place wagers using the Gemini Touch!"
 				},
 				{
 
@@ -258,7 +258,7 @@
 						"time": "96.54427",
 						"play": true
 					},
-					"caption": "Besides purchasing tickets, there are several other functions players can perform on the terminal."
+					"caption": "Besides placing wagers, players can check Draw Game tickets to see their winning status"
 				},
 				{
 
@@ -266,96 +266,12 @@
 						"time": "101.508937",
 						"play": true
 					},
-					"caption": "Players can check both Draw Games and Scratch tickets to see their winning status"
+					"caption": "by scanning a ticket using the Bar Code Scanner."
 				},
 				{
 
 					"videoControl" : {
 						"time": "105.734208",
-						"play": true
-					},
-					"caption": "by scanning a ticket using the Barcode Scanner."
-				},
-				{
-
-					"videoControl" : {
-						"time": "108.520354",
-						"play": true
-					},
-					"caption": "They can touch Winning Numbers here ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/winning-numbers.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "111.711541",
-						"play": true
-					},
-					"caption": "to view a summary of the Current Draw Game winning numbers.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/winning-numbers.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "114.168666",
-						"play": true
-					},
-					"caption": "And, they can touch Play Responsibly here to view responsible gambling messaging",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/responsible.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "119.617979",
-						"play": true
-					},
-					"caption": "including the toll free number for the Virginia Problem Gambling Helpline.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/responsible.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "123.532",
 						"play": true
 					},
 					"caption": "Ok, let's move on!"

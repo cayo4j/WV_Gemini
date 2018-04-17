@@ -33,7 +33,7 @@
 		{
 			"type": "multipleChoice",
 			"name": "Introduction - Exercise",
-			"label": "Players can purchase both Draw and Scratcher games from the Gemini Touch.",
+			"label": "Players can purchase both Draw and ScratchOff games from the Gemini Touch.",
 			"options": [
 				{
 					"label": "True",
@@ -46,12 +46,12 @@
 			],
 			"feedback": {
 				"valid": {
-					"label": "Great!",
+					"label": "Correct!",
 					"text": "Click OK to Continue."
 				},
 				"invalid": {
-					"label": "Incorrect.",
-					"text": "Sorry, the answer is True. Players can purchase both Draw and Scratcher games from the Gemini Touch."
+					"label": "Sorry,",
+					"text": "Sorry, the answer is True Players can purchase both Draw and Scratch Off games from the Gemini Touch."
 				}
 			}
 		},

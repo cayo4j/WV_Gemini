@@ -91,7 +91,7 @@
 				"time": "16.49",
 				"play": true
 			},
-			"caption": "Then we'll move on to the Retailer Home screen, loading and unloading Scratcher tickets as well as maintaining the terminal in your store.",
+			"caption": "Then we’ll move on to the Retailer Home screen, loading and unloading Scratch Off tickets as well as maintaining the terminal in your store.",
 			"overlays": [{
 				"left": 0,
 				"top": 0,
@@ -107,7 +107,7 @@
 				"time": "25.122",
 				"play": true
 			},
-			"caption": "First, let's talk about the benefits of the new Gemini Touch.  "
+			"caption": "First, let's talk about the benefits of the Gemini Touch.  "
 		},
 		{
 			"videoControl": {
@@ -144,7 +144,7 @@
 				"time": "43.746",
 				"play": true
 			},
-			"caption": "The new touch-enabled Player Display, supports a 42\" diagonal wide high definition Touch Screen.",
+			"caption": "The touch-enabled Player Display, supports a 42\" diagonal wide high definition Touch Screen.",
 			"overlays": [{
 				"left": 0,
 				"top": 0,
@@ -182,7 +182,7 @@
 				"time": "56.178",
 				"play": true
 			},
-			"caption": "Customers can purchase both Scratcher and Draw games without assistance which means less people tying up lines at the counter.",
+			"caption": "Customers can purchase both Scratch Off and Draw games without assistance which means less people tying up lines at the counter.",
 			"overlays": [{
 				"left": 0,
 				"top": 0,
@@ -248,7 +248,7 @@
 				"time": "74.292",
 				"play": true
 			},
-			"caption": "The terminal also features a Ticket Scan Plus function that allows players to scan Scratcher and Draw Game ticket barcodes to see if it is a winner.",
+			"caption": "The terminal also features a Ticket Scan Plus function that allows players to scan Scratcher Off and Draw Game ticket barcodes to see if it is a winner.",
 			"overlays": [{
 				"left": 0,
 				"top": 0,
@@ -270,7 +270,7 @@
 				"time": "83.148",
 				"play": true
 			},
-			"caption": "When players win, they can choose to receive credits for their winnings up to $200 that can be used to purchase additional tickets from the Gemini Touch.",
+			"caption": "The Gemini Touch automatically starts at the beginning of the day and closes down automatically at the end of the day. ",
 			"overlays": [{
 				"left": 50,
 				"top": 50,
@@ -283,7 +283,7 @@
 				"time": "92.141",
 				"play": true
 			},
-			"caption": "To use this option, all credits must be used.",
+			"caption": "This is not a manual process.",
 			"overlays": [{
 				"left": 50,
 				"top": 50,
@@ -296,7 +296,7 @@
 				"time": "95.701",
 				"play": true
 			},
-			"caption": "Let's move on and look closer at the terminal hardware."
+			"caption": "Let’s move on and look closer at the terminal hardware."
 		}]
 	},
 	{

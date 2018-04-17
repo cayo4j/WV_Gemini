@@ -31,7 +31,7 @@
 						"time": "7.497",
 						"play": true
 					},
-					"caption": "The Touch Screen allows the Lottery to display Draw and Scratcher game information and results"
+					"caption": "The Touch Screen allows the Lottery to display Draw and Scratch Off game information and results"
 				},
 				{
 
@@ -55,7 +55,7 @@
 						"time": "21.108",
 						"play": true
 					},
-					"caption": "Once the game icon is touched the screen will display the various ticket prices for Easy Picks for the selected game and the option for players to choose their own numbers."
+					"caption": "Once the game icon is touched "
 				},
 				{
 
@@ -63,7 +63,7 @@
 						"time": "30.277",
 						"play": true
 					},
-					"caption": "For the Multi-State games, Powerball and Mega Millions, it will display the regular ticket price amount on the left, "
+					"caption": "the screen will display the various ticket prices for Easy Picks for the selected game and the option for players to choose their own numbers. "
 				},
 				{
 
@@ -71,7 +71,7 @@
 						"time": "36.244",
 						"play": true
 					},
-					"caption": "and the ticket price with the add on, Power Play or Megaplier on the right."
+					"caption": "For the Multi-State games, Powerball and Mega Millions, "
 				},
 				{
 
@@ -79,7 +79,7 @@
 						"time": "41.594",
 						"play": true
 					},
-					"caption": "For each game, a green Information icon displays."
+					"caption": "it will display the regular ticket price amount on the right,"
 				},
 				{
 
@@ -87,7 +87,7 @@
 						"time": "45.259",
 						"play": true
 					},
-					"caption": "Once the Information icon is touched it will display how to play information for the selected game."
+					"caption": "and the ticket price with the add on, Power Play or Megaplier on the left."
 				},
 				{
 
@@ -95,7 +95,7 @@
 						"time": "50.942",
 						"play": true
 					},
-					"caption": "For Scratcher games, the Touch Screen displays a Digital Image for each of the games that can be purchased.  "
+					"caption": "For each game, an green Information icon displays."
 				},
 				{
 
@@ -103,7 +103,7 @@
 						"time": "56.595",
 						"play": true
 					},
-					"caption": "The Gemini Touch can carry up to 28 Scratcher games.",
+					"caption": "Once the Information icon is touched ",
                     "overlays": [
 						{
 							"left": 0,
@@ -122,7 +122,7 @@
 						"time": "60",
 						"play": true
 					},
-					"caption": "Once the game is touched, the screen will display the cost of the ticket and quantity that can be purchased. "
+					"caption": "it will display how to play information for the selected game."
 				},
 				{
 
@@ -130,7 +130,7 @@
 						"time": "65.697",
 						"play": true
 					},
-					"caption": "Should a game be out of stock, a \"Sold out\" message displays on the screen. "
+					"caption": "For Scratch Off games, the Touch Screen displays a Digital Image for each of the games that can be purchased.  "
 				},
 				{
 
@@ -138,7 +138,7 @@
 						"time": "70.099",
 						"play": true
 					},
-					"caption": "All messages for players display in the middle of the screen here."
+					"caption": "The Gemini Touch can carry up to 24 Scratch Off games."
 				},
 
 				{
@@ -147,7 +147,7 @@
 						"time": "74.093",
 						"play": true
 					},
-					"caption": "The Gemini Touch supports Americans with Disabilities, or ADA regulations. "
+					"caption": "Once the game is touched, "
 				},
 				{
 
@@ -155,7 +155,7 @@
 						"time": "79.9535",
 						"play": true
 					},
-					"caption": "The terminal display provides a Flip the Screen button. "
+					"caption": "the screen will display the cost of the ticket and quantity that can be purchased."
 				},
 				{
 
@@ -163,7 +163,7 @@
 						"time": "84.130708",
 						"play": true
 					},
-					"caption": "When this button is selected, the display screen flips so that game graphics that were previously at the top of the screen "
+					"caption": "All Messages for players display in the middle of the screen here."
 				},
 				{
 
@@ -171,7 +171,7 @@
 						"time": "90.520104",
 						"play": true
 					},
-					"caption": "will be positioned at the bottom of the screen for easy access by the player. "
+					"caption": "The Gemini Touch supports American with Disabilities, or ADA regulations. "
 				},
 				{
 
@@ -179,7 +179,7 @@
 						"time": "95.474375",
 						"play": true
 					},
-					"caption": "The Help icon here will guide the player, step by step if needed."
+					"caption": "The terminal display provides a Flip the Screen button. "
 				},
 				{
 
@@ -187,7 +187,7 @@
 						"time": "100.352645",
 						"play": true
 					},
-					"caption": "Let's look at this area of the terminal here."
+					"caption": "When this button is selected, "
 				},
 				{
 
@@ -195,7 +195,7 @@
 						"time": "103.263833",
 						"play": true
 					},
-					"caption": "Here is the Barcode Scanner used to read ticket barcodes.",
+					"caption": "the display screen flips so that game graphics that were previously at the top of the screen",
 					"overlays": [
 						{
                             "left": 50,
@@ -212,7 +212,7 @@
 						"time": "106.916",
 						"play": true
 					},
-					"caption": "Under this cover is a cashless device that will allow purchases using a Debit card. This function is not currently available but will be enabled later this year."
+					"caption": "will be positioned at the bottom of the screen for easy access by the player. "
 				},
 				{
 
@@ -220,7 +220,7 @@
 						"time": "116.867562",
 						"play": true
 					},
-					"caption": "The Bill Acceptor is located here and accepts $1, $5, $10, $20, $50 and $100 bills.",
+					"caption": "The Help icon here ",
 					"overlays": [
 						{
                             "left": 50,
@@ -237,7 +237,7 @@
 						"time": "127.476166",
 						"play": true
 					},
-					"caption": "This is the Main Door lock.",
+					"caption": "will guide the player, step by step if needed.",
 					"overlays": [
 						{
                             "left": 50,
@@ -253,7 +253,7 @@
 						"time": "130.218312",
 						"play": true
 					},
-					"caption": "Below the lock is the Play Slip Reader.",
+					"caption": "Let’s look at this area of the terminal here.",
 					"overlays": [
 						{
                             "left": 50,
@@ -269,7 +269,7 @@
 						"time": "133.1685",
 						"play": true
 					},
-					"caption": "And finally, below the Play Slip Reader, is the lighted Ticket Retrieval Area where purchased Scratcher games and Draw games are dispensed for the player.",
+					"caption": "Here is the Bar Code Scanner used to read ticket barcodes.",
 					"overlays": [
 						{
                             "left": 50,
@@ -286,7 +286,52 @@
 						"time": "141.073937",
 						"play": true
 					},
-					"caption": "So now let's move on to the next lesson where we'll take a look at the inside of the Gemini Touch!"
+					"caption": "The Bill Acceptor is located here and accepts $1, $5, $10, $20, and $50 bills."
+					
+				},
+				{
+
+					"videoControl" : {
+						"time": "141.073937",
+						"play": true
+					},
+					"caption": "This is the Main Door lock."
+					
+				},
+				{
+
+					"videoControl" : {
+						"time": "141.073937",
+						"play": true
+					},
+					"caption": "Below the lock is the Play Slip Reader."
+					
+				},
+				{
+
+					"videoControl" : {
+						"time": "141.073937",
+						"play": true
+					},
+					"caption": "And finally, below the Play Slip Reader, is the Ticket Retrieval Area "
+					
+				},
+				{
+
+					"videoControl" : {
+						"time": "141.073937",
+						"play": true
+					},
+					"caption": "where purchased Scratch Off games and Draw games are dispensed for the player."
+					
+				},
+				{
+
+					"videoControl" : {
+						"time": "141.073937",
+						"play": true
+					},
+					"caption": "So now let’s move on to the next lesson where we’ll take a look inside of the Gemini Touch!"
 					
 				}
 	]
