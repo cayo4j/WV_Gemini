@@ -104,9 +104,6 @@ class LllLessonController {
             this.setCurrentActivity(location);
             this.startActivity();
         });
-        
-
-        
     }
 /**
 * @ngdoc method
@@ -209,9 +206,6 @@ class LllLessonController {
     startActivity() {
 		console.log("lllLesson.controller:lllLesson::Starting Activity" + this.current.activityIndex);
         this.lllScorm.startActivity(this.lessonModel, this.current.activityIndex);
-        
-
-        
     }
 /**
 * @ngdoc method

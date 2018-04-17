@@ -29,10 +29,6 @@ export function evalLessonModel(lessonData) {
 	};
 	return lessonModel;
 }
-
-
-
-
 /**
 * @ngdoc method
 * @name evalActivityModel
@@ -127,7 +123,8 @@ function evalActivityChoiceModel(activityData) {
 **/	
 function evalActivityCueModel(activityData) {
 	let activityModel = evalActivityCommonModel(activityData);
-
+	let loadedUrls = [];
+	
 	activityModel.cuepoints = activityData.cuepoints.map((cuepointData) => {
 		let cuepointModel = {
 			label: _.get(cuepointData, 'label', null),
@@ -154,7 +151,6 @@ function evalActivityCueModel(activityData) {
 					width: _.get(overlayData, 'image.width', null),
 					height: _.get(overlayData, 'image.height', null)
 				},
-				hotspot: _.get(overlayData, 'hotspot', null),//added Feb 17 2017 sc - for dynamic feedback from json
 				label: _.get(overlayData, 'label', null),
                 blinkClass: overlayData.blink ? `blink-${overlayData.blink}` : '',
                 isSubmit: _.get(overlayData, 'isSubmit', false),
@@ -166,7 +162,31 @@ function evalActivityCueModel(activityData) {
 							}
 							
             }));
-
+        
+		/* PRELOAD IMAGES QUICK AND DIRTY */
+		let targetOverlay;
+		let overlayUrls = [];
+		
+		
+		for(let j =0; j < cuepointModel.overlays.length; j++ )
+		{
+				targetOverlay = cuepointModel.overlays[j];	
+				
+				if(targetOverlay.image.url!=null&&loadedUrls.indexOf(targetOverlay.image.url)==-1){
+				  let img =new Image();
+					  img.onload = function(evt){
+						console.log("Image_LOADED::" + evt.target.src );
+						document.getElementsByTagName("body")[0].appendChild(evt.target);
+					  };
+					  img.setAttribute("ng-src", targetOverlay.image.url);
+					  img.setAttribute("style", "display:none;");
+					  img.src=targetOverlay.image.url;
+					  loadedUrls.push(targetOverlay.image.url);
+					  console.log(loadedUrls);
+				};
+		}
+		
+		
 		return cuepointModel;
 	});
 	return activityModel;

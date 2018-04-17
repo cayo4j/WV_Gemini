@@ -23,9 +23,9 @@ class LllActivitySummaryController extends LllActivityBaseController {
 	   	this.lessonSummary = lllActivitySummary.evalLessonSummary(this.lessonModel);
         this.onSubmitActivity({ activityModel: this.activityModel });
 	
-		if(this.lessonModel.title == "External Hardware Overview - Exercise"){
+		if(this.lessonModel.title == "Game Buttons – Exercise"){
 			console.info("\n\n\n\n\n\n\n\n\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ SUCCESS!!!!!!!!!!!!");
-			swal({title:"Great Work.", text:"You have identified the external parts of the Gemini Touch!"})//sc
+			swal({title:"Great Work.", text:"You have successfully processed this transaction!"})//sc
 		}
 	}
 }

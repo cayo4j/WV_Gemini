@@ -72,7 +72,7 @@ class LllActivityCueController extends LllActivityBaseController {
 * @methodOf lllActivity.controller:lllActivityCue
 * @description
 * 
-* Explore the possibility of adding messages to activities when they A) load, B) complete
+* --Insert Description--
 **/
     submitCurrentCuepoint() {
 		this.$scope.currentCuepoint = this.current.cuepointModel;
@@ -80,10 +80,12 @@ class LllActivityCueController extends LllActivityBaseController {
 
         if (nextCuepointIndex < this.activityModel.cuepoints.length) {
 			console.log("less than cuepoint total");
+			//swal("Correct!");//sc
             this.setCurrentCuepoint(nextCuepointIndex);
         }
         else {
 			console.log("cuepoint not less than cuepoint total...== total");
+			//swal("Great job!");//sc
             this.submitActivity();
  
         }
@@ -124,17 +126,9 @@ class LllActivityCueController extends LllActivityBaseController {
 
         if (cuepointOverlayModel && cuepointOverlayModel.isCorrect) {
             this.submitCurrentCuepoint();
-			console.log("yes! submitCurrentCuepointOverlay>>>>>>>>   " + cuepointOverlayModel.hotspot + "   >>>>>>>>>>>");
-            if(cuepointOverlayModel.hotspot != "null"){
-                swal("Correct.", "You located the " + cuepointOverlayModel.hotspot);//sc 2/17/17
-            };
-			 
         }else{
-			console.log("no! submitCurrentCuepointOverlay>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
-            if(cuepointOverlayModel.hotspot != "null"){
-                swal("That is incorrect. Try Again.");//sc 2/17/17
-            };
-			
+			console.log("SORRY WRONG! submitCurrentCuepointOverlay>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
+			swal("That is incorrect. Try Again.");//sc
 		}
     }
 /**

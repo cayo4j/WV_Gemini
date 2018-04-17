@@ -25,5 +25,3 @@ angular.module('lllCore', [
     'lllApp',
     'lllLessonUi'
 ]);
-
-

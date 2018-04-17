@@ -60,10 +60,6 @@ class LllScormClientService {
 		catch(err) {
 			console.error('ScormProcess environment error: ScormProcessInitialize not found.');
 		}
-        
-
-        
-        
 	}
 /**
 * @ngdoc method
