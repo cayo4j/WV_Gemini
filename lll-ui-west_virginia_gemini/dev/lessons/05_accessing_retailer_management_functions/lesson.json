@@ -105,7 +105,7 @@
 						"time": "15.763312",
 						"play": true
 					},
-					"caption": "here on top of the Play Slip Reader.",
+					"caption": "here to the right on top of the Play Slip Reader.",
 					"overlays": [
 						{
 							"left": 0,
@@ -249,7 +249,7 @@
 						"time": "45.335958",
 						"play": true
 					},
-					"caption": "The Device Status screen displays.",
+					"caption": "The Retailer Home screen displays",
 					"overlays": [
 						{
 							"left": 0,
@@ -268,7 +268,7 @@
 						"time": "47.423125",
 						"play": true
 					},
-					"caption": "Touch the Back Arrow here ",
+					"caption": "We’ll review all of the menus and functions available from the Home screen in the next lesson.",
 					"overlays": [
 						{
 							"left": 0,
@@ -296,7 +296,7 @@
 						"time": "49.512208",
 						"play": true
 					},
-					"caption": "to view the Management Functions menu",
+					"caption": "Let’s move on.",
 					"overlays": [
 						{
 							"left": 0,
@@ -308,50 +308,6 @@
 							}
 						}
 					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "51.807354",
-						"play": true
-					},
-					"caption": "and then Home to go to the Home screen.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/management-functions.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/home_screen.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "54.6735",
-						"play": true
-					},
-					"caption": "We'll review all of the menus and functions available from the Home screen in the next lesson."
-				},
-				{
-
-					"videoControl" : {
-						"time": "59.673791",
-						"play": true
-					},
-					"caption": "Let's move on."
 				}
 	]
 },

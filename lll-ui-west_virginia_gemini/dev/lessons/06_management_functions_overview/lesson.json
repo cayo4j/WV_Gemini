@@ -80,7 +80,7 @@
 						"time": "4.313437",
 						"play": true
 					},
-					"caption": "Let's look at Instant Ticket Management.",
+					"caption": "We'll start with looking at Instant Ticket Inventory Management.",
 					"overlays": [
 						{
 							"left": 0,
@@ -108,7 +108,7 @@
 						"time": "6.318541",
 						"play": true
 					},
-					"caption": "I'll touch Instant Ticket Management",
+					"caption": "I'll touch Instant Ticket Inventory Management",
 					"overlays": [
 						{
 							"left": 0,
@@ -164,7 +164,7 @@
 						"time": "11.481833",
 						"play": true
 					},
-					"caption": "Here you can access functions for loading and unloading bins and forwarding tickets out of a burster in case of a jam.",
+					"caption": "Here you can access functions for loading and unloading bins and forwarding tickets out of a burster in case of a jam,",
 					"overlays": [
 						{
 							"left": 0,
@@ -192,7 +192,7 @@
 						"time": "19.674291",
 						"play": true
 					},
-					"caption": "Additionally you can view bin inventory and Scratch Ticket parameters.",
+					"caption": "as well as easily access options related to these functions such as Scratch Off Ticket Parameters, Mapping and your Inventory Report.",
 					"overlays": [
 						{
 							"left": 0,
@@ -293,7 +293,7 @@
 						"time": "32.702041",
 						"play": true
 					},
-					"caption": "Reprints allows you to reprint the Last Transaction, Last Wager and Last Shift Report.",
+					"caption": "Reprint allows you to reprint the Last Play.",
 					"overlays": [
 						{
 							"left": 0,
@@ -377,7 +377,7 @@
 						"time": "46.633854",
 						"play": true
 					},
-					"caption": "These include controls to reboot the terminal,",
+					"caption": "These include controls to Reboot the Terminal,",
 					"overlays": [
 						{
 							"left": 0,
@@ -433,7 +433,7 @@
 						"time": "51.018062",
 						"play": true
 					},
-					"caption": "and view journals which include the System Event Log, Cash Log and Security Log, ",
+					"caption": "view journals which include the System Event Log, Cash Log and Security Log, ",
 					"overlays": [
 						{
 							"left": 0,
@@ -461,7 +461,7 @@
 						"time": "57.242458",
 						"play": true
 					},
-					"caption": "and view Video Help for several terminal functions.",
+					"caption": "change your password,",
 					"overlays": [
 						{
 							"left": 0,
@@ -489,7 +489,7 @@
 						"time": "61.255645",
 						"play": true
 					},
-					"caption": "Now, let's return to the Home screen.",
+					"caption": "and view Video Help for several terminal functions.",
 					"overlays": [
 						{
 							"left": 0,
@@ -526,7 +526,7 @@
 						"time": "63.91977",
 						"play": true
 					},
-					"caption": "The Device Tests option provides access to tests for the Bill Acceptor, Barcode Reader, Printer and Burster.",
+					"caption": "Here you can add and remove credits from the terminal, enable the terminal, clear terminal logs, and adjust terminal volume using the slider.",
 					"overlays": [
 						{
 							"left": 0,
@@ -554,7 +554,7 @@
 						"time": "71.545229",
 						"play": true
 					},
-					"caption": "Next is Reports.",
+					"caption": "Now let's return to the Home Screen.",
 					"overlays": [
 						{
 							"left": 0,
@@ -582,7 +582,7 @@
 						"time": "73.430354",
 						"play": true
 					},
-					"caption": "Touching this button ",
+					"caption": "The Device Tests option provides access to tests for the Bill Acceptor, Barcode Reader, Printer and Burster. ",
 					"overlays": [
 						{
 							"left": 0,
@@ -619,7 +619,7 @@
 						"time": "74.783416",
 						"play": true
 					},
-					"caption": "displays the Reports menu.",
+					"caption": "Next is Reports.",
 					"overlays": [
 						{
 							"left": 0,
@@ -638,7 +638,7 @@
 						"time": "76.135458",
 						"play": true
 					},
-					"caption": "All of the reports are now located here in one single Reports menu. ",
+					"caption": "Touching this button ",
 					"overlays": [
 						{
 							"left": 0,
@@ -657,7 +657,7 @@
 						"time": "80.599729",
 						"play": true
 					},
-					"caption": "I'll touch Home again.",
+					"caption": "displays the Reports menu.",
 					"overlays": [
 						{
 							"left": 0,
@@ -694,7 +694,7 @@
 						"time": "82.441812",
 						"play": true
 					},
-					"caption": "And we'll look at the last option on the Home screen, Instant Functions.",
+					"caption": "All of your Gemini Touch reports are located here.",
 					"overlays": [
 						{
 							"left": 0,
@@ -713,7 +713,7 @@
 						"time": "86.294062",
 						"play": true
 					},
-					"caption": "I'll touch Instant Functions ",
+					"caption": "I'll touch Home again.",
 					"overlays": [
 						{
 							"left": 0,
@@ -750,7 +750,7 @@
 						"time": "88.385166",
 						"play": true
 					},
-					"caption": "and the menu displays options for Instant Pack Movement.",
+					"caption": "And we'll look at the last option on the Home screen, Instant Functions.",
 					"overlays": [
 						{
 							"left": 0,
@@ -769,7 +769,7 @@
 						"time": "92.028375",
 						"play": true
 					},
-					"caption": "The Instant Pack Movement option is where all of your pack management data is located.",
+					"caption": "I'll touch Instant Functions",
 					"overlays": [
 						{
 							"left": 0,
@@ -797,7 +797,7 @@
 						"time": "96.857666",
 						"play": true
 					},
-					"caption": "I'll touch Instant Pack Movement ",
+					"caption": "then Instant Functions again,",
 					"overlays": [
 						{
 							"left": 0,
@@ -834,7 +834,7 @@
 						"time": "99.02775",
 						"play": true
 					},
-					"caption": "and the menu displays functions used for confirming Scratcher game deliveries and activating packs of tickets.",
+					"caption": "and the menu displays options for Scratch Off Pack Activation and also Issues and Returns, which are only accessible by sales reps and technicians.",
 					"overlays": [
 						{
 							"left": 0,
@@ -853,7 +853,7 @@
 						"time": "105.132145",
 						"play": true
 					},
-					"caption": "The steps for performing these functions are the same as performing them on your Altura Flex terminal.",
+					"caption": "Pack Activation . Is used to activate tickets for sale in the Gemini Touch.",
 					"overlays": [
 						{
 							"left": 0,
@@ -872,7 +872,7 @@
 						"time": "110.129375",
 						"play": true
 					},
-					"caption": "Going back to the Home screen, ",
+					"caption": "The steps for  activating packs of tickets are the same as performing them on your Flex terminal.",
 					"overlays": [
 						{
 							"left": 0,
@@ -909,7 +909,7 @@
 						"time": "111.93152",
 						"play": true
 					},
-					"caption": "let me point out these buttons that appear on all menu screens.",
+					"caption": "Going back to the Home screen, ",
 					"overlays": [
 						{
 							"left": 0,
@@ -937,7 +937,7 @@
 						"time": "115.207708",
 						"play": true
 					},
-					"caption": "The first is the Settings button which accesses the Manager Functions menu.",
+					"caption": "let me point out these buttons that appear on all menu screens.",
 					"overlays": [
 						{
 							"left": 0,
@@ -965,7 +965,7 @@
 						"time": "119.098916",
 						"play": true
 					},
-					"caption": "Next is the Help button. Touch Help on any screen to view help information related to the screen.",
+					"caption": "The first is the Settings button which accesses the Management Functions menu.",
 					"overlays": [
 						{
 							"left": 0,
@@ -993,7 +993,7 @@
 						"time": "125.32327",
 						"play": true
 					},
-					"caption": "Finally is the Sign Off button, used to sign out of Manager functions.",
+					"caption": "Next is the Help button. Touch Help on any screen to view help information related to the screen.",
 					"overlays": [
 						{
 							"left": 0,
@@ -1021,6 +1021,14 @@
 						"time": "129.94952",
 						"play": true
 					},
+					"caption": "Finally is the Sign Off button, used to sign out of Manager functions."
+				},
+				{
+
+					"videoControl" : {
+						"time": "134.45377",
+						"play": true
+					},
 					"caption": "And that's an overview of the Manager functions available from the Gemini Touch Home screen."
 				},
 				{
@@ -1029,7 +1037,7 @@
 						"time": "134.45377",
 						"play": true
 					},
-					"caption": "Let's continue!"
+					"caption": "Let’s continue!"
 				}
 	]
 },
