@@ -61,7 +61,7 @@
 						"time": "3.352",
 						"play": true
 					},
-					"caption": "Use the Bill Acceptor key to open the Bill Acceptor door"
+					"caption": "Use the bill acceptor key to open the Bill Acceptor door"
 				},
 				{
 
@@ -133,7 +133,7 @@
 						"time": "31.223",
 						"play": true
 					},
-					"caption": "From the Manager Functions menu, touch Device Tests",
+					"caption": "From the Manager Menu,",
 					"overlays": [
 						{
 							"left": 0,
@@ -170,7 +170,7 @@
 						"time": "35.000",
 						"play": true
 					},
-					"caption": "and touch Test Bill Acceptor.",
+					"caption": "then touch Device Tests",
 					"overlays": [
 						{
 							"left": 0,
@@ -207,7 +207,7 @@
 						"time": "37.100",
 						"play": true
 					},
-					"caption": "The Test Bill Acceptor screen displays.",
+					"caption": "and Test Bill Acceptor.",
 					"overlays": [
 						{
 							"left": 0,
@@ -226,7 +226,7 @@
 						"time": "40.055",
 						"play": true
 					},
-					"caption": "Insert a bill into the acceptor "
+					"caption": "The Bill Acceptor Test screen displays."
 				},
 				{
 
@@ -234,7 +234,7 @@
 						"time": "42.00",
 						"play": true
 					},
-					"caption": "and verify that the acceptor properly recognizes the bill inserted.",
+					"caption": "Insert a bill into the acceptor ",
 					"overlays": [
 						{
 							"left": 0,
@@ -253,7 +253,7 @@
 						"time": "46.298",
 						"play": true
 					},
-					"caption": "You should run a Bill Acceptor Test every time you clear a jam.  "
+					"caption": "and verify that the acceptor properly recognizes the bill inserted."
 				},
 				{
 
@@ -261,7 +261,15 @@
 						"time": "50.197",
 						"play": true
 					},
-					"caption": "That's it!  You've cleared a Bill Acceptor jam!"
+					"caption": "You should run a Bill Acceptor Test every time you clear a jam."
+				},
+				{
+
+					"videoControl" : {
+						"time": "50.197",
+						"play": true
+					},
+					"caption": "That’s it!  You've cleared a bill acceptor jam!"
 				}
 	]
 },

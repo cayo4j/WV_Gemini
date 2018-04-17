@@ -15,7 +15,7 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Below the Barcode Scanner is the Bill Acceptor. Let's talk about how to remove cash from the Bill Acceptor's Cash Box.",
+					"caption": "Below the Bar Code Scanner is the Bill Acceptor. Let's talk about how to remove cash from the Bill Acceptor's Cash Box.",
 					"overlays": [
 						{
 							"left": -9999,
@@ -34,7 +34,7 @@
 						"time": "6.75",
 						"play": true
 					},
-					"caption": "The Bill Acceptor key is needed in order to access this area.",
+					"caption": "As we mentioned previously, the key marked BA is needed in order to access this area.",
 					"overlays": [
 						{
 							"left": 0,
@@ -53,7 +53,7 @@
 						"time": "10.8",
 						"play": true
 					},
-					"caption": "To open the Bill Acceptor door, insert the proper key into the lock, "
+					"caption": "To open the Bill Acceptor door, insert the BA key into the lock, "
 				},
 				{
 
@@ -61,7 +61,7 @@
 						"time": "15",
 						"play": true
 					},
-					"caption": "turn to the left, "
+					"caption": "turn it to the right, "
 				},
 				{
 
@@ -69,7 +69,7 @@
 						"time": "15.96",
 						"play": true
 					},
-					"caption": "and gently tilt the assembly down.  "
+					"caption": "and gently pull the door forward.  "
 				},
 				{
 
@@ -85,7 +85,7 @@
 						"time": "20.35",
 						"play": true
 					},
-					"caption": "This large Cash Box will hold up to 2,000 bills versus the 600 bills from your original Lottery Express machine."
+					"caption": "To remove the Cash Box, simply lift up the blue release button at the rear with one hand"
 				},
 				{
 
@@ -93,7 +93,7 @@
 						"time": "27.41",
 						"play": true
 					},
-					"caption": "To remove the Cash Box, simply pull the yellow handle towards you. "
+					"caption": "slide the Cash Box toward the back of the Gemini"
 				},
 				{
 
@@ -101,7 +101,7 @@
 						"time": "31.86",
 						"play": true
 					},
-					"caption": "To remove money from the Cash Box, locate the yellow round opening on the back"
+					"caption": "and gently lift it up and out."
 				},
 				{
 
@@ -109,7 +109,7 @@
 						"time": "36.63",
 						"play": true
 					},
-					"caption": "press down to retract and slide the door open "
+					"caption": "To remove money from the Cash Box, locate the round opening,"
 				},
 				{
 
@@ -117,8 +117,8 @@
 						"time": "39.67",
 						"play": true
 					},
-					"caption": "and remove the money. "
-				},]
+					"caption": "Now let’s re-insert the Cash Box. "
+				}]
 },
 				{
 

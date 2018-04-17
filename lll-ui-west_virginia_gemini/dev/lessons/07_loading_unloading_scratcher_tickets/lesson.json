@@ -15,7 +15,7 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Now I'm going to show you how to load Scratcher tickets into Gemini Touch bins.",
+					"caption": "Now I’m going to show you how to load Scratch Off tickets into Gemini Touch bins.",
 					"overlays": [
 						{
 							"left": 0,
@@ -205,7 +205,7 @@
 						"time": "4.7885",
 						"play": true
 					},
-					"caption": "To begin, from the Home screen I'll touch Instant Ticket Management.",
+					"caption": "To begin, from the Home screen I'll touch Instant Ticket Inventory Management.",
 					"overlays": [
 						{
 							"left": 0,
@@ -242,7 +242,7 @@
 						"time": "9.578791",
 						"play": true
 					},
-					"caption": "From here you may either scan the Load barcode on the bin you want to load",
+					"caption": "From here you may either scan the Load bar code on the bin you want to load",
 					"overlays": [
 						{
 							"left": 0,
@@ -521,7 +521,7 @@
 						"time": "44.43375",
 						"play": true
 					},
-					"caption": "There is no longer the need to manually enter the parameters for a new pack of tickets.",
+					"caption": "Additionally, the artwork for the game will display on the front of the Gemini Touch in the bin that you selected.",
 					"overlays": [
 						{
 							"left": 0,
@@ -540,7 +540,7 @@
 						"time": "48.980979",
 						"play": true
 					},
-					"caption": "Additionally, the artwork for the game will display on the front of the Gemini Touch in the bin that you selected.",
+					"caption": "When a partial pack of tickets is loaded, all you need to do is scan the bar code of the first ticket, ",
 					"overlays": [
 						{
 							"left": 0,
@@ -559,7 +559,7 @@
 						"time": "55.537375",
 						"play": true
 					},
-					"caption": "When a partial pack of tickets is loaded, all you need to do is scan the barcode of the first ticket,",
+					"caption": "and touch SUBMIT",
 					"overlays": [
 						{
 							"left": 0,
@@ -578,7 +578,7 @@
 						"time": "61.062666",
 						"play": true
 					},
-					"caption": "and touch SUBMIT.",
+					"caption": "then scan the bar code of the last ticket",
 					"overlays": [
 						{
 							"left": 0,
@@ -615,7 +615,7 @@
 						"time": "62.53675",
 						"play": true
 					},
-					"caption": "Then scan the barcode of the last ticket",
+					"caption": "and touch SUBMIT.",
 					"overlays": [
 						{
 							"left": 0,
@@ -634,7 +634,7 @@
 						"time": "65.897937",
 						"play": true
 					},
-					"caption": "and touch SUBMIT.",
+					"caption": "Again, a Load Successful message will display and select OK.",
 					"overlays": [
 						{
 							"left": 0,
@@ -671,7 +671,7 @@
 						"time": "67.414041",
 						"play": true
 					},
-					"caption": "Again, a Load Successful message will display and select OK.",
+					"caption": "Now, open the tray that you wish to load tickets into by pushing this green lever towards the bin ",
                     "overlays": [
 						{
 							"left": 0,
@@ -708,7 +708,7 @@
 						"time": "73.188375",
 						"play": true
 					},
-					"caption": "Now, open the tray that you wish to load tickets into by pushing this green lever towards the bin "
+					"caption": "and pulling the tray towards you."
 				},
 				{
 
@@ -716,7 +716,7 @@
 						"time": "79.537729",
 						"play": true
 					},
-					"caption": "and pulling the tray towards you."
+					"caption": "Now insert the pack into the desired bin and guide the first ticket's edge "
 				},
 				{
 
@@ -724,7 +724,7 @@
 						"time": "81.548854",
 						"play": true
 					},
-					"caption": "Now insert the pack into the desired bin and guide the first ticket's edge "
+					"caption": "until it firmly touches the black rubber feed rollers."
 				},
 				{
 
@@ -732,7 +732,7 @@
 						"time": "86.949145",
 						"play": true
 					},
-					"caption": "until it firmly touches the black rubber feed rollers."
+					"caption": "Doing so activates the ticket sensor switch and the tickets load automatically."
 				},
 				{
 
@@ -740,7 +740,7 @@
 						"time": "89.856291",
 						"play": true
 					},
-					"caption": "Doing so activates the ticket sensor switch and the tickets load automatically."
+					"caption": "To avoid ticket jams, do not load tickets over 10\" long into the lowest ticket trays - Bins 21 through 24."
 				},
 				{
 
@@ -748,7 +748,7 @@
 						"time": "95.00",
 						"play": true
 					},
-					"caption": "To avoid ticket jams, do not load tickets over 10\" long into the lowest ticket trays - Bins 25 through 28. ",
+					"caption": "Additionally, tickets that are 8\" or longer should be fed under the roller.",
 					"overlays": [
 						{
 							"left": 0,
@@ -775,7 +775,7 @@
 						"time": "105.874208",
 						"play": true
 					},
-					"caption": "Now to Unload tickets."
+					"caption": "Now, to Unload tickets."
 				},
 				{
 
@@ -866,7 +866,7 @@
 						"time": "124.55725",
 						"play": true
 					},
-					"caption": "and touch Unload Bin",
+					"caption": "and touch Unload Tickets,",
 					"overlays": [
 						{
 							"left": 0,
@@ -959,7 +959,7 @@
 						"time": "136.192916",
 						"play": true
 					},
-					"caption": "Before we leave this screen let me show you a function that you may find helpful when you need to adjust your physical inventory either when loading or when clearing a jam:",
+					"caption": "For ticket packs that are unloaded to return for credit, please provide this pack to your lottery sales rep to receive cred and documentation for return.",
 					"overlays": [
 						{
 							"left": 0,
@@ -978,7 +978,7 @@
 						"time": "146.186479",
 						"play": true
 					},
-					"caption": "Forward Tickets.",
+					"caption": "Before we leave this screen let me show you a function that you may find helpful when you need to adjust your physical inventory either when loading or when clearing a jam:",
 					"overlays": [
 						{
 							"left": 0,
@@ -1006,7 +1006,7 @@
 						"time": "147.701666",
 						"play": true
 					},
-					"caption": "Should you need to adjust a ticket in a burster use this button to move the tickets forward.",
+					"caption": "Forward Tickets.",
 					"overlays": [
 						{
 							"left": 0,
@@ -1034,6 +1034,14 @@
 						"time": "152.578833",
 						"play": true
 					},
+					"caption": "Should you need to adjust a ticket in a burster use this button to move the tickets forward."
+				},
+				{
+
+					"videoControl" : {
+						"time": "159.65925",
+						"play": true
+					},
 					"caption": "On this same note, never pull tickets from bursters, that could cause damage to the burster itself or the tickets."
 				},
 				{
@@ -1042,7 +1050,7 @@
 						"time": "159.65925",
 						"play": true
 					},
-					"caption": "Ok, let's keep going."
+					"caption": "Ok, let’s keep going."
 				}
 	]
 },

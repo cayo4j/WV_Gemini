@@ -91,7 +91,7 @@
 						"time": "26.075354",
 						"play": true
 					},
-					"caption": "To open the Bill Acceptor door, insert the Bill Acceptor key into the lock,"
+					"caption": "To open the Bill Acceptor door, insert the BA key into the lock,"
 				},
 				{
 
@@ -99,7 +99,7 @@
 						"time": "30.582583",
 						"play": true
 					},
-					"caption": "turn to the left, "
+					"caption": "turn to the right, "
 				},
 				{
 
@@ -115,7 +115,7 @@
 						"time": "33.69677",
 						"play": true
 					},
-					"caption": "Remove the acceptor module by pushing up the silver latching bar"
+					"caption": "Remove the Bill Acceptor by pushing up the silver latching bar"
 				},
 				{
 
@@ -131,7 +131,7 @@
 						"time": "39.434083",
 						"play": true
 					},
-					"caption": "Open the acceptor module by placing the palm of your hand on the front of the module and your fingers around the top of the yellow cover."
+					"caption": "Gently lift the read head from the Bill Acceptor."
 				},
 				{
 
@@ -139,7 +139,7 @@
 						"time": "46.683479",
 						"play": true
 					},
-					"caption": "Pull the cover toward your hand "
+					"caption": "Clear the bill path area of any foreign objects. "
 				},
 				{
 
@@ -147,7 +147,7 @@
 						"time": "48.771583",
 						"play": true
 					},
-					"caption": "and then lift up, opening the module head fully. "
+					"caption": "Using a soft cloth,"
 				},
 				{
 
@@ -155,7 +155,7 @@
 						"time": "51.760791",
 						"play": true
 					},
-					"caption": "Clear the bill path area of any foreign objects. "
+					"caption": "wipe the bill path and sensor areas as needed."
 				},
 				{
 
@@ -163,7 +163,7 @@
 						"time": "55.079958",
 						"play": true
 					},
-					"caption": "Using a soft cloth,"
+					"caption": "Be sure to also wipe the side walls of the optics housing. "
 				},
 				{
 
@@ -171,7 +171,7 @@
 						"time": "57.128083",
 						"play": true
 					},
-					"caption": "wipe the bill path and sensor areas as needed."
+					"caption": "To reinstall the acceptor module, simply close it "
 				},
 				{
 
@@ -179,7 +179,7 @@
 						"time": "59.74825",
 						"play": true
 					},
-					"caption": "Be sure to also wipe the side walls of the optics housing. "
+					"caption": "and reinsert it back into the machine. "
 				},
 				{
 
@@ -187,7 +187,7 @@
 						"time": "63.030395",
 						"play": true
 					},
-					"caption": "To reinstall the acceptor module, simply close it "
+					"caption": "Press it back gently so it locks into place.  "
 				},
 				{
 
@@ -195,7 +195,7 @@
 						"time": "66.144562",
 						"play": true
 					},
-					"caption": "and reinsert it back into the machine. "
+					"caption": "To close the Bill Accepter compartment, lift up the door, "
 				},
 				{
 
@@ -203,7 +203,7 @@
 						"time": "68.644708",
 						"play": true
 					},
-					"caption": "Press it back gently so it locks into place.  "
+					"caption": "and close firmly. "
 				},
 				{
 
@@ -211,7 +211,7 @@
 						"time": "71.104833",
 						"play": true
 					},
-					"caption": "To close the Bill Acceptor compartment, lift up the door, "
+					"caption": "Lock the Bill Acceptor door by turning the key to the left"
 				},
 				{
 
@@ -219,7 +219,7 @@
 						"time": "73.973",
 						"play": true
 					},
-					"caption": "and close firmly. "
+					"caption": "and remove the key."
 				},
 				{
 
@@ -227,7 +227,7 @@
 						"time": "75.037104",
 						"play": true
 					},
-					"caption": "Lock the Bill Acceptor door by turning the key to the right"
+					"caption": "OK, let’s look at how to clean the Play Slip Reader."
 				},
 				{
 
@@ -235,7 +235,7 @@
 						"time": "77.78127",
 						"play": true
 					},
-					"caption": "and remove the key.  "
+					"caption": "The Play Slip Reader is located here below the Bill Acceptor."
 				},
 				{
 
@@ -243,7 +243,7 @@
 						"time": "79.093333",
 						"play": true
 					},
-					"caption": "OK, let's look at how to clean the Play Slip Reader."
+					"caption": "To open the Play Slip Reader, gently lift up on the black raised lever."
 				},
 				{
 
@@ -251,7 +251,7 @@
 						"time": "82.20452",
 						"play": true
 					},
-					"caption": "The Play Slip Reader is located here below the Bill Acceptor."
+					"caption": "The reader itself is located on the bottom of the upper area inside the white strip."
 				},
 				{
 
@@ -259,7 +259,7 @@
 						"time": "85.972708",
 						"play": true
 					},
-					"caption": "To open the Play Slip Reader, gently lift up on the black raised lever. "
+					"caption": "To clean it use a clean, dry, soft cloth dampened with water"
 				},
 				{
 
@@ -267,7 +267,7 @@
 						"time": "89.703916",
 						"play": true
 					},
-					"caption": "The Reader itself is located on the bottom of the upper area inside the white strip. "
+					"caption": "and gently wipe the reader glass until all dirt particles are removed."
 				},
 				{
 
@@ -275,7 +275,7 @@
 						"time": "94.00",
 						"play": true
 					},
-					"caption": "To clean it use 91% isopropyl alcohol ",
+					"caption": "To close the Play Slip Reader, just press down until it clicks. ",
 					"overlays": [
 						{
 							"left": 0,
@@ -300,7 +300,7 @@
 						"time": "97.895354",
 						"play": true
 					},
-					"caption": "or non-ammonia based window cleaner on a clean, dry soft cloth",
+					"caption": "That’s it! Let’s move on.",
 					"overlays": [
 						{
 							"left": 0,
@@ -318,30 +318,6 @@
                             "blink": "none"
                         }
 					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "102.647625",
-						"play": true
-					},
-					"caption": "and gently wipe the reader glass until all dirt particles are removed."
-				},
-				{
-
-					"videoControl" : {
-						"time": "106.701895",
-						"play": true
-					},
-					"caption": "To close the Play Slip Reader, just press down until it clicks. "
-				},
-				{
-
-					"videoControl" : {
-						"time": "110.141041",
-						"play": true
-					},
-					"caption": "That's it! Let's move on."
 				}
 	]
 },
