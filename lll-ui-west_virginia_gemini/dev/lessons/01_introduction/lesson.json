@@ -16,6 +16,14 @@
 				"left": -9999,
 				"top": 0,
 				"image": {
+					"url": "lessons/shared/images/wv-gemini-external.png",
+					"width": 800,
+					"height": 450
+				},
+				{
+				"left": -9999,
+				"top": 0,
+				"image": {
 					"url": "lessons/shared/images/homescreen.jpg",
 					"width": 800,
 					"height": 450
@@ -91,7 +99,7 @@
 				"time": "16.49",
 				"play": true
 			},
-			"caption": "Then we’ll move on to the Retailer Home screen, loading and unloading Scratch Off tickets as well as maintaining the terminal in your store.",
+			"caption": "Then we’ll move on to the Retailer Home screen, loading and unloading Scratcher tickets as well as maintaining the terminal in your store.",
 			"overlays": [{
 				"left": 0,
 				"top": 0,
@@ -107,7 +115,16 @@
 				"time": "25.122",
 				"play": true
 			},
-			"caption": "First, let's talk about the benefits of the Gemini Touch.  "
+			"caption": "First, let's talk about the benefits of the Gemini Touch.  ",
+			"overlays": [{
+				"left": 0,
+				"top": 0,
+				"image": {
+					"url": "lessons/shared/images/wv-gemini-external.png",
+					"width": 800,
+					"height": 450
+				}
+			}]
 		},
 		{
 			"videoControl": {
@@ -119,7 +136,7 @@
 				"left": 0,
 				"top": 0,
 				"image": {
-					"url": "lessons/shared/images/gemini-dimensions.jpg",
+					"url": "lessons/shared/images/wv-gemini-external.png",
 					"width": 800,
 					"height": 450
 				}
@@ -149,7 +166,7 @@
 				"left": 0,
 				"top": 0,
 				"image": {
-					"url": "lessons/shared/images/gemini-front.jpg",
+					"url": "lessons/shared/images/wv-gemini-external.png",
 					"width": 800,
 					"height": 450
 				}
@@ -165,7 +182,7 @@
 				"left": 0,
 				"top": 0,
 				"image": {
-					"url": "lessons/shared/images/gemini-front.jpg",
+					"url": "lessons/shared/images/wv-gemini-external.png",
 					"width": 800,
 					"height": 450
 				}
@@ -187,7 +204,7 @@
 				"left": 0,
 				"top": 0,
 				"image": {
-					"url": "lessons/shared/images/gemini-front.jpg",
+					"url": "lessons/shared/images/wv-gemini-external.png",
 					"width": 800,
 					"height": 450
 				}
@@ -248,7 +265,7 @@
 				"time": "74.292",
 				"play": true
 			},
-			"caption": "The terminal also features a Ticket Scan Plus function that allows players to scan Scratcher Off and Draw Game ticket barcodes to see if it is a winner.",
+			"caption": "The terminal also features a Ticket Scan Plus function that allows players to scan Scratch Off and Draw Game ticket barcodes to see if it is a winner.",
 			"overlays": [{
 				"left": 0,
 				"top": 0,
@@ -274,8 +291,11 @@
 			"overlays": [{
 				"left": 50,
 				"top": 50,
-				"label": "Players Can Reinvest Up to $200.00 of Winnings for Credits",
-				"blink": "none"
+				"image": {
+					"url": "lessons/shared/images/wv-gemini-external.png",
+					"width": 800,
+					"height": 450
+				}
 			}]
 		},
 		{
@@ -287,8 +307,11 @@
 			"overlays": [{
 				"left": 50,
 				"top": 50,
-				"label": "All Credits Must Be Used",
-				"blink": "none"
+				"image": {
+					"url": "lessons/shared/images/wv-gemini-external.png",
+					"width": 800,
+					"height": 450
+				}
 			}]
 		},
 		{
