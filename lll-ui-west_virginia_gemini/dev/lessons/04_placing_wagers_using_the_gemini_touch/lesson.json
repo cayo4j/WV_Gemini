@@ -30,7 +30,7 @@
 				{
 
 					"videoControl" : {
-						"time": "6.081583",
+						"time": "5.29",
 						"play": true
 					},
 					"caption": "The terminal displays the messages to players here on the center of the Touch Screen."
@@ -38,7 +38,7 @@
 				{
 
 					"videoControl" : {
-						"time": "10.981875",
+						"time": "10.26",
 						"play": true
 					},
 					"caption": "To begin a purchase, players simply insert money into the Bill Acceptor"
@@ -46,7 +46,7 @@
 				{
 
 					"videoControl" : {
-						"time": "15.437208",
+						"time": "15.09",
 						"play": true
 					},
 					"caption": "and the screen displays the amount of credits here. "
@@ -54,7 +54,7 @@
 				{
 
 					"videoControl" : {
-						"time": "18.48027",
+						"time": "18.13",
 						"play": true
 					},
 					"caption": "In order to use the Gemini Touch, players must insert cash or already have credits in the machine."
@@ -62,7 +62,7 @@
 				{
 
 					"videoControl" : {
-						"time": "24.361625",
+						"time": "24.07",
 						"play": true
 					},
 					"caption": "The maximum amount a player can add to the terminal is $250.00.",
@@ -70,7 +70,7 @@
 						{
 							"left": 150,
 							"top": 10,
-                            "label": "Maximum Play Amount $200.00",
+                            "label": "Maximum Play Amount $250.00",
                             "blink": "none"
 						}
 					]
@@ -78,7 +78,7 @@
 				{
 
 					"videoControl" : {
-						"time": "28.008833",
+						"time": "28.14",
 						"play": true
 					},
 					"caption": "The machine does not refund credits or issue any change.",
@@ -87,7 +87,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/gemini-front.jpg",
+								"url": "lessons/shared/images/wv-gemini-external.png",
 								"width": 800,
 								"height": 450
 							}
@@ -97,7 +97,7 @@
 				{
 
 					"videoControl" : {
-						"time": "31.92702",
+						"time": "32.20",
 						"play": true
 					},
 					"caption": "To purchase Scratch Off tickets the player selects the preferred game on the touch screen ",
@@ -123,7 +123,7 @@
 				{
 
 					"videoControl" : {
-						"time": "37.968354",
+						"time": "36.22",
 						"play": true
 					},
 					"caption": "and the desired quantity of the game"
@@ -131,7 +131,7 @@
 				{
 
 					"videoControl" : {
-						"time": "45.284791",
+						"time": "39.08",
 						"play": true
 					},
 					"caption": "and the ticket dispenses to the Ticket Retrieval Area."
@@ -139,7 +139,7 @@
 				{
 
 					"videoControl" : {
-						"time": "48.737979",
+						"time": "42.13",
 						"play": true
 					},
 					"caption": "For Draw Games, the player selects the desired Draw Game icon"
@@ -147,7 +147,7 @@
 				{
 
 					"videoControl" : {
-						"time": "53.428291",
+						"time": "46.00",
 						"play": true
 					},
 					"caption": "and selects the icon for the desired number of plays and corresponding play amount,"
@@ -155,7 +155,7 @@
 				{
 
 					"videoControl" : {
-						"time": "57.7005",
+						"time": "49.28",
 						"play": true
 					},
 					"caption": "and the tickets will be dispensed to the ticket retrieval area. "
@@ -163,7 +163,7 @@
 				{
 
 					"videoControl" : {
-						"time": "60.947666",
+						"time": "53.00",
 						"play": true
 					},
 					"caption": "Remember, for ADA compliance, a player may choose to touch Flip Screen here"
@@ -171,7 +171,7 @@
 				{
 
 					"videoControl" : {
-						"time": "67.073",
+						"time": "58.16",
 						"play": true
 					},
 					"caption": "to swap the game buttons on the top and bottom of the screen."
@@ -179,7 +179,7 @@
 				{
 
 					"videoControl" : {
-						"time": "70.421229",
+						"time": "62.01",
 						"play": true
 					},
 					"caption": "If a player wants to purchase a Draw game ticket using a play slip, ",
@@ -198,7 +198,7 @@
 				{
 
 					"videoControl" : {
-						"time": "73.481416",
+						"time": "65.16",
 						"play": true
 					},
 					"caption": "all they need to do is insert the completed play slip into the Play Slip Reader."
@@ -206,7 +206,7 @@
 				{
 
 					"videoControl" : {
-						"time": "78.604687",
+						"time": "70.06",
 						"play": true
 					},
 					"caption": "Again, as long as the player has enough credits, the terminal will produce the ticket.  "
@@ -214,7 +214,7 @@
 				{
 
 					"videoControl" : {
-						"time": "83.917958",
+						"time": "75.02",
 						"play": true
 					},
 					"caption": "If a player attempts to purchase a Draw or Scratch Off game without the appropriate amount of credit, "
@@ -222,10 +222,10 @@
 				{
 
 					"videoControl" : {
-						"time": "88.44125",
+						"time": "79.23",
 						"play": true
 					},
-					"caption": "the terminal will display a message prompting the player to add the amount needed to complete the purchase.",
+					"caption": "the terminal will display a message prompting the player to add additional credits.",
 					"overlays": [
 						{
 							"left": 0,
@@ -247,7 +247,7 @@
 				{
 
 					"videoControl" : {
-						"time": "93.010479",
+						"time": "84.02",
 						"play": true
 					},
 					"caption": "It's that easy to place wagers using the Gemini Touch!"
@@ -255,15 +255,15 @@
 				{
 
 					"videoControl" : {
-						"time": "96.54427",
+						"time": "87.10",
 						"play": true
 					},
-					"caption": "Besides placing wagers, players can check Draw Game tickets to see their winning status"
+					"caption": "Besides placing wagers, players can check both draw games and scratch-off tickets to see their winning status"
 				},
 				{
 
 					"videoControl" : {
-						"time": "101.508937",
+						"time": "93.02",
 						"play": true
 					},
 					"caption": "by scanning a ticket using the Bar Code Scanner."
@@ -271,7 +271,7 @@
 				{
 
 					"videoControl" : {
-						"time": "105.734208",
+						"time": "95.21",
 						"play": true
 					},
 					"caption": "Ok, let's move on!"
