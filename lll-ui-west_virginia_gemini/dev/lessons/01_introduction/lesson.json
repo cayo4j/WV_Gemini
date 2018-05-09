@@ -290,8 +290,8 @@
 			},
 			"caption": "The Gemini Touch automatically starts at the beginning of the day and closes down automatically at the end of the day. ",
 			"overlays": [{
-				"left": 50,
-				"top": 50,
+				"left": 0,
+				"top": 0,
 				"image": {
 					"url": "lessons/shared/images/wv-gemini-external.png",
 					"width": 800,
@@ -306,8 +306,8 @@
 			},
 			"caption": "This is not a manual process.",
 			"overlays": [{
-				"left": 50,
-				"top": 50,
+				"left": 0,
+				"top": 0,
 				"image": {
 					"url": "lessons/shared/images/wv-gemini-external.png",
 					"width": 800,
@@ -320,7 +320,7 @@
 				"time": "91.05",
 				"play": true
 			},
-			"caption": "Let�s move on and look closer at the terminal hardware."
+			"caption": "Let's move on and look closer at the terminal hardware."
 		}]
 	},
 	{

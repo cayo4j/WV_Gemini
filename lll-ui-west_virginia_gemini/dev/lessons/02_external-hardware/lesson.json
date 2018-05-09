@@ -5,7 +5,7 @@
 			"type": "video",
 			"name": "External Hardware Overview",
 			"video": {
-				"url": "lessons/shared/videos/ExternalHardwareOverview.mp4"
+				"url": "lessons/shared/videos/WV_ExternalHardwareOverview.mp4"
 			},
 
 				"cuepoints": [
@@ -109,7 +109,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/gemini-front.jpg",
+								"url": "lessons/shared/images/gemini-front.png",
 								"width": 800,
 								"height": 450
 							}
@@ -195,15 +195,7 @@
 						"time": "85.25",
 						"play": true
 					},
-					"caption": "the display screen flips so that game graphics that were previously at the top of the screen",
-					"overlays": [
-						{
-                            "left": 50,
-                            "top": 15,
-                            "label": "Barcode Scanner",
-                            "blink": "none"
-                        }
-					]
+					"caption": "the display screen flips so that game graphics that were previously at the top of the screen"
 					
 				},
 				{
@@ -220,7 +212,48 @@
 						"time": "90.18",
 						"play": true
 					},
-					"caption": "The Help icon here ",
+					"caption": "The Help icon here "
+					
+				},
+				{
+
+					"videoControl" : {
+						"time": "92.13",
+						"play": true
+					},
+					"caption": "will guide the player, step by step if needed."
+				},
+				{
+
+					"videoControl" : {
+						"time": "98.24",
+						"play": true
+					},
+					"caption": "Letï¿½s look at this area of the terminal here."
+				},
+				{
+
+					"videoControl" : {
+						"time": "102.07",
+						"play": true
+					},
+					"caption": "Here is the Bar Code Scanner used to read ticket barcodes.",
+					"overlays": [
+						{
+                            "left": 50,
+                            "top": 15,
+                            "label": "Barcode Scanner",
+                            "blink": "none"
+                        }
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "110.04",
+						"play": true
+					},
+					"caption": "The Bill Acceptor is located here and accepts $1, $5, $10, $20, and $50 bills.",
 					"overlays": [
 						{
                             "left": 50,
@@ -234,10 +267,10 @@
 				{
 
 					"videoControl" : {
-						"time": "92.13",
+						"time": "113.24",
 						"play": true
 					},
-					"caption": "will guide the player, step by step if needed.",
+					"caption": "This is the Main Door lock.",
 					"overlays": [
 						{
                             "left": 50,
@@ -246,14 +279,15 @@
                             "blink": "none"
                         }
 					]
+					
 				},
 				{
 
 					"videoControl" : {
-						"time": "98.24",
+						"time": "116.04",
 						"play": true
 					},
-					"caption": "Let’s look at this area of the terminal here.",
+					"caption": "Below the lock is the Play Slip Reader.",
 					"overlays": [
 						{
                             "left": 50,
@@ -262,14 +296,15 @@
                             "blink": "none"
                         }
 					]
+					
 				},
 				{
 
 					"videoControl" : {
-						"time": "102.07",
+						"time": "120.12",
 						"play": true
 					},
-					"caption": "Here is the Bar Code Scanner used to read ticket barcodes.",
+					"caption": "And finally, below the Play Slip Reader, is the Ticket Retrieval Area ",
 					"overlays": [
 						{
                             "left": 50,
@@ -279,41 +314,6 @@
 							
 						}
 					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "110.04",
-						"play": true
-					},
-					"caption": "The Bill Acceptor is located here and accepts $1, $5, $10, $20, and $50 bills."
-					
-				},
-				{
-
-					"videoControl" : {
-						"time": "113.24",
-						"play": true
-					},
-					"caption": "This is the Main Door lock."
-					
-				},
-				{
-
-					"videoControl" : {
-						"time": "116.04",
-						"play": true
-					},
-					"caption": "Below the lock is the Play Slip Reader."
-					
-				},
-				{
-
-					"videoControl" : {
-						"time": "120.12",
-						"play": true
-					},
-					"caption": "And finally, below the Play Slip Reader, is the Ticket Retrieval Area "
 					
 				},
 				{
@@ -331,7 +331,7 @@
 						"time": "124.06",
 						"play": true
 					},
-					"caption": "So now let’s move on to the next lesson where we’ll take a look inside of the Gemini Touch!"
+					"caption": "So now let's move on to the next lesson where weï¿½ll take a look inside of the Gemini Touch!"
 					
 				}
 	]
