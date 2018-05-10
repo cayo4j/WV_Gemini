@@ -77,7 +77,7 @@
 				{
 
 					"videoControl" : {
-						"time": "4.313437",
+						"time": "4.08",
 						"play": true
 					},
 					"caption": "We'll start with looking at Instant Ticket Inventory Management.",
@@ -105,7 +105,7 @@
 				{
 
 					"videoControl" : {
-						"time": "6.318541",
+						"time": "7.25",
 						"play": true
 					},
 					"caption": "I'll touch Instant Ticket Inventory Management",
@@ -142,7 +142,7 @@
 				{
 
 					"videoControl" : {
-						"time": "8.654666",
+						"time": "10.23",
 						"play": true
 					},
 					"caption": "and the Instant Ticket Management screen displays.",
@@ -161,7 +161,7 @@
 				{
 
 					"videoControl" : {
-						"time": "11.481833",
+						"time": "13.18",
 						"play": true
 					},
 					"caption": "Here you can access functions for loading and unloading bins and forwarding tickets out of a burster in case of a jam,",
@@ -189,7 +189,7 @@
 				{
 
 					"videoControl" : {
-						"time": "19.674291",
+						"time": "21.11",
 						"play": true
 					},
 					"caption": "as well as easily access options related to these functions such as Scratch Off Ticket Parameters, Mapping and your Inventory Report.",
@@ -217,7 +217,7 @@
 				{
 
 					"videoControl" : {
-						"time": "23.772541",
+						"time": "30.03",
 						"play": true
 					},
 					"caption": "We'll cover these in detail later in this course."
@@ -225,7 +225,7 @@
 				{
 
 					"videoControl" : {
-						"time": "26.452729",
+						"time": "33.09",
 						"play": true
 					},
 					"caption": "You can return to the Home screen at any time by touching the Home icon.",
@@ -234,7 +234,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.jpg",
+								"url": "lessons/shared/images/instant-tkt-mgmt.png",
 								"width": 800,
 								"height": 450
 							}
@@ -253,7 +253,7 @@
 				{
 
 					"videoControl" : {
-						"time": "31.270937",
+						"time": "37.13",
 						"play": true
 					},
 					"caption": "I'll touch Home.",
@@ -262,7 +262,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.jpg",
+								"url": "lessons/shared/images/instant-tkt-mgmt.png",
 								"width": 800,
 								"height": 450
 							}
@@ -290,7 +290,7 @@
 				{
 
 					"videoControl" : {
-						"time": "32.702041",
+						"time": "38.26",
 						"play": true
 					},
 					"caption": "Reprint allows you to reprint the Last Play.",
@@ -318,7 +318,7 @@
 				{
 
 					"videoControl" : {
-						"time": "40.198458",
+						"time": "42.08",
 						"play": true
 					},
 					"caption": "Let's look at Management Functions.",
@@ -327,7 +327,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -355,7 +355,7 @@
 				{
 
 					"videoControl" : {
-						"time": "42.534562",
+						"time": "44.11",
 						"play": true
 					},
 					"caption": "This menu provides you with access to managerial functions available on the terminal.",
@@ -364,7 +364,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/management-functions.jpg",
+								"url": "lessons/shared/images/management-functions.png",
 								"width": 800,
 								"height": 450
 							}
@@ -374,7 +374,7 @@
 				{
 
 					"videoControl" : {
-						"time": "46.633854",
+						"time": "48.15",
 						"play": true
 					},
 					"caption": "These include controls to Reboot the Terminal,",
@@ -383,7 +383,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/management-functions.jpg",
+								"url": "lessons/shared/images/management-functions.png",
 								"width": 800,
 								"height": 450
 							}
@@ -402,7 +402,7 @@
 				{
 
 					"videoControl" : {
-						"time": "49.338958",
+						"time": "51.08",
 						"play": true
 					},
 					"caption": "check Device Status, ",
@@ -411,7 +411,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/management-functions.jpg",
+								"url": "lessons/shared/images/management-functions.png",
 								"width": 800,
 								"height": 450
 							}
@@ -430,7 +430,7 @@
 				{
 
 					"videoControl" : {
-						"time": "51.018062",
+						"time": "52.28",
 						"play": true
 					},
 					"caption": "view journals which include the System Event Log, Cash Log and Security Log, ",
@@ -439,7 +439,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/management-functions.jpg",
+								"url": "lessons/shared/images/management-functions.png",
 								"width": 800,
 								"height": 450
 							}
@@ -458,7 +458,7 @@
 				{
 
 					"videoControl" : {
-						"time": "57.242458",
+						"time": "58.04",
 						"play": true
 					},
 					"caption": "change your password,",
@@ -467,7 +467,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/management-functions.jpg",
+								"url": "lessons/shared/images/management-functions.png",
 								"width": 800,
 								"height": 450
 							}
@@ -486,7 +486,7 @@
 				{
 
 					"videoControl" : {
-						"time": "61.255645",
+						"time": "59.23",
 						"play": true
 					},
 					"caption": "and view Video Help for several terminal functions.",
@@ -495,7 +495,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/management-functions.jpg",
+								"url": "lessons/shared/images/management-functions.png",
 								"width": 800,
 								"height": 450
 							}
@@ -523,7 +523,7 @@
 				{
 
 					"videoControl" : {
-						"time": "63.91977",
+						"time": "63.19",
 						"play": true
 					},
 					"caption": "Here you can add and remove credits from the terminal, enable the terminal, clear terminal logs, and adjust terminal volume using the slider.",
@@ -532,7 +532,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -551,7 +551,7 @@
 				{
 
 					"videoControl" : {
-						"time": "71.545229",
+						"time": "73.11",
 						"play": true
 					},
 					"caption": "Now let's return to the Home Screen.",
@@ -560,7 +560,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -579,16 +579,16 @@
 				{
 
 					"videoControl" : {
-						"time": "73.430354",
+						"time": "75.24",
 						"play": true
 					},
-					"caption": "The Device Tests option provides access to tests for the Bill Acceptor, Barcode Reader, Printer and Burster. ",
+					"caption": "The Device Tests option provides access to tests for the Bill Acceptor, Bar Code Reader, Printer and Burster.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -616,7 +616,7 @@
 				{
 
 					"videoControl" : {
-						"time": "74.783416",
+						"time": "83.20",
 						"play": true
 					},
 					"caption": "Next is Reports.",
@@ -625,7 +625,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/reports-menu.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -635,7 +635,7 @@
 				{
 
 					"videoControl" : {
-						"time": "76.135458",
+						"time": "85.11",
 						"play": true
 					},
 					"caption": "Touching this button ",
@@ -644,7 +644,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/reports-menu.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -654,7 +654,7 @@
 				{
 
 					"videoControl" : {
-						"time": "80.599729",
+						"time": "86.23",
 						"play": true
 					},
 					"caption": "displays the Reports menu.",
@@ -663,7 +663,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/reports-menu.jpg",
+								"url": "lessons/shared/images/reports-menu.png",
 								"width": 800,
 								"height": 450
 							}
@@ -691,7 +691,7 @@
 				{
 
 					"videoControl" : {
-						"time": "82.441812",
+						"time": "88.18",
 						"play": true
 					},
 					"caption": "All of your Gemini Touch reports are located here.",
@@ -700,7 +700,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/reports-menu.png",
 								"width": 800,
 								"height": 450
 							}
@@ -710,7 +710,7 @@
 				{
 
 					"videoControl" : {
-						"time": "86.294062",
+						"time": "91.25",
 						"play": true
 					},
 					"caption": "I'll touch Home again.",
@@ -719,7 +719,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/reports-menu.png",
 								"width": 800,
 								"height": 450
 							}
@@ -747,7 +747,7 @@
 				{
 
 					"videoControl" : {
-						"time": "88.385166",
+						"time": "93.21",
 						"play": true
 					},
 					"caption": "And we'll look at the last option on the Home screen, Instant Functions.",
@@ -756,7 +756,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/instant-functions.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -766,7 +766,7 @@
 				{
 
 					"videoControl" : {
-						"time": "92.028375",
+						"time": "97.14",
 						"play": true
 					},
 					"caption": "I'll touch Instant Functions",
@@ -775,7 +775,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/instant-functions.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -794,7 +794,7 @@
 				{
 
 					"videoControl" : {
-						"time": "96.857666",
+						"time": "99.15",
 						"play": true
 					},
 					"caption": "then Instant Functions again,",
@@ -803,7 +803,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/instant-functions.jpg",
+								"url": "lessons/shared/images/instant-functions.png",
 								"width": 800,
 								"height": 450
 							}
@@ -831,7 +831,7 @@
 				{
 
 					"videoControl" : {
-						"time": "99.02775",
+						"time": "101.21",
 						"play": true
 					},
 					"caption": "and the menu displays options for Scratch Off Pack Activation and also Issues and Returns, which are only accessible by sales reps and technicians.",
@@ -840,7 +840,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/instant-pack-movement.jpg",
+								"url": "lessons/shared/images/instant-functions-menu.png",
 								"width": 800,
 								"height": 450
 							}
@@ -850,7 +850,7 @@
 				{
 
 					"videoControl" : {
-						"time": "105.132145",
+						"time": "110.22",
 						"play": true
 					},
 					"caption": "Pack Activation . Is used to activate tickets for sale in the Gemini Touch.",
@@ -859,7 +859,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/instant-pack-movement.jpg",
+								"url": "lessons/shared/images/instant-functions-menu.png",
 								"width": 800,
 								"height": 450
 							}
@@ -869,16 +869,16 @@
 				{
 
 					"videoControl" : {
-						"time": "110.129375",
+						"time": "115.00",
 						"play": true
 					},
-					"caption": "The steps for  activating packs of tickets are the same as performing them on your Flex terminal.",
+					"caption": "The steps for activating packs of tickets are the same as performing them on your Flex terminal.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/instant-pack-movement.jpg",
+								"url": "lessons/shared/images/instant-functions-menu.png",
 								"width": 800,
 								"height": 450
 							}
@@ -906,7 +906,7 @@
 				{
 
 					"videoControl" : {
-						"time": "111.93152",
+						"time": "119.04",
 						"play": true
 					},
 					"caption": "Going back to the Home screen, ",
@@ -915,7 +915,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -934,7 +934,7 @@
 				{
 
 					"videoControl" : {
-						"time": "115.207708",
+						"time": "120.27",
 						"play": true
 					},
 					"caption": "let me point out these buttons that appear on all menu screens.",
@@ -943,7 +943,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -962,7 +962,7 @@
 				{
 
 					"videoControl" : {
-						"time": "119.098916",
+						"time": "124.09",
 						"play": true
 					},
 					"caption": "The first is the Settings button which accesses the Management Functions menu.",
@@ -971,7 +971,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -990,7 +990,7 @@
 				{
 
 					"videoControl" : {
-						"time": "125.32327",
+						"time": "128.20",
 						"play": true
 					},
 					"caption": "Next is the Help button. Touch Help on any screen to view help information related to the screen.",
@@ -999,7 +999,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1018,15 +1018,26 @@
 				{
 
 					"videoControl" : {
-						"time": "129.94952",
+						"time": "134.26",
 						"play": true
 					},
-					"caption": "Finally is the Sign Off button, used to sign out of Manager functions."
+					"caption": "Finally is the Sign Off button, used to sign out of Manager functions.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "134.45377",
+						"time": "139.17",
 						"play": true
 					},
 					"caption": "And that's an overview of the Manager functions available from the Gemini Touch Home screen."
@@ -1034,7 +1045,7 @@
 				{
 
 					"videoControl" : {
-						"time": "134.45377",
+						"time": "144.04",
 						"play": true
 					},
 					"caption": "Let’s continue!"
