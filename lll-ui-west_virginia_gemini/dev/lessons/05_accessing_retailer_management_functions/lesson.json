@@ -67,7 +67,7 @@
 				{
 
 					"videoControl" : {
-						"time": "3.190625",
+						"time": "3.12",
 						"play": true
 					},
 					"caption": "The Manager Display inside the Gemini provides you with access to the functions you need to manage the Gemini Touch in your retail location."
@@ -75,15 +75,15 @@
 				{
 
 					"videoControl" : {
-						"time": "10.76602",
+						"time": "10.17",
 						"play": true
 					},
-					"caption": "Let's review the steps to open the Main Door."
+					"caption": "Let's review the steps to open the main door."
 				},
 				{
 
 					"videoControl" : {
-						"time": "12.936145",
+						"time": "12.28",
 						"play": true
 					},
 					"caption": "Use the key to unlock the Main Door lock, ",
@@ -102,7 +102,7 @@
 				{
 
 					"videoControl" : {
-						"time": "15.763312",
+						"time": "15.17",
 						"play": true
 					},
 					"caption": "here to the right on top of the Play Slip Reader.",
@@ -121,7 +121,7 @@
 				{
 
 					"videoControl" : {
-						"time": "17.933458",
+						"time": "17.27",
 						"play": true
 					},
 					"caption": "Insert the key into the Main Door lock "
@@ -129,7 +129,7 @@
 				{
 
 					"videoControl" : {
-						"time": "20.432645",
+						"time": "20.08",
 						"play": true
 					},
 					"caption": "and turn it to the right."
@@ -137,7 +137,7 @@
 				{
 
 					"videoControl" : {
-						"time": "21.785687",
+						"time": "22.03",
 						"play": true
 					},
 					"caption": "Lift the lever on the right side of the door up"
@@ -145,7 +145,7 @@
 				{
 
 					"videoControl" : {
-						"time": "24.737854",
+						"time": "24.26",
 						"play": true
 					},
 					"caption": "and pull the door open."
@@ -153,7 +153,7 @@
 				{
 
 					"videoControl" : {
-						"time": "26.499937",
+						"time": "26.13",
 						"play": true
 					},
 					"caption": "The alarm begins to sound as soon as the door is open."
@@ -161,7 +161,7 @@
 				{
 
 					"videoControl" : {
-						"time": "29.364458",
+						"time": "29.10",
 						"play": true
 					},
 					"caption": "To silence the alarm, use the Touch Screen on the Manager Display",
@@ -180,7 +180,7 @@
 				{
 
 					"videoControl" : {
-						"time": "33.457312",
+						"time": "33.08",
 						"play": true
 					},
 					"caption": "and enter your 6-digit User ID number: 123456 ",
@@ -199,7 +199,7 @@
 				{
 
 					"videoControl" : {
-						"time": "39.029604",
+						"time": "38.24",
 						"play": true
 					},
 					"caption": "and 4-digit Passcode: 1234",
@@ -218,7 +218,7 @@
 				{
 
 					"videoControl" : {
-						"time": "43.328854",
+						"time": "42.23",
 						"play": true
 					},
 					"caption": "and touch the SUBMIT button.",
@@ -246,16 +246,16 @@
 				{
 
 					"videoControl" : {
-						"time": "45.335958",
+						"time": "44.19",
 						"play": true
 					},
-					"caption": "The Retailer Home screen displays",
+					"caption": "The Device Status screen displays.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/device-status.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -265,7 +265,7 @@
 				{
 
 					"videoControl" : {
-						"time": "47.423125",
+						"time": "46.23",
 						"play": true
 					},
 					"caption": "We’ll review all of the menus and functions available from the Home screen in the next lesson.",
@@ -293,7 +293,7 @@
 				{
 
 					"videoControl" : {
-						"time": "49.512208",
+						"time": "51.27",
 						"play": true
 					},
 					"caption": "Let’s move on.",
