@@ -12,60 +12,16 @@
 				"play": true
 			},
 			"caption": "Welcome to the Virginia Lottery Learning Link web-based retailer training!",
-			"overlays": [{
-				"left": -9999,
+			"overlays": [
+			{
+				"left": 0,
 				"top": 0,
 				"image": {
 					"url": "lessons/shared/images/wv-gemini-external.png",
 					"width": 800,
 					"height": 450
 				}
-				},
-				{
-				"left": -9999,
-				"top": 0,
-				"image": {
-					"url": "lessons/shared/images/homescreen.png",
-					"width": 800,
-					"height": 450
-				}
-				},
-				{
-				"left": -9999,
-				"top": 0,
-				"image": {
-					"url": "lessons/shared/images/gemini-dimensions.png",
-					"width": 800,
-					"height": 450
-				}
-				},
-				{
-				"left": -9999,
-				"top": 0,
-				"image": {
-					"url": "lessons/shared/images/gemini-front.png",
-					"width": 800,
-					"height": 450
-				}
-				},
-				{
-				"left": -9999,
-				"top": 0,
-				"image": {
-					"url": "lessons/shared/images/scratch-draw-icons.png",
-					"width": 800,
-					"height": 450
-				}
-				},
-				{
-				"left": -9999,
-				"top": 0,
-				"image": {
-					"url": "lessons/shared/images/barcode-scanner.png",
-					"width": 800,
-					"height": 450
-				}
-				}
+			}
 			]
 		},
 		{
@@ -100,7 +56,7 @@
 				"time": "16.27",
 				"play": true
 			},
-			"caption": "Then we�ll move on to the Retailer Home screen, loading and unloading Scratcher tickets as well as maintaining the terminal in your store.",
+			"caption": "Then we'll move on to the Retailer Home screen, loading and unloading Scratcher tickets as well as maintaining the terminal in your store.",
 			"overlays": [{
 				"left": 0,
 				"top": 0,
@@ -187,12 +143,6 @@
 					"width": 800,
 					"height": 450
 				}
-			},
-			{
-				"left": 50,
-				"top": 50,
-				"label": "SAW Technology",
-				"blink": "none"
 			}]
 		},
 		{
@@ -209,6 +159,12 @@
 					"width": 800,
 					"height": 450
 				}
+			},
+			{
+				"left": 50,
+				"top": 15,
+				"label": "Scratch Off Games AND Draw Games",
+				"blink": "none"
 			}]
 		},
 		{
@@ -228,8 +184,8 @@
 			},
 			{
 				"left": 50,
-				"top": 50,
-				"label": "Scratch Games AND Draw Games",
+				"top": 15,
+				"label": "Scratch Off Games AND Draw Games",
 				"blink": "none"
 			}]
 		},
@@ -243,7 +199,7 @@
 			{
 				"left": 50,
 				"top": 15,
-				"label": "Scratch Games AND Draw Games",
+				"label": "Scratch Off Games AND Draw Games",
 				"blink": "none"
 			}]
 		},
@@ -257,7 +213,7 @@
 			{
 				"left": 50,
 				"top": 15,
-				"label": "Scratch Games AND Draw Games",
+				"label": "Scratch Off Games AND Draw Games",
 				"blink": "none"
 			}]
 		},
