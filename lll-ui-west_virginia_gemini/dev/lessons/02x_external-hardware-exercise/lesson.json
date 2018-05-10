@@ -12,19 +12,19 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/gemini-front.png",
+								"url": "lessons/shared/images/wv-gemini-external.png",
 								"width": 800,
 								"height": 450
 							},
 		                    "isSubmit": true
 						},
 						{
-							"left": 451,
-							"top": 203,
+							"left": 445,
+							"top": 193,
 							"image": {
-								"url": "lessons/shared/images/bill-acceptor-btn.png",
-								"width": 30,
-								"height": 18
+								"url": "lessons/shared/images/transparent.png",
+								"width": 40,
+								"height": 46
 							},
 							"hotspot": "Bill Acceptor",
 		                    "isSubmit": true,
@@ -48,19 +48,19 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/gemini-front.png",
+								"url": "lessons/shared/images/wv-gemini-external.png",
 								"width": 800,
 								"height": 450
 							},
 		                    "isSubmit": true
 						},
 						{
-							"left": 313,
-							"top": 64,
+							"left": 326,
+							"top": 79,
 							"image": {
-								"url": "lessons/shared/images/touch-screen-btn.png",
-								"width": 122,
-								"height": 213
+								"url": "lessons/shared/images/transparent.png",
+								"width": 111,
+								"height": 189
 							},
 							"hotspot": "Touch Screen",
 		                    "isSubmit": true,
@@ -84,19 +84,19 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/gemini-front.png",
+								"url": "lessons/shared/images/wv-gemini-external.png",
 								"width": 800,
 								"height": 450
 							},
 		                    "isSubmit": true
 						},
 						{
-							"left": 460,
-							"top": 274,
+							"left": 461,
+							"top": 262,
 							"image": {
-								"url": "lessons/shared/images/door-lock-btn.png",
-								"width": 24,
-								"height": 21
+								"url": "lessons/shared/images/transparent.png",
+								"width": 18,
+								"height": 23
 							},
 							"hotspot": "Door Lock",
 		                    "isSubmit": true,
@@ -120,19 +120,19 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/gemini-front.png",
+								"url": "lessons/shared/images/wv-gemini-external.png",
 								"width": 800,
 								"height": 450
 							},
 		                    "isSubmit": true
 						},
 						{
-							"left": 311,
-							"top": 319,
+							"left": 327,
+							"top": 303,
 							"image": {
-								"url": "lessons/shared/images/ticket-ret-area.png",
-								"width": 177,
-								"height": 38
+								"url": "lessons/shared/images/transparent.png",
+								"width": 156,
+								"height": 34
 							},
 							"hotspot": "Ticket Retrieval Area",
 		                    "isSubmit": true,
@@ -156,19 +156,19 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/gemini-front.png",
+								"url": "lessons/shared/images/wv-gemini-external.png",
 								"width": 800,
 								"height": 450
 							},
 		                    "isSubmit": true
 						},
 						{
-							"left": 463,
-							"top": 131,
+							"left": 444,
+							"top": 133,
 							"image": {
-								"url": "lessons/shared/images/barcode-scanner-btn.png",
-								"width": 28,
-								"height": 36
+								"url": "lessons/shared/images/transparent.png",
+								"width": 45,
+								"height": 51
 							},
 							"hotspot": "Barcode Scanner",
 		                    "isSubmit": true,
@@ -192,20 +192,20 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/gemini-front.png",
+								"url": "lessons/shared/images/wv-gemini-external.png",
 								"width": 800,
 								"height": 450
 							},
 		                    "isSubmit": true
 						},
 						{
-							"left": 441,
-							"top": 289,
+							"left": 444,
+							"top": 262,
 							"hotspot": "Bill Acceptor",
 							"image": {
-								"url": "lessons/shared/images/playslip-reader-btn.png",		
-								"width": 45,
-								"height": 23
+								"url": "lessons/shared/images/transparent.png",		
+								"width": 39,
+								"height": 38
 							},
 							"hotspot": "Play Slip Reader",
 		                    "isSubmit": true,
