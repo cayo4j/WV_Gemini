@@ -31,7 +31,7 @@
 				{
 
 					"videoControl" : {
-						"time": "6.75",
+						"time": "6.23",
 						"play": true
 					},
 					"caption": "As we mentioned previously, the key marked BA is needed in order to access this area.",
@@ -40,7 +40,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/ba-key.png",
+								"url": "lessons/shared/images/gemini_keys_ba.png",
 								"width": 800,
 								"height": 450
 							}
@@ -50,7 +50,7 @@
 				{
 
 					"videoControl" : {
-						"time": "10.8",
+						"time": "12.03",
 						"play": true
 					},
 					"caption": "To open the Bill Acceptor door, insert the BA key into the lock, "
@@ -58,7 +58,7 @@
 				{
 
 					"videoControl" : {
-						"time": "15",
+						"time": "16.06",
 						"play": true
 					},
 					"caption": "turn it to the right, "
@@ -66,7 +66,7 @@
 				{
 
 					"videoControl" : {
-						"time": "15.96",
+						"time": "17.17",
 						"play": true
 					},
 					"caption": "and gently pull the door forward.  "
@@ -74,7 +74,7 @@
 				{
 
 					"videoControl" : {
-						"time": "18.21",
+						"time": "19.11",
 						"play": true
 					},
 					"caption": "This reveals the Cash Box.  "
@@ -82,7 +82,7 @@
 				{
 
 					"videoControl" : {
-						"time": "20.35",
+						"time": "21.09",
 						"play": true
 					},
 					"caption": "To remove the Cash Box, simply lift up the blue release button at the rear with one hand"
@@ -90,7 +90,7 @@
 				{
 
 					"videoControl" : {
-						"time": "27.41",
+						"time": "26.09",
 						"play": true
 					},
 					"caption": "slide the Cash Box toward the back of the Gemini"
@@ -98,7 +98,7 @@
 				{
 
 					"videoControl" : {
-						"time": "31.86",
+						"time": "29.00",
 						"play": true
 					},
 					"caption": "and gently lift it up and out."
@@ -106,7 +106,7 @@
 				{
 
 					"videoControl" : {
-						"time": "36.63",
+						"time": "31.20",
 						"play": true
 					},
 					"caption": "To remove money from the Cash Box, locate the round opening,"
@@ -114,10 +114,50 @@
 				{
 
 					"videoControl" : {
-						"time": "39.67",
+						"time": "35.13",
 						"play": true
 					},
-					"caption": "Now letï¿½s re-insert the Cash Box. "
+					"caption": "push down the blue button to open the door,"
+				},
+				{
+
+					"videoControl" : {
+						"time": "38.04",
+						"play": true
+					},
+					"caption": "then push up the clear stacker and slide the money out."
+				},
+				{
+
+					"videoControl" : {
+						"time": "41.29",
+						"play": true
+					},
+					"caption": "Now let’s re-insert the Cash Box. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "44.16",
+						"play": true
+					},
+					"caption": "Lower the Cash Box back in while pressing it to the rear of the Gemini just as you did when you removed it."
+				},
+				{
+
+					"videoControl" : {
+						"time": "50.25",
+						"play": true
+					},
+					"caption": "Once it is all the way down, gently pull it forward until it locks into place. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "55.23",
+						"play": true
+					},
+					"caption": "To close the Bill Acceptor compartment, lift up the door, close firmly, turn the key to the left and remove it."
 				}]
 },
 				{
