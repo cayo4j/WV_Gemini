@@ -20,7 +20,7 @@
 				{
 
 					"videoControl" : {
-						"time": "1.88",
+						"time": "1.22",
 						"play": true
 					},
 					"caption": "We went over all of the parts of your new Gemini Touch."
@@ -28,7 +28,7 @@
 				{
 
 					"videoControl" : {
-						"time": "4.51",
+						"time": "4.18",
 						"play": true
 					},
 					"caption": "We know you are going to find the terminal to be a welcomed addition to your retail location."
@@ -36,7 +36,7 @@
 				{
 
 					"videoControl" : {
-						"time": "9.377",
+						"time": "9.07",
 						"play": true
 					},
 					"caption": "To receive your certificate, just answer the questions on the following screens."
@@ -44,7 +44,7 @@
 				{
 
 					"videoControl" : {
-						"time": "13.779",
+						"time": "13.17",
 						"play": true
 					},
 					"caption": "Then return to the Learner Center and click on Transcript to view and print your certificate."
@@ -52,7 +52,7 @@
 				{
 
 					"videoControl" : {
-						"time": "20.261",
+						"time": "20.00",
 						"play": true
 					},
 					"caption": "Once you have your certificate, you'll be on your way."
@@ -60,10 +60,26 @@
 				{
 
 					"videoControl" : {
-						"time": "23.191",
+						"time": "22.29",
 						"play": true
 					},
 					"caption": "Good Luck!"
+				},
+				{
+
+					"videoControl" : {
+						"time": "22.29",
+						"play": true
+					},
+					"caption": "Well, that's it!"
+				},
+				{
+
+					"videoControl" : {
+						"time": "22.29",
+						"play": true
+					},
+					"caption": "We went over all of the parts of your new Gemini Touch."
 				}
 	]
 },

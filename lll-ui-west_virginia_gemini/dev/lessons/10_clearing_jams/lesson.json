@@ -58,7 +58,7 @@
 				{
 
 					"videoControl" : {
-						"time": "3.352",
+						"time": "2.27",
 						"play": true
 					},
 					"caption": "Use the bill acceptor key to open the Bill Acceptor door"
@@ -66,7 +66,7 @@
 				{
 
 					"videoControl" : {
-						"time": "6.743",
+						"time": "6.18",
 						"play": true
 					},
 					"caption": "and gently tilt the assembly down."
@@ -74,7 +74,7 @@
 				{
 
 					"videoControl" : {
-						"time": "9.034",
+						"time": "9.04",
 						"play": true
 					},
 					"caption": "Remove the Bill Acceptor by pushing up the silver latching bar"
@@ -82,7 +82,7 @@
 				{
 
 					"videoControl" : {
-						"time": "12.5",
+						"time": "12.11",
 						"play": true
 					},
 					"caption": "and pulling straight out."
@@ -90,7 +90,7 @@
 				{
 
 					"videoControl" : {
-						"time": "14.425",
+						"time": "13.19",
 						"play": true
 					},
 					"caption": "Gently lift the read head from the Bill Acceptor"
@@ -98,7 +98,7 @@
 				{
 
 					"videoControl" : {
-						"time": "16.919",
+						"time": "16.07",
 						"play": true
 					},
 					"caption": "and clear the jammed bills."
@@ -106,7 +106,7 @@
 				{
 
 					"videoControl" : {
-						"time": "19.219",
+						"time": "21.02",
 						"play": true
 					},
 					"caption": "After the Bill Acceptor has been cleared, gently slide it back into its locked position."
@@ -114,7 +114,7 @@
 				{
 
 					"videoControl" : {
-						"time": "24.052",
+						"time": "26.14",
 						"play": true
 					},
 					"caption": "If the Bill Acceptor is put into its proper position, it will reset after 10 seconds."
@@ -122,7 +122,7 @@
 				{
 
 					"videoControl" : {
-						"time": "29.123",
+						"time": "28.21",
 						"play": true
 					},
 					"caption": "Now run a Bill Acceptor Test.  "
@@ -130,11 +130,20 @@
 				{
 
 					"videoControl" : {
-						"time": "31.223",
+						"time": "30.20",
 						"play": true
 					},
-					"caption": "From the Manager Menu,",
+					"caption": "From the Device Tests menu, ",
 					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/device-tests-menu.png",
+								"width": 800,
+								"height": 450
+							}
+						},
 						{
 							"left": 0,
 							"top": 0,
@@ -167,10 +176,10 @@
 				{
 
 					"videoControl" : {
-						"time": "35.000",
+						"time": "32.20",
 						"play": true
 					},
-					"caption": "then touch Device Tests",
+					"caption": "touch Test Bill Acceptor.",
 					"overlays": [
 						{
 							"left": 0,
@@ -204,16 +213,16 @@
 				{
 
 					"videoControl" : {
-						"time": "37.100",
+						"time": "35.01",
 						"play": true
 					},
-					"caption": "and Test Bill Acceptor.",
+					"caption": "The Bill Acceptor Test screen displays.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/test-bill-acceptor.jpg",
+								"url": "lessons/shared/images/bill-acceptor-test.png",
 								"width": 800,
 								"height": 450
 							}
@@ -223,24 +232,24 @@
 				{
 
 					"videoControl" : {
-						"time": "40.055",
+						"time": "37.23",
 						"play": true
 					},
-					"caption": "The Bill Acceptor Test screen displays."
+					"caption": "Insert a bill into the acceptor "
 				},
 				{
 
 					"videoControl" : {
-						"time": "42.00",
+						"time": "41.19",
 						"play": true
 					},
-					"caption": "Insert a bill into the acceptor ",
+					"caption": "and verify that the acceptor properly recognizes the bill inserted.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/test-ba-confirm.jpg",
+								"url": "lessons/shared/images/bill-acceptor-test-confirm.png",
 								"width": 800,
 								"height": 450
 							}
@@ -250,10 +259,21 @@
 				{
 
 					"videoControl" : {
-						"time": "46.298",
+						"time": "45.14",
 						"play": true
 					},
-					"caption": "and verify that the acceptor properly recognizes the bill inserted."
+					"caption": "and verify that the acceptor properly recognizes the bill inserted.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/bill-acceptor-test-confirm.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
