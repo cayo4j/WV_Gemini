@@ -5,7 +5,7 @@
 			"type": "video",
 			"name": "Loading and Unloading Scratcher Tickets",
 			"video": {
-				"url": "lessons/shared/videos/LoadingandUnloadingScratcherTickets_v3.mp4"
+				"url": "lessons/shared/videos/WV_LoadingandUnloadingScratchOffTickets.mp4"
 			},
 
 				"cuepoints": [
@@ -15,193 +15,13 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Now I’m going to show you how to load Scratch Off tickets into Gemini Touch bins.",
+					"caption": "Now I'm going to show you how to load Scratch Off tickets into Gemini Touch bins.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/wv-gemini-external.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/va-logo-screen-exercise.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9990,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9990,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9990,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/instant-tkt-mgmt-zero.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9990,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/scan_that_ticket_pack.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9990,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/scan-first-submit.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9990,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/scan-last-full-pack.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9990,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/scan-last-ticket.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9990,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/load-confirm.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9990,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/parameters.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-                        {
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/instant-tkt-mgmt-bin4.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/instant-tkt-mgmt-zero.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/scan-last-ticket.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/parameters.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/gemini-front.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/gemini_scan_first_ticket.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/10-inch-scratcher.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/unload-confirm.jpg",
 								"width": 800,
 								"height": 450
 							}
@@ -220,27 +40,9 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/scratch-functions.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 267,
-							"top": 225,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}
 						}
 					]
@@ -280,24 +82,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/bin4.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 569,
-							"top": 149,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}
 						}
 					]
 				},
@@ -316,24 +100,6 @@
 								"url": "lessons/shared/images/instant-tkt-mgmt.png",
 								"width": 800,
 								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/loadtickets.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 199,
-							"top": 296,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}
 						}
 					]
@@ -373,24 +139,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/scan-first-submit-btn.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 309,
-							"top": 244,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}
 						}
 					]
 				},
@@ -409,24 +157,6 @@
 								"url": "lessons/shared/images/load-tickets-enter-last.png",
 								"width": 800,
 								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/scan-last-full-pack-btn.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 264,
-							"top": 288,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}
 						}
 					]
@@ -447,24 +177,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/scan-last-ticket-btn.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 307,
-							"top": 246,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}
 						}
 					]
 				},
@@ -483,24 +195,6 @@
 								"url": "lessons/shared/images/load-successful.png",
 								"width": 800,
 								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/load-confirm-btn.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 377,
-							"top": 270,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}
 						}
 					]
@@ -536,7 +230,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/parameters.jpg",
+								"url": "lessons/shared/images/parameters.png",
 								"width": 800,
 								"height": 450
 							}
@@ -555,7 +249,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/gemini-front.jpg",
+								"url": "lessons/shared/images/wv-gemini-external.png",
 								"width": 800,
 								"height": 450
 							}
@@ -597,25 +291,7 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/scan-first-submit-btn.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 307,
-							"top": 245,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}
-						}
+						} 
 					]
 				},
                 {
@@ -653,25 +329,7 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/scan-last-ticket-btn.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 307,
-							"top": 245,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}
-						}
+						} 
 					]
 				},	
                 {
@@ -686,29 +344,11 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/load-confirm.jpg",
+								"url": "lessons/shared/images/load-confirm.png",
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/load-confirm-btn.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 377,
-							"top": 270,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}
-						}
+						} 
 					]
 				},
 				{
@@ -859,25 +499,7 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/bin4.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 569,
-							"top": 149,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}
-						}
+						} 
 					]
 				},
 				{
@@ -896,25 +518,7 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/unload-bin.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 264,
-							"top": 297,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}
-						}
+						} 
 					]
 				},
 				{
@@ -933,25 +537,7 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/confirm-button.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 376,
-							"top": 274,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}
-						}
+						} 
 					]
 				},
 				{
@@ -1008,16 +594,7 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/forward-tickets.png",
-								"width": 800,
-								"height": 450
-							}
-						}
+						} 
 					]
 				},
 				{
@@ -1036,16 +613,7 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/forward-tickets.png",
-								"width": 800,
-								"height": 450
-							}
-						}
+						} 
 					]
 				},
 				{
@@ -1081,7 +649,7 @@
 						"time": "164.01",
 						"play": true
 					},
-					"caption": "Ok, let’s keep going."
+					"caption": "Ok, let's keep going."
 				}
 	]
 },

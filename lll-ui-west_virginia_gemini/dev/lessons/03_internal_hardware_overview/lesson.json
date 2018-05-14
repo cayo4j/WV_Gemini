@@ -5,7 +5,7 @@
 			"type": "video",
 			"name": "Internal Hardware Overview",
 			"video": {
-				"url": "lessons/shared/videos/InternalHardwareOverview_810_v3.mp4"
+				"url": "lessons/shared/videos/InternalHardwareOverview.mp4"
 			},
 
 				"cuepoints": [
@@ -15,86 +15,12 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Let's review the inside of the Gemini Touch.",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/inside-gemini-doors.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/gemini-keys.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/qrc.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/gemini-front.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/sign-on-userid.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/sign-on-password.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/main-door-stay.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/event-log-print-confirm.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "Let's review the inside of the Gemini Touch."
 				},
 				{
 
 					"videoControl" : {
-						"time": "0.30",
+						"time": "3.0",
 						"play": true
 					},
 					"caption": "Before we open the main door I want to point out a few things. "
@@ -146,8 +72,8 @@
 					"caption": "The lock is located here above the Play Slip Reader. ",
 					"overlays": [
 						{
-							"left": 0,
-							"top": 0,
+							"left": -120,
+							"top": -22,
 							"image": {
 								"url": "lessons/shared/images/lock_circle.png",
 								"width": 800,
@@ -202,18 +128,7 @@
 						"time": "31.02",
 						"play": true
 					},
-					"caption": "To silence the alarm, use the numeric keypad on the Manager Display and enter your 6-digit User ID number: 123456 ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/sign-on-userid.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "To silence the alarm, use the numeric keypad on the Manager Display and enter your 6-digit User ID number: 123456 "
 				},
 				{
 
@@ -221,18 +136,7 @@
 						"time": "41.01",
 						"play": true
 					},
-					"caption": "and 4-digit Password: 1234",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/sign-on-password.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "and 4-digit Password: 1234"
 				},
 				{
 
@@ -240,27 +144,7 @@
 						"time": "45.02",
 						"play": true
 					},
-					"caption": "and touch SUBMIT.  ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/sign-on-password.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/sign-on-pw-submit.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "and touch SUBMIT.  "
 				},
 				{
 
@@ -276,18 +160,7 @@
 						"time": "50.19",
 						"play": true
 					},
-					"caption": "On the top right is the large amber Power Button for the terminal.  ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/main-door-stay.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "On the top right is the large amber Power Button for the terminal.  "
 				},
 				{
 
@@ -295,18 +168,7 @@
 						"time": "54.24",
 						"play": true
 					},
-					"caption": "When the button is in the \"Up\" position the power is ON,",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-button.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "When the button is in the \"Up\" position the power is ON," 
 				},
 				{
 
@@ -314,15 +176,7 @@
 						"time": "58.25",
 						"play": true
 					},
-					"caption": "when in the \"Down\" position it is OFF.",
-					"overlays": [
-						{
-							"left": 290,
-							"top": 170,
-							"label": "UP = ON",
-                            "blink": "none"
-						}
-					]
+					"caption": "when in the \"Down\" position it is OFF." 
 				},
 				{
 
@@ -330,15 +184,7 @@
 						"time": "61.25",
 						"play": true
 					},
-					"caption": "The inner doors here are used to access the bins when loading or unloading Scratch Off tickets. ",
-					"overlays": [
-						{
-							"left": 280,
-							"top": 247,
-							"label": "DOWN = OFF",
-                            "blink": "none"
-						}
-					]
+					"caption": "The inner doors here are used to access the bins when loading or unloading Scratch Off tickets. " 
 				},
 				{
 
@@ -346,18 +192,7 @@
 						"time": "68.00",
 						"play": true
 					},
-					"caption": "On the first door is a listing of Reports you can print from the terminal. ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/inside-gemini-doors.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "On the first door is a listing of Reports you can print from the terminal. " 
 				},
 				{
 
@@ -365,18 +200,7 @@
 						"time": "71.28",
 						"play": true
 					},
-					"caption": "Notice each of these has a bar code just under the Report name for convenience.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/inside-gemini-doors.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "Notice each of these has a bar code just under the Report name for convenience." 
 				},
 				{
 
@@ -384,18 +208,7 @@
 						"time": "77.09",
 						"play": true
 					},
-					"caption": "All you have to do is scan the bar code with the Bar Code Scanner ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/reports-sticker.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "All you have to do is scan the bar code with the Bar Code Scanner "
 				},
 				{
 
@@ -422,18 +235,7 @@
 						"time": "83.28",
 						"play": true
 					},
-					"caption": "To the right of that is a Quick Reference sticker that shows instructions for loading and unloading Scratch Off tickets and loading the Printer paper.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/event-log.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "To the right of that is a Quick Reference sticker that shows instructions for loading and unloading Scratch Off tickets and loading the Printer paper."
 				},
                 {
 
@@ -441,36 +243,7 @@
 						"time": "92.05",
 						"play": true
 					},
-					"caption": "To open the inner doors, simply turn the latch to the left ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/event-log.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-                        {
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/event-log-printer-icon.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-                        {
-							"left": 504,
-							"top": 84,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}
-						}
-					]
+					"caption": "To open the inner doors, simply turn the latch to the left "
 				},
                 {
 
@@ -478,36 +251,7 @@
 						"time": "96.03",
 						"play": true
 					},
-					"caption": "and pull open both doors.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/event-log-print-confirm.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-                        {
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/event-log-print-confirm-ok.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-                        {
-							"left": 362,
-							"top": 264,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}
-						}
-					]
+					"caption": "and pull open both doors."
 				},
                 {
 
@@ -515,18 +259,7 @@
 						"time": "99.04",
 						"play": true
 					},
-					"caption": "The first door prevents static electricity.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/event-log-print-receipt.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "The first door prevents static electricity."
 				},
 				{
 
@@ -534,18 +267,7 @@
 						"time": "101.25",
 						"play": true
 					},
-					"caption": "The second inner door helps to ensure tickets dispense correctly.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/qrc.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "The second inner door helps to ensure tickets dispense correctly."
 				},
 				{
 
@@ -586,7 +308,7 @@
 						"time": "119.28",
 						"play": true
 					},
-					"caption": "We’ll cover accessing the Bill Acceptor in detail later in the course."
+					"caption": "We'll cover accessing the Bill Acceptor in detail later in the course."
 				},
 				{
 
@@ -610,7 +332,7 @@
 						"time": "132.13",
 						"play": true
 					},
-					"caption": "Now that you are familiar with the parts of the machine we’ll continue to the next lesson, placing wagers! "
+					"caption": "Now that you are familiar with the parts of the machine we'll continue to the next lesson, placing wagers! "
 				},
 				{
 
@@ -618,7 +340,7 @@
 						"time": "138.09",
 						"play": true
 					},
-					"caption": "Ready? Let’s Go!"
+					"caption": "Ready? Let's Go!"
 				}
 	]
 },
