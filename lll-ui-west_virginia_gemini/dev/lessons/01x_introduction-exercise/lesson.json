@@ -21,7 +21,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/va-logo-screen-exercise.jpg",
+								"url": "lessons/shared/images/wv-logo-screen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -33,7 +33,7 @@
 		{
 			"type": "multipleChoice",
 			"name": "Introduction - Exercise",
-			"label": "Players can purchase both Draw and ScratchOff games from the Gemini Touch.",
+			"label": "Players can purchase both Draw and Scratch Off games from the Gemini Touch.",
 			"options": [
 				{
 					"label": "True",
@@ -51,32 +51,32 @@
 				},
 				"invalid": {
 					"label": "Sorry,",
-					"text": "Sorry, the answer is True Players can purchase both Draw and Scratch Off games from the Gemini Touch."
+					"text": "Sorry, the answer is True. Players can purchase both Draw and Scratch Off games from the Gemini Touch."
 				}
 			}
 		},
 		{
 			"type": "multipleChoice",
 			"name": "Introduction - Exercise",
-			"label": "If players choose to receive credits for their winnings up to $200, all credits must be used.",
+			"label": "What terminal feature allows players to use winnings up to $200.00 to add credits to the machine?",
 			"options": [
 				{
-					"label": "True",
-					"isCorrect": true
+					"label": "SAW Technology",
+					"isCorrect": false
 				},
 				{
-					"label": "False",
-					"isCorrect": false
+					"label": "Winning Credit Feature",
+					"isCorrect": true
 				}
 			],
 			"feedback": {
 				"valid": {
-					"label": "Great!",
+					"label": "You're Right!",
 					"text": "Click OK to Continue."
 				},
 				"invalid": {
 					"label": "Incorrect.",
-					"text": "Sorry, the correct answer is True, all credits must be used if players choose to receive credits for their winnings up to $200."
+					"text": "Sorry, the correct answer is the Winning Credit Feature."
 				}
 			}
 		},

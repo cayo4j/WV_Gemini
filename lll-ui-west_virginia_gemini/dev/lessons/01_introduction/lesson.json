@@ -53,7 +53,7 @@
 		},
 		{
 			"videoControl": {
-				"time": "16.27",
+				"time": "16.75",
 				"play": true
 			},
 			"caption": "Then we'll move on to the Retailer Home screen, loading and unloading Scratcher tickets as well as maintaining the terminal in your store.",
@@ -185,7 +185,7 @@
 			{
 				"left": 50,
 				"top": 15,
-				"label": "Scratch Off Games AND Draw Games",
+				"label": "Scratch Off Games",
 				"blink": "none"
 			}]
 		},
@@ -199,7 +199,7 @@
 			{
 				"left": 50,
 				"top": 15,
-				"label": "Scratch Off Games AND Draw Games",
+				"label": "Scratch Off Games",
 				"blink": "none"
 			}]
 		},
@@ -213,7 +213,7 @@
 			{
 				"left": 50,
 				"top": 15,
-				"label": "Scratch Off Games AND Draw Games",
+				"label": "Scratch Off Games",
 				"blink": "none"
 			}]
 		},
@@ -223,15 +223,7 @@
 				"play": true
 			},
 			"caption": "The terminal also features a Ticket Scan Plus function that allows players to scan Scratch Off and Draw Game ticket barcodes to see if it is a winner.",
-			"overlays": [{
-				"left": 0,
-				"top": 0,
-				"image": {
-					"url": "lessons/shared/images/barcode-scanner.png",
-					"width": 800,
-					"height": 450
-				}
-			},
+			"overlays": [
 			{
 				"left": 50,
 				"top": 50,
@@ -241,7 +233,7 @@
 		},
 		{
 			"videoControl": {
-				"time": "82.00",
+				"time": "81.50",
 				"play": true
 			},
 			"caption": "The Gemini Touch automatically starts at the beginning of the day and closes down automatically at the end of the day. ",
@@ -273,7 +265,7 @@
 		},
 		{
 			"videoControl": {
-				"time": "91.05",
+				"time": "92.05",
 				"play": true
 			},
 			"caption": "Let's move on and look closer at the terminal hardware."

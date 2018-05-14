@@ -55,7 +55,18 @@
 						"time": "21.01",
 						"play": true
 					},
-					"caption": "Once the game icon is touched "
+					"caption": "Once the game icon is touched ",
+			"overlays": [
+			{
+				"left": 0,
+				"top": 0,
+				"image": {
+					"url": "lessons/shared/images/02_game_icon.png",
+					"width": 800,
+					"height": 450
+				}
+			}
+			]
 				},
 				{
 
@@ -95,7 +106,18 @@
 						"time": "41.10",
 						"play": true
 					},
-					"caption": "For each game, an Information icon displays."
+					"caption": "For each game, an Information icon displays.",
+			"overlays": [
+			{
+				"left": 0,
+				"top": 0,
+				"image": {
+					"url": "lessons/shared/images/02_infoIcon.png",
+					"width": 800,
+					"height": 450
+				}
+			}
+			]
 				},
 				{
 
@@ -103,23 +125,12 @@
 						"time": "44.16",
 						"play": true
 					},
-					"caption": "Once the Information icon is touched ",
-                    "overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/gemini-front.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "Once the Information icon is touched "
 				},
 				{
 
 					"videoControl" : {
-						"time": "50.16",
+						"time": "46.16",
 						"play": true
 					},
 					"caption": "it will display how to play information for the selected game."
@@ -127,7 +138,7 @@
 				{
 
 					"videoControl" : {
-						"time": "55.27",
+						"time": "50.16",
 						"play": true
 					},
 					"caption": "For Scratch Off games, the Touch Screen displays a Digital Image for each of the games that can be purchased.  "
@@ -135,16 +146,27 @@
 				{
 
 					"videoControl" : {
-						"time": "59.16",
+						"time": "55.27",
 						"play": true
 					},
-					"caption": "The Gemini Touch can carry up to 24 Scratch Off games."
+					"caption": "The Gemini Touch can carry up to 24 Scratch Off games.",
+			"overlays": [
+			{
+				"left": 0,
+				"top": 0,
+				"image": {
+					"url": "lessons/shared/images/wv-gemini-external.png",
+					"width": 800,
+					"height": 450
+				}
+			}
+			]
 				},
 
 				{
 
 					"videoControl" : {
-						"time": "61.02",
+						"time": "59.16",
 						"play": true
 					},
 					"caption": "Once the game is touched, "
@@ -152,7 +174,7 @@
 				{
 
 					"videoControl" : {
-						"time": "65.06",
+						"time": "61.02", 
 						"play": true
 					},
 					"caption": "the screen will display the cost of the ticket and quantity that can be purchased."
@@ -160,15 +182,26 @@
 				{
 
 					"videoControl" : {
-						"time": "69.12",
+						"time": "65.06",
 						"play": true
 					},
-					"caption": "All Messages for players display in the middle of the screen here."
+					"caption": "All Messages for players display in the middle of the screen here.",
+			"overlays": [
+			{
+				"left": 0,
+				"top": 0,
+				"image": {
+					"url": "lessons/shared/images/02_middleScreen.png",
+					"width": 800,
+					"height": 450
+				}
+			}
+			]
 				},
 				{
 
 					"videoControl" : {
-						"time": "75.05",
+						"time": "69.12",
 						"play": true
 					},
 					"caption": "The Gemini Touch supports American with Disabilities, or ADA regulations. "
@@ -176,15 +209,26 @@
 				{
 
 					"videoControl" : {
-						"time": "78.22",
+						"time": "75.05",
 						"play": true
 					},
-					"caption": "The terminal display provides a Flip the Screen button. "
+					"caption": "The terminal display provides a Flip the Screen button. ",
+			"overlays": [
+			{
+				"left": 0,
+				"top": 0,
+				"image": {
+					"url": "lessons/shared/images/02_flipscreen.png",
+					"width": 800,
+					"height": 450
+				}
+			}
+			]
 				},
 				{
 
 					"videoControl" : {
-						"time": "80.19",
+						"time": "78.22",
 						"play": true
 					},
 					"caption": "When this button is selected, "
@@ -192,7 +236,7 @@
 				{
 
 					"videoControl" : {
-						"time": "85.25",
+						"time": "80.19",
 						"play": true
 					},
 					"caption": "the display screen flips so that game graphics that were previously at the top of the screen"
@@ -201,7 +245,7 @@
 				{
 
 					"videoControl" : {
-						"time": "90.18",
+						"time": "85.25",
 						"play": true
 					},
 					"caption": "will be positioned at the bottom of the screen for easy access by the player. "
@@ -209,16 +253,27 @@
 				{
 
 					"videoControl" : {
-						"time": "90.18",
+						"time": "90.18", 
 						"play": true
 					},
-					"caption": "The Help icon here "
+					"caption": "The Help icon here ",
+			"overlays": [
+			{
+				"left": 0,
+				"top": 0,
+				"image": {
+					"url": "lessons/shared/images/02_helpIcon.png",
+					"width": 800,
+					"height": 450
+				}
+			}
+			]
 					
 				},
 				{
 
 					"videoControl" : {
-						"time": "92.13",
+						"time": "92.18",
 						"play": true
 					},
 					"caption": "will guide the player, step by step if needed."
@@ -226,15 +281,15 @@
 				{
 
 					"videoControl" : {
-						"time": "98.24",
+						"time": "96.13",
 						"play": true
 					},
-					"caption": "Let�s look at this area of the terminal here."
+					"caption": "Let's look at this area of the terminal here."
 				},
 				{
 
 					"videoControl" : {
-						"time": "102.07",
+						"time": "98.24",
 						"play": true
 					},
 					"caption": "Here is the Bar Code Scanner used to read ticket barcodes.",
@@ -242,7 +297,7 @@
 						{
                             "left": 50,
                             "top": 15,
-                            "label": "Barcode Scanner",
+                            "label": "Bar Code Scanner",
                             "blink": "none"
                         }
 					]
@@ -250,7 +305,7 @@
 				{
 
 					"videoControl" : {
-						"time": "110.04",
+						"time": "102.07",
 						"play": true
 					},
 					"caption": "The Bill Acceptor is located here and accepts $1, $5, $10, $20, and $50 bills.",
@@ -267,7 +322,7 @@
 				{
 
 					"videoControl" : {
-						"time": "113.24",
+						"time": "110.04",
 						"play": true
 					},
 					"caption": "This is the Main Door lock.",
@@ -284,7 +339,7 @@
 				{
 
 					"videoControl" : {
-						"time": "116.04",
+						"time": "113.24",
 						"play": true
 					},
 					"caption": "Below the lock is the Play Slip Reader.",
@@ -301,7 +356,7 @@
 				{
 
 					"videoControl" : {
-						"time": "120.12",
+						"time": "116.04",
 						"play": true
 					},
 					"caption": "And finally, below the Play Slip Reader, is the Ticket Retrieval Area ",
@@ -319,7 +374,7 @@
 				{
 
 					"videoControl" : {
-						"time": "124.06",
+						"time": "120.12",
 						"play": true
 					},
 					"caption": "where purchased Scratch Off games and Draw games are dispensed for the player."
@@ -331,7 +386,7 @@
 						"time": "124.06",
 						"play": true
 					},
-					"caption": "So now let's move on to the next lesson where we�ll take a look inside of the Gemini Touch!"
+					"caption": "So now let's move on to the next lesson where we'll take a look inside of the Gemini Touch!"
 					
 				}
 	]
