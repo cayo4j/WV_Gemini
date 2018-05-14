@@ -5,7 +5,7 @@
 			"type": "video",
 			"name": "Placing Wagers Using the Gemini Touch",
 			"video": {
-				"url": "lessons/shared/videos/PlacingWagers_v4.mp4"
+				"url": "lessons/shared/videos/WV_Placing Wagers.mp4"
 			},
 
 				"cuepoints": [
@@ -15,17 +15,7 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Let’s talk about placing wagers for Draw Games and purchasing Scratch Off tickets using the Gemini Touch. ",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/gemini-front.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}]
+					"caption": "Let's talk about placing wagers for Draw Games and purchasing Scratch Off tickets using the Gemini Touch. "
 				},
 				{
 
@@ -33,7 +23,18 @@
 						"time": "5.29",
 						"play": true
 					},
-					"caption": "The terminal displays the messages to players here on the center of the Touch Screen."
+					"caption": "The terminal displays the messages to players here on the center of the Touch Screen.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/04_InformationArea.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -49,7 +50,18 @@
 						"time": "15.09",
 						"play": true
 					},
-					"caption": "and the screen displays the amount of credits here. "
+					"caption": "and the screen displays the amount of credits here. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/04_available_credit.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -68,10 +80,10 @@
 					"caption": "The maximum amount a player can add to the terminal is $250.00.",
 					"overlays": [
 						{
-							"left": 150,
-							"top": 10,
+							"left": 550,
+							"top": 100,
                             "label": "Maximum Play Amount $250.00",
-                            "blink": "none"
+                            "blink": "twice"
 						}
 					]
 				},
@@ -106,16 +118,10 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/gemini-front.jpg",
+								"url": "lessons/shared/images/wv-gemini-external.png",
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 50,
-							"top": 15,
-                            "label": "More Than $200? Maximum Credit Amount Met",
-                            "blink": "none"
 						}
 						
 					]
@@ -166,7 +172,18 @@
 						"time": "53.00",
 						"play": true
 					},
-					"caption": "Remember, for ADA compliance, a player may choose to touch Flip Screen here"
+					"caption": "Remember, for ADA compliance, a player may choose to touch Flip Screen here",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/04_flipscreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -225,24 +242,7 @@
 						"time": "79.23",
 						"play": true
 					},
-					"caption": "the terminal will display a message prompting the player to add additional credits.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/gemini-front.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 50,
-							"top": 15,
-                            "label": "Not Enough Credit? Add Additional Credits",
-                            "blink": "none"
-						}
-					]
+					"caption": "the terminal will display a message prompting the player to add additional credits."
 				},
 				{
 

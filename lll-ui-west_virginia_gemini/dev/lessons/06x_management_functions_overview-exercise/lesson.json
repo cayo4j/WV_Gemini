@@ -21,7 +21,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/va-logo-screen-exercise.jpg",
+								"url": "lessons/shared/images/wv-logo-screen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -47,11 +47,11 @@
 			"feedback": {
 				"valid": {
 					"label": "Great Job!",
-					"text": "Click OK to Continue."
+					"text": "Now, identify the various parts of the Management Functions Home screen we just reviewed."
 				},
 				"invalid": {
 					"label": "Sorry,",
-					"text": "the correct answer is True. The Home screen was streamlined and all Reports are now accessed from a single Reports menu. Now, identify the various parts of the Management Functions Home screen we just reviewed."
+					"text": "the correct answer is True. The Home screen was streamlined and all Reports are now accessed from a single Reports menu. Now, identify the various parts of the Management Functions Home screen we just reviewed. "
 				}
 			}
 		},
@@ -67,7 +67,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							},
@@ -75,12 +75,12 @@
 		                   
 						},
 						{
-							"left": 181,
-							"top": 170,
+							"left": 148,
+							"top": 152,
 							"image": {
-								"url": "lessons/shared/images/instant_ticket_mgmt_btn.png",
-								"width": 219,
-								"height": 71
+								"url": "lessons/shared/images/transparent.png",
+								"width": 254,
+								"height": 88
 							},
                             "blink": "triple",
 							"hotspot": "Instant Ticket Management Button",
@@ -90,7 +90,7 @@
                         {
                             "left": 50,
                             "top": 15,
-                            "label": "Now, identify the various parts of the Management Functions Home screen we just reviewed. Find the menu option that is used to access functions for loading and unloading bins."
+                            "label": "Find the menu option that is used</br>to access functions for loading and unloading bins."
                         }
 					],
 				
@@ -105,7 +105,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							},
@@ -113,12 +113,12 @@
 		                   
 						},
 						{
-							"left": 180,
-							"top": 242,
+							"left": 401,
+							"top": 241,
 							"image": {
-								"url": "lessons/shared/images/mgmt_functions_btn.png",
-								"width": 219,
-								"height": 73
+								"url": "lessons/shared/images/transparent.png",
+								"width": 254,
+								"height": 88
 							},
 							"blink": "triple",
 							"hotspot": "Management Functions Button",
@@ -128,7 +128,7 @@
                         {
                             "left": 50,
                             "top": 15,
-                            "label": "Find the menu option that is used to access functions to check Device Status, perform Device Tests and view Video Help."
+                            "label": "Find the menu option that is used</br>to access functions to check Device Status,</br>perform Device Tests and view Video Help."
                         }
 					],
 				
@@ -143,7 +143,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							},
@@ -151,12 +151,12 @@
 		                   
 						},
 						{
-							"left": 399,
-							"top": 314,
+							"left": 401,
+							"top": 328,
 							"image": {
-								"url": "lessons/shared/images/instant_functions_btn.png",
-								"width": 223,
-								"height": 78
+								"url": "lessons/shared/images/transparent.png",
+								"width": 254,
+								"height": 88
 							},
 							"blink": "triple",
 							"hotspot": "Instant Functions Button",
@@ -166,7 +166,7 @@
                         {
                             "left": 50,
                             "top": 15,
-                            "label": "Find the menu option that accesses the Pack Management functions used for confirming Scratcher game deliveries and activating packs of tickets."
+                            "label": "Find the menu option that accesses</br>the Pack Management functions</br>used for confirming Scratcher game deliveries</br>and activating packs of tickets."
                         }
 					],
 				
@@ -181,7 +181,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							},
@@ -189,12 +189,12 @@
 		                   
 						},
 						{
-							"left": 581,
-							"top": 59,
+							"left": 625,
+							"top": 39,
 							"image": {
-								"url": "lessons/shared/images/sign_off_btn.png",
-								"width": 37,
-								"height": 38
+								"url": "lessons/shared/images/transparent.png",
+								"width": 28,
+								"height": 25
 							},
 							"blink": "triple",
 							"hotspot": "Sign Off Button",
@@ -203,7 +203,7 @@
 						},
                         {
                             "left": 50,
-                            "top": 15,
+                            "top": 200,
                             "label": "Find the Sign Off button."
                         }
 					],

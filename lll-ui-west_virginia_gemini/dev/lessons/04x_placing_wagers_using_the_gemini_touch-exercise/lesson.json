@@ -21,7 +21,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/va-logo-screen-exercise.jpg",
+								"url": "lessons/shared/images/wv-logo-screen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -51,7 +51,7 @@
 				},
 				"invalid": {
 					"label": "Sorry,",
-					"text": "the answer is False. Using the player Touch Screenplayers an choose an Easy Pick or select their own numbers manually. Players can also use Play Slips to place wagers for their numbers."
+					"text": "the answer is False. Using the player Touch Screen, players can choose an Easy Pick or select their own numbers manually. Players can also use Play Slips to place wagers for their numbers."
 				}
 			}
 		},

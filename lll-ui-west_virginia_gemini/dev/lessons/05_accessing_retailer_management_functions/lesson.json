@@ -5,7 +5,7 @@
 			"type": "video",
 			"name": "Accessing Retailer Management Functions",
 			"video": {
-				"url": "lessons/shared/videos/AccessingManagerFunctions_v3.mp4"
+				"url": "lessons/shared/videos/WV_Accessing Manager Functions.mp4"
 			},
 
 				"cuepoints": [
@@ -15,54 +15,7 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Let's look at how to access the Manager functions on the terminal.",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/sign-on.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/sign-on-userid.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/sign-on-password.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/device-status.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/management-functions.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}]
+					"caption": "Let's look at how to access the Manager functions on the terminal."
 				},
 				{
 
@@ -83,14 +36,14 @@
 				{
 
 					"videoControl" : {
-						"time": "12.28",
+						"time": "12.78",
 						"play": true
 					},
 					"caption": "Use the key to unlock the Main Door lock, ",
 					"overlays": [
 						{
-							"left": 0,
-							"top": 0,
+							"left": -120,
+							"top": -26,
 							"image": {
 								"url": "lessons/shared/images/maindoorlock.png",
 								"width": 800,
@@ -108,8 +61,8 @@
 					"caption": "here to the right on top of the Play Slip Reader.",
 					"overlays": [
 						{
-							"left": 0,
-							"top": 0,
+							"left": -120,
+							"top": -26,
 							"image": {
 								"url": "lessons/shared/images/maindoorlock.png",
 								"width": 800,
@@ -202,7 +155,7 @@
 						"time": "38.24",
 						"play": true
 					},
-					"caption": "and 4-digit Passcode: 1234",
+					"caption": "and 4-digit Password: 1234",
 					"overlays": [
 						{
 							"left": 0,
@@ -249,7 +202,7 @@
 						"time": "44.19",
 						"play": true
 					},
-					"caption": "The Device Status screen displays.",
+					"caption": "The Retailer Home screen displays.",
 					"overlays": [
 						{
 							"left": 0,
@@ -265,30 +218,10 @@
 				{
 
 					"videoControl" : {
-						"time": "46.23",
+						"time": "46.73",
 						"play": true
 					},
-					"caption": "We’ll review all of the menus and functions available from the Home screen in the next lesson.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/device-status.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/back_arrow.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "We'll review all of the menus and functions available from the Home screen in the next lesson." 
 				},
 				{
 
@@ -296,18 +229,7 @@
 						"time": "51.27",
 						"play": true
 					},
-					"caption": "Let’s move on.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/management-functions.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "Let's move on." 
 				}
 	]
 },

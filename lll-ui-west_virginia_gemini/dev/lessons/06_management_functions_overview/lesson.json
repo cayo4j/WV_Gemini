@@ -5,7 +5,7 @@
 			"type": "video",
 			"name": "Management Functions Overview",
 			"video": {
-				"url": "lessons/shared/videos/ManagementFunctionsOverview_v4.mp4"
+				"url": "lessons/shared/videos/WV_ManagementFunctionsOverview.mp4"
 			},
 
 				"cuepoints": [
@@ -25,51 +25,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/management-functions.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/reports-menu.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/instant-functions.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/instant-pack-movement.jpg",
-								"width": 800,
-								"height": 450
-							}
 						}
 						
 					]
@@ -86,16 +41,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/itim.png",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -114,7 +60,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -123,18 +69,9 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/itim.png",
+								"url": "lessons/shared/images/06_instantinventorytouch.png",
 								"width": 800,
 								"height": 450
-							}
-						},
-						{
-							"left": 262,
-							"top": 225,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}
 						}
 					]
@@ -151,7 +88,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.jpg",
+								"url": "lessons/shared/images/instant-tkt-mgmt.png",
 								"width": 800,
 								"height": 450
 							}
@@ -170,16 +107,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/scratchmgmt.png",
+								"url": "lessons/shared/images/instant-tkt-mgmt.png",
 								"width": 800,
 								"height": 450
 							}
@@ -198,16 +126,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/scratchmgmt.png",
+								"url": "lessons/shared/images/instant-tkt-mgmt.png",
 								"width": 800,
 								"height": 450
 							}
@@ -243,7 +162,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homebutton.png",
+								"url": "lessons/shared/images/06_seeHome.png",
 								"width": 800,
 								"height": 450
 							}
@@ -271,18 +190,9 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homebutton.png",
+								"url": "lessons/shared/images/06_touchHome.png",
 								"width": 800,
 								"height": 450
-							}
-						},
-						{
-							"left": 173,
-							"top": 82,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}
 						}
 					]
@@ -299,7 +209,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -308,7 +218,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen_reprints.png",
+								"url": "lessons/shared/images/06_co_reprint.png",
 								"width": 800,
 								"height": 450
 							}
@@ -336,18 +246,9 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/mgmtfunctions.png",
+								"url": "lessons/shared/images/06_touchMgmtFns.png",
 								"width": 800,
 								"height": 450
-							}
-						},
-						{
-							"left": 262,
-							"top": 279,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}
 						}
 					]
@@ -392,7 +293,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/reboot.png",
+								"url": "lessons/shared/images/06_reboot.png",
 								"width": 800,
 								"height": 450
 							}
@@ -420,7 +321,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/devicestatus.png",
+								"url": "lessons/shared/images/06_device.png",
 								"width": 800,
 								"height": 450
 							}
@@ -433,7 +334,7 @@
 						"time": "52.28",
 						"play": true
 					},
-					"caption": "view journals which include the System Event Log, Cash Log and Security Log, ",
+					"caption": "view journals such as the System Event Log, Cash Log and Security Log, ",
 					"overlays": [
 						{
 							"left": 0,
@@ -448,7 +349,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/journals.png",
+								"url": "lessons/shared/images/06_journal.png",
 								"width": 800,
 								"height": 450
 							}
@@ -476,7 +377,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/videohelp.png",
+								"url": "lessons/shared/images/06_password.png",
 								"width": 800,
 								"height": 450
 							}
@@ -504,18 +405,9 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/home_button_mfmenu.png",
+								"url": "lessons/shared/images/06_video.png",
 								"width": 800,
 								"height": 450
-							}
-						},
-						{
-							"left": 175,
-							"top": 84,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}
 						}
 					]
@@ -532,7 +424,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.png",
+								"url": "lessons/shared/images/management-functions.png",
 								"width": 800,
 								"height": 450
 							}
@@ -541,7 +433,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/devicetests.png",
+								"url": "lessons/shared/images/06_credits.png",
 								"width": 800,
 								"height": 450
 							}
@@ -561,15 +453,6 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/homescreen.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen_reports.png",
 								"width": 800,
 								"height": 450
 							}
@@ -597,20 +480,11 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen_reports.png",
+								"url": "lessons/shared/images/06_deviceTest.png",
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 252,
-							"top": 342,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}
-						}
+						} 
 					]
 				},
 				{
@@ -626,6 +500,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06_reports.png",
 								"width": 800,
 								"height": 450
 							}
@@ -648,6 +531,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06_TH_reports.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -666,24 +558,6 @@
 								"url": "lessons/shared/images/reports-menu.png",
 								"width": 800,
 								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homebutton.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 172,
-							"top": 77,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}
 						}
 					]
@@ -728,18 +602,9 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/instantfunctions.png",
+								"url": "lessons/shared/images/06_touchHome.png",
 								"width": 800,
 								"height": 450
-							}
-						},
-						{
-							"left": 472,
-							"top": 344,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}
 						}
 					]
@@ -757,6 +622,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06_instFunct.png",
 								"width": 800,
 								"height": 450
 							}
@@ -784,7 +658,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/packmovement.png",
+								"url": "lessons/shared/images/06_Touch_instFunct.png",
 								"width": 800,
 								"height": 450
 							}
@@ -812,18 +686,9 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/packmovement.png",
+								"url": "lessons/shared/images/06_again.png",
 								"width": 800,
 								"height": 450
-							}
-						},
-						{
-							"left": 273,
-							"top": 242,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}
 						}
 					]
@@ -853,13 +718,22 @@
 						"time": "110.22",
 						"play": true
 					},
-					"caption": "Pack Activation . Is used to activate tickets for sale in the Gemini Touch.",
+					"caption": "Pack Activation is used to activate tickets for sale in the Gemini Touch.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/instant-functions-menu.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06_packtivation.png",
 								"width": 800,
 								"height": 450
 							}
@@ -872,7 +746,7 @@
 						"time": "115.00",
 						"play": true
 					},
-					"caption": "The steps for activating packs of tickets are the same as performing them on your Flex terminal.",
+					"caption": "The steps for activating packs are the same as performing them on your Flex terminal.",
 					"overlays": [
 						{
 							"left": 0,
@@ -881,24 +755,6 @@
 								"url": "lessons/shared/images/instant-functions-menu.png",
 								"width": 800,
 								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homebutton.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 173,
-							"top": 82,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}
 						}
 					]
@@ -919,15 +775,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/settingbuttons.png",
-								"width": 800,
-								"height": 450
-							}
 						}
 					]
 				},
@@ -944,15 +791,6 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/homescreen.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homesettings.png",
 								"width": 800,
 								"height": 450
 							}
@@ -980,7 +818,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homehelp.png",
+								"url": "lessons/shared/images/06_settings.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1008,7 +846,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homesignoff.png",
+								"url": "lessons/shared/images/06_help.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1031,6 +869,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06_signoff.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -1048,7 +895,7 @@
 						"time": "144.04",
 						"play": true
 					},
-					"caption": "Let’s continue!"
+					"caption": "Let's continue!"
 				}
 	]
 },
