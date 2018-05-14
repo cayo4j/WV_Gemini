@@ -94,7 +94,7 @@
 				{
 
 					"videoControl" : {
-						"time": "2.793083",
+						"time": "0.30",
 						"play": true
 					},
 					"caption": "Before we open the main door I want to point out a few things. "
@@ -102,16 +102,16 @@
 				{
 
 					"videoControl" : {
-						"time": "5.53527",
+						"time": "6.05",
 						"play": true
 					},
-					"caption": "When your Gemini Touch is installed you receive  two sets of keys for the main door and the cash box.",
+					"caption": "When your Gemini Touch is installed you receive two sets of keys for the main door and the Cash Box.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/ba-key.jpg",
+								"url": "lessons/shared/images/gemini_keys_md.png",
 								"width": 800,
 								"height": 450
 							}
@@ -121,7 +121,7 @@
 				{
 
 					"videoControl" : {
-						"time": "12.674645",
+						"time": "12.13",
 						"play": true
 					},
 					"caption": "Ok, let's open the Gemini Touch.",
@@ -130,7 +130,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/gemini-front.jpg",
+								"url": "lessons/shared/images/wv-gemini-external.png",
 								"width": 800,
 								"height": 450
 							}
@@ -140,7 +140,7 @@
 				{
 
 					"videoControl" : {
-						"time": "15.501833",
+						"time": "15.03",
 						"play": true
 					},
 					"caption": "The lock is located here above the Play Slip Reader. ",
@@ -159,7 +159,7 @@
 				{
 
 					"videoControl" : {
-						"time": "19.268041",
+						"time": "18.26",
 						"play": true
 					},
 					"caption": "Insert the key"
@@ -167,7 +167,7 @@
 				{
 
 					"videoControl" : {
-						"time": "21.070166",
+						"time": "20.21",
 						"play": true
 					},
 					"caption": "and turn it to the right."
@@ -175,7 +175,7 @@
 				{
 
 					"videoControl" : {
-						"time": "22.424208",
+						"time": "22.18",
 						"play": true
 					},
 					"caption": "To open the door, lift the lever on the right side of the door up"
@@ -183,7 +183,7 @@
 				{
 
 					"videoControl" : {
-						"time": "26.721437",
+						"time": "26.11",
 						"play": true
 					},
 					"caption": "and pull the door open."
@@ -191,7 +191,7 @@
 				{
 
 					"videoControl" : {
-						"time": "28.033541",
+						"time": "27.28",
 						"play": true
 					},
 					"caption": "An alarm begins sounding as soon as the door is open. "
@@ -199,7 +199,7 @@
 				{
 
 					"videoControl" : {
-						"time": "31.00110",
+						"time": "31.02",
 						"play": true
 					},
 					"caption": "To silence the alarm, use the numeric keypad on the Manager Display and enter your 6-digit User ID number: 123456 ",
@@ -218,7 +218,7 @@
 				{
 
 					"videoControl" : {
-						"time": "41.31127",
+						"time": "41.01",
 						"play": true
 					},
 					"caption": "and 4-digit Password: 1234",
@@ -237,7 +237,7 @@
 				{
 
 					"videoControl" : {
-						"time": "45.3285",
+						"time": "45.02",
 						"play": true
 					},
 					"caption": "and touch SUBMIT.  ",
@@ -265,7 +265,7 @@
 				{
 
 					"videoControl" : {
-						"time": "47.130583",
+						"time": "47.08",
 						"play": true
 					},
 					"caption": "Let's take a look at the interior of the Gemini Touch. "
@@ -273,7 +273,7 @@
 				{
 
 					"videoControl" : {
-						"time": "50.564812",
+						"time": "50.19",
 						"play": true
 					},
 					"caption": "On the top right is the large amber Power Button for the terminal.  ",
@@ -292,7 +292,7 @@
 				{
 
 					"videoControl" : {
-						"time": "57.115229",
+						"time": "54.24",
 						"play": true
 					},
 					"caption": "When the button is in the \"Up\" position the power is ON,",
@@ -311,7 +311,7 @@
 				{
 
 					"videoControl" : {
-						"time": "62.455458",
+						"time": "58.25",
 						"play": true
 					},
 					"caption": "when in the \"Down\" position it is OFF.",
@@ -327,7 +327,7 @@
 				{
 
 					"videoControl" : {
-						"time": "66.469708",
+						"time": "61.25",
 						"play": true
 					},
 					"caption": "The inner doors here are used to access the bins when loading or unloading Scratch Off tickets. ",
@@ -343,7 +343,7 @@
 				{
 
 					"videoControl" : {
-						"time": "69.231875",
+						"time": "68.00",
 						"play": true
 					},
 					"caption": "On the first door is a listing of Reports you can print from the terminal. ",
@@ -362,7 +362,7 @@
 				{
 
 					"videoControl" : {
-						"time": "75.523208",
+						"time": "71.28",
 						"play": true
 					},
 					"caption": "Notice each of these has a bar code just under the Report name for convenience.",
@@ -381,7 +381,7 @@
 				{
 
 					"videoControl" : {
-						"time": "79.226479",
+						"time": "77.09",
 						"play": true
 					},
 					"caption": "All you have to do is scan the bar code with the Bar Code Scanner ",
@@ -400,15 +400,26 @@
 				{
 
 					"videoControl" : {
-						"time": "85.274729",
+						"time": "81.01",
 						"play": true
 					},
-					"caption": "and the Report will display and print.  "
+					"caption": "and the Report will display and print.  ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/system-event-report.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "88.401958",
+						"time": "83.28",
 						"play": true
 					},
 					"caption": "To the right of that is a Quick Reference sticker that shows instructions for loading and unloading Scratch Off tickets and loading the Printer paper.",
@@ -427,7 +438,7 @@
                 {
 
 					"videoControl" : {
-						"time": "90.967062",
+						"time": "92.05",
 						"play": true
 					},
 					"caption": "To open the inner doors, simply turn the latch to the left ",
@@ -464,7 +475,7 @@
                 {
 
 					"videoControl" : {
-						"time": "97.273416",
+						"time": "96.03",
 						"play": true
 					},
 					"caption": "and pull open both doors.",
@@ -501,7 +512,7 @@
                 {
 
 					"videoControl" : {
-						"time": "98.634541",
+						"time": "99.04",
 						"play": true
 					},
 					"caption": "The first door prevents static electricity.",
@@ -520,7 +531,7 @@
 				{
 
 					"videoControl" : {
-						"time": "101.083625",
+						"time": "101.25",
 						"play": true
 					},
 					"caption": "The second inner door helps to ensure tickets dispense correctly.",
@@ -539,7 +550,7 @@
 				{
 
 					"videoControl" : {
-						"time": "109.607125",
+						"time": "106.02",
 						"play": true
 					},
 					"caption": "To lock the door, simply close "
@@ -547,7 +558,7 @@
 				{
 
 					"videoControl" : {
-						"time": "113.453354",
+						"time": "108.10",
 						"play": true
 					},
 					"caption": "and turn the latch to the right."
@@ -555,7 +566,7 @@
 				{
 
 					"videoControl" : {
-						"time": "115.581479",
+						"time": "110.04",
 						"play": true
 					},
 					"caption": "This is the removable Bar Code Scanner used to run Reports and scan Scratch Off tickets during the loading process.  "
@@ -564,7 +575,7 @@
 				{
 
 					"videoControl" : {
-						"time": "119.838708",
+						"time": "117.01",
 						"play": true
 					},
 					"caption": "Below the Bar Code Scanner is the Bill Acceptor.  "
@@ -572,7 +583,7 @@
 				{
 
 					"videoControl" : {
-						"time": "124.220937",
+						"time": "119.28",
 						"play": true
 					},
 					"caption": "We’ll cover accessing the Bill Acceptor in detail later in the course."
@@ -580,7 +591,7 @@
 				{
 
 					"videoControl" : {
-						"time": "126.354062",
+						"time": "124.08",
 						"play": true
 					},
 					"caption": "Here is the Play Slip Reader."
@@ -588,7 +599,7 @@
 				{
 
 					"videoControl" : {
-						"time": "128.199166",
+						"time": "126.22",
 						"play": true
 					},
 					"caption": "Finally, we have the Printer that will produce your Reports and Draw Game tickets."
@@ -596,7 +607,7 @@
 				{
 
 					"videoControl" : {
-						"time": "135.085583",
+						"time": "132.13",
 						"play": true
 					},
 					"caption": "Now that you are familiar with the parts of the machine we’ll continue to the next lesson, placing wagers! "
@@ -604,7 +615,7 @@
 				{
 
 					"videoControl" : {
-						"time": "138.15975",
+						"time": "138.09",
 						"play": true
 					},
 					"caption": "Ready? Let’s Go!"
