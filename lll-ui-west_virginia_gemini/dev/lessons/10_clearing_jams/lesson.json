@@ -55,7 +55,7 @@
 						"time": "13.19",
 						"play": true
 					},
-					"caption": "Gently lift the read head from the Bill Acceptor"
+					"caption": "Now clear the jammed bills."
 				},
 				{
 
@@ -63,7 +63,7 @@
 						"time": "16.07",
 						"play": true
 					},
-					"caption": "and clear the jammed bills."
+					"caption": "After the Bill Acceptor has been cleared, gently slide it back into its locked position."
 				},
 				{
 
@@ -71,7 +71,7 @@
 						"time": "21.02",
 						"play": true
 					},
-					"caption": "After the Bill Acceptor has been cleared, gently slide it back into its locked position."
+					"caption": "If the Bill Acceptor is put into its proper position, it will reset after 10 seconds."
 				},
 				{
 
@@ -79,20 +79,12 @@
 						"time": "26.14",
 						"play": true
 					},
-					"caption": "If the Bill Acceptor is put into its proper position, it will reset after 10 seconds."
-				},
-				{
-
-					"videoControl" : {
-						"time": "28.21",
-						"play": true
-					},
 					"caption": "Now run a Bill Acceptor Test.  "
 				},
 				{
 
 					"videoControl" : {
-						"time": "30.20",
+						"time": "28.21",
 						"play": true
 					},
 					"caption": "From the Device Tests menu, ",
@@ -111,7 +103,7 @@
 				{
 
 					"videoControl" : {
-						"time": "32.20",
+						"time": "30.20",
 						"play": true
 					},
 					"caption": "touch Test Bill Acceptor.",
@@ -124,13 +116,23 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_touch_ba_test.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
+				
 				{
 
 					"videoControl" : {
-						"time": "35.01",
+						"time": "32.20",
 						"play": true
 					},
 					"caption": "The Bill Acceptor Test screen displays.",
@@ -149,7 +151,7 @@
 				{
 
 					"videoControl" : {
-						"time": "37.23",
+						"time": "35.01",
 						"play": true
 					},
 					"caption": "Insert a bill into the acceptor "
@@ -157,7 +159,7 @@
 				{
 
 					"videoControl" : {
-						"time": "41.19",
+						"time": "37.23",
 						"play": true
 					},
 					"caption": "and verify that the acceptor properly recognizes the bill inserted.",
@@ -173,29 +175,11 @@
 						}
 					]
 				},
+				
 				{
 
 					"videoControl" : {
-						"time": "45.14",
-						"play": true
-					},
-					"caption": "and verify that the acceptor properly recognizes the bill inserted.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/bill-acceptor-test-confirm.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "50.197",
+						"time": "41.49",
 						"play": true
 					},
 					"caption": "You should run a Bill Acceptor Test every time you clear a jam."
@@ -203,7 +187,7 @@
 				{
 
 					"videoControl" : {
-						"time": "50.197",
+						"time": "45.14",
 						"play": true
 					},
 					"caption": "That's it!  You've cleared a bill acceptor jam!"
