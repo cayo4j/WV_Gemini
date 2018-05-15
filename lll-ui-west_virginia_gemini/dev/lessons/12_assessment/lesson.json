@@ -32,7 +32,7 @@
 		{
 			"type": "multipleChoice",
 			"name": "Assessment",
-			"label": "True or False: Players can purchase both Draw and Scratcher games from the Gemini Touch.",
+			"label": "True or False: Players can purchase both Draw and Scratch Off games from the Gemini Touch.",
 			"options": [
 				{
 					"label": "True",
@@ -50,7 +50,7 @@
 				},
 				"invalid": {
 					"label": "Incorrect.",
-					"text": "Sorry, the answer is True. Players can purchase both Draw and Scratcher games from the Gemini Touch."
+					"text": "Sorry, the answer is True. Players can purchase both Draw and Scratch Off games from the Gemini Touch."
 				}
 			},
 			"pointsAvailable": 0.5
@@ -58,7 +58,7 @@
 		{
 			"type": "multipleChoice",
 			"name": "Assessment",
-			"label": "Multiple Choice: When players win, they can choose to receive credits for their winnings up to what amount for use to purchase additional tickets from the Gemini Touch?",
+			"label": "Multiple Choice: What is the maximum amount of credits a player can add to the Gemini Touch?",
 			"options": [
 				{
 					"label": "$100.00",
@@ -69,7 +69,7 @@
 					"isCorrect": true
 				},
 				{
-					"label": "$300.00",
+					"label": "$250.00",
 					"isCorrect": false
 				}
 			],
@@ -80,7 +80,7 @@
 				},
 				"invalid": {
 					"label": "Incorrect.",
-					"text": "When players win, they can choose to purchase up to $200.00 in tickets using their winnings from the Gemini Touch."
+					"text": "Players can add a maximum of $250.00 to the Gemini Touch."
 				}
 			},
 			"pointsAvailable": 0.5
@@ -88,7 +88,7 @@
 		{
 			"type": "multipleChoice",
 			"name": "Assessment",
-			"label": "True or False: The Gemini Touch features a Ticket Scan Plus function that allows players to scan Scratcher and Draw Game ticket barcodes to see if it is a winner.",
+			"label": "True or False: The Gemini Touch features a Ticket Scan Plus function that allows players to scan Scratch Off and Draw Game ticket barcodes to see if it is a winner.",
 			"options": [
 				{
 					"label": "True",
@@ -114,7 +114,7 @@
 		{
 			"type": "multipleChoice",
 			"name": "Assessment",
-			"label": "Multiple Choice: The Gemini Touch can carry up to ____ Scratcher games at a time.",
+			"label": "Multiple Choice: The Gemini Touch can carry up to ____ Scratch Off games at a time.",
 			"options": [
 				{
 					"label": "20",
@@ -125,12 +125,12 @@
 					"isCorrect": false
 				},
 				{
-					"label": "34",
-					"isCorrect": false
+					"label": "24",
+					"isCorrect": true
 				},
 				{
 					"label": "28",
-					"isCorrect": true
+					"isCorrect": false
 				}
 			],
 			"feedback": {
@@ -140,7 +140,7 @@
 				},
 				"invalid": {
 					"label": "Incorrect.",
-					"text": "The Gemini Touch can carry up to 28 different Scratcher games at a time."
+					"text": "The Gemini Touch can carry up to 24 different Scratch Off games at a time."
 				}
 			},
 			"pointsAvailable": 0.5
@@ -174,7 +174,7 @@
 		{
 			"type": "multipleChoice",
 			"name": "Assessment",
-			"label": "Multiple Choice: Which of the following menu options on the Manager Functions screen would you use to confirm Scratcher game deliveries and activating packs of tickets?",
+			"label": "Multiple Choice: Which of the following menu options on the Manager Functions screen would you use to activate packs of Scratch Off games?",
 			"options": [
 				{
 					"label": "Instant Functions button",
@@ -208,7 +208,7 @@
 		{
 			"type": "multipleChoice",
 			"name": "Assessment",
-			"label": "To avoid ticket jams, do not load tickets over 10\" into Bins 1-4.",
+			"label": "To avoid ticket jams, do not load tickets over 10\" into the top bin.",
 			"options": [
 				{
 					"label": "True",
@@ -226,7 +226,7 @@
 				},
 				"invalid": {
 					"label": "Sorry,",
-					"text": "The correct answer is: To avoid ticket jams, do not load tickets over 10\" long into the lowest ticket trays - Bins 25 through 28."
+					"text": "The correct answer is: To avoid ticket jams, do not load tickets over 10\" long into the lowest ticket trays bins."
 				}
 			},
 			"pointsAvailable": 0.5
@@ -234,7 +234,7 @@
 		{
 			"type": "multipleChoice",
 			"name": "Assessment",
-			"label": "Multiple Choice: What are the correct steps to load a partial pack of scratcher tickets into the Gemini Touch?",
+			"label": "Multiple Choice: What are the correct steps to load a partial pack of Scratch Off tickets into the Gemini Touch?",
 			"options": [
 				{
 					"label": "Scan the last ticket in the pack.",

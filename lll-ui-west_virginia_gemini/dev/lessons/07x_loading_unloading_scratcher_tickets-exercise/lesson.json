@@ -117,7 +117,7 @@
                         {
                             "left": 15,
                             "top": 10,
-                            "label": "Now it's your turn to load a pack of Scratch Off tickets using the Management functions. </br></br>Load a pack of tickets into Bin 4.",
+                            "label": "Now it's your turn to load a pack of Scratch Off tickets using the Management functions. </br></br>Load a pack of tickets into Bin 1.",
                             "blink": "once"
                         }
 					],
@@ -143,12 +143,12 @@
 		                   
 						},
 						{
-							"left": 591,
-							"top": 93,
+							"left": 401,
+							"top": 91,
 							"image": {
 								"url": "lessons/shared/images/transparent.png",
-								"width": 63,
-								"height": 39
+								"width": 67,
+								"height": 44
 							},
                             "blink": "triple",
 							"hotspot": "null",
@@ -158,7 +158,7 @@
                         {
                             "left": 15,
                             "top": 10,
-                            "label": "Load a pack of tickets into Bin 4.",
+                            "label": "Load a pack of tickets into Bin 1.",
                             "blink": "once"
                         }
 					],
@@ -176,7 +176,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/instant-tkt-mgmt-bin4.png",
+								"url": "lessons/shared/images/instant-tkt-mgmt.png",
 								"width": 800,
 								"height": 450
 							},
@@ -184,12 +184,12 @@
 		                   
 						},
 						{
-							"left": 186,
-							"top": 278,
+							"left": 153,
+							"top": 220,
 							"image": {
 								"url": "lessons/shared/images/transparent.png",
-								"width": 73,
-								"height": 41
+								"width": 86,
+								"height": 26
 							},
                             "blink": "triple",
 							"hotspot": "null",
@@ -199,7 +199,7 @@
                         {
                             "left": 15,
                             "top": 10,
-                            "label": "Load a pack of tickets into Bin 4.",
+                            "label": "Load a pack of tickets into Bin 1.",
                             "blink": "once"
                         }
 					],
@@ -255,18 +255,18 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/scan-first-submit.png",
+								"url": "lessons/shared/images/load-tickets-enter-first.num.png",
 								"width": 800,
 								"height": 450
 							}
 						},
 						{
-							"left": 295,
-							"top": 232,
+							"left": 275,
+							"top": 248,
 							"image": {
-								"url": "lessons/shared/images/submit_hotspot_first.png",
-								"width": 73,
-								"height": 24
+								"url": "lessons/shared/images/transparent.png",
+								"width": 69,
+								"height": 31
 							},
                             "blink": "triple",
 							"hotspot": "null",
@@ -293,18 +293,18 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/scan-last-full-pack.jpg",
+								"url": "lessons/shared/images/load-tickets-enter-last.png",
 								"width": 800,
 								"height": 450
 							}
 						},
 						{
-							"left": 234,
-							"top": 260,
+							"left": 220,
+							"top": 276,
 							"image": {
-								"url": "lessons/shared/images/full_pack_hotspot.png",
+								"url": "lessons/shared/images/transparent.png",
 								"width": 111,
-								"height": 43
+								"height": 49
 							},
                             "blink": "triple",
 							"hotspot": "null",
@@ -331,17 +331,17 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/scan-last-ticket.jpg",
+								"url": "lessons/shared/images/load-tickets-enter-last-num.png",
 								"width": 800,
 								"height": 450
 							}
 						},
 						{
-							"left": 294,
-							"top": 232,
+							"left": 276,
+							"top": 251,
 							"image": {
-								"url": "lessons/shared/images/submit_hotspot.png",
-								"width": 73,
+								"url": "lessons/shared/images/transparent.png",
+								"width": 66,
 								"height": 24
 							},
                             "blink": "triple",
@@ -368,18 +368,18 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/load-confirm.png",
+								"url": "lessons/shared/images/load-successful.png",
 								"width": 800,
 								"height": 450
 							}
 						},
 						{
-							"left": 358,
-							"top": 256,
+							"left": 348,
+							"top": 259,
 							"image": {
-								"url": "lessons/shared/images/confirm_hotspot.png",
-								"width": 85,
-								"height": 25
+								"url": "lessons/shared/images/transparent.png",
+								"width": 103,
+								"height": 32
 							},
                             "blink": "triple",
 							"hotspot": "null",
