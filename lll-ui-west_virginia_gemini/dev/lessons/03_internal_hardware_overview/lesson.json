@@ -31,7 +31,7 @@
 						"time": "6.05",
 						"play": true
 					},
-					"caption": "When your Gemini Touch is installed you receive two sets of keys for the main door and the Cash Box.",
+					"caption": "When your Gemini Touch is installed you receive two sets of keys for the Main Door and the Cash Box.",
 					"overlays": [
 						{
 							"left": 0,
@@ -128,7 +128,18 @@
 						"time": "31.02",
 						"play": true
 					},
-					"caption": "To silence the alarm, use the numeric keypad on the Manager Display and enter your 6-digit User ID number: 123456 "
+					"caption": "To silence the alarm, use the numeric keypad on the Manager Display and enter your 6-digit User ID number: 123456 ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/sign-on-userid.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -136,7 +147,18 @@
 						"time": "41.01",
 						"play": true
 					},
-					"caption": "and 4-digit Password: 1234"
+					"caption": "and 4-digit Password: 1234",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/sign-on-password.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -144,12 +166,32 @@
 						"time": "45.02",
 						"play": true
 					},
-					"caption": "and touch SUBMIT.  "
+					"caption": "and touch SUBMIT.  ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/sign-on-password.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/03_password_touch_submit.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "47.08",
+						"time": "47.28",
 						"play": true
 					},
 					"caption": "Let's take a look at the interior of the Gemini Touch. "
@@ -160,7 +202,18 @@
 						"time": "50.19",
 						"play": true
 					},
-					"caption": "On the top right is the large amber Power Button for the terminal.  "
+					"caption": "On the top right is the large amber Power Button for the terminal.  ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-button.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -192,7 +245,18 @@
 						"time": "68.00",
 						"play": true
 					},
-					"caption": "On the first door is a listing of Reports you can print from the terminal. " 
+					"caption": "On the first door is a listing of Reports you can print from the terminal. " ,
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reports-sticker.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -200,7 +264,27 @@
 						"time": "71.28",
 						"play": true
 					},
-					"caption": "Notice each of these has a bar code just under the Report name for convenience." 
+					"caption": "Notice each of these has a bar code just under the Report name for convenience." ,
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reports-sticker.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/03-barcode-reports-sticker.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -235,12 +319,23 @@
 						"time": "83.28",
 						"play": true
 					},
-					"caption": "To the right of that is a Quick Reference sticker that shows instructions for loading and unloading Scratch Off tickets and loading the Printer paper."
+					"caption": "To the right of that is a Quick Reference sticker that shows instructions for loading and unloading Scratch Off tickets and loading the Printer paper.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/qrc.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
                 {
 
 					"videoControl" : {
-						"time": "92.05",
+						"time": "92.45",
 						"play": true
 					},
 					"caption": "To open the inner doors, simply turn the latch to the left "

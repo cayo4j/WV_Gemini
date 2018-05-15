@@ -56,31 +56,6 @@
 			}
 		},
 		{
-			"type": "multipleChoice",
-			"name": "Introduction - Exercise",
-			"label": "What terminal feature allows players to use winnings up to $200.00 to add credits to the machine?",
-			"options": [
-				{
-					"label": "SAW Technology",
-					"isCorrect": false
-				},
-				{
-					"label": "Winning Credit Feature",
-					"isCorrect": true
-				}
-			],
-			"feedback": {
-				"valid": {
-					"label": "You're Right!",
-					"text": "Click OK to Continue."
-				},
-				"invalid": {
-					"label": "Incorrect.",
-					"text": "Sorry, the correct answer is the Winning Credit Feature."
-				}
-			}
-		},
-		{
 			"type": "summary",
 			"name": "Summary"
 		}

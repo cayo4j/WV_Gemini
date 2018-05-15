@@ -112,19 +112,7 @@
 						"time": "32.20",
 						"play": true
 					},
-					"caption": "To purchase Scratch Off tickets the player selects the preferred game on the touch screen ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/wv-gemini-external.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-						
-					]
+					"caption": "To purchase Scratch Off tickets the player selects the preferred game on the touch screen "
 				},
 				{
 

@@ -250,6 +250,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_th_okay_first.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -303,7 +312,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/wv-gemini-external.png",
+								"url": "lessons/shared/images/scan_that_ticket_pack.jpg",
 								"width": 800,
 								"height": 450
 							}
@@ -419,18 +428,7 @@
 						"time": "67.21",
 						"play": true
 					},
-					"caption": "Now, open the tray that you wish to load tickets into by pushing this green lever towards the bin ",
-                    "overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/load-confirm.png",
-								"width": 800,
-								"height": 450
-							}
-						} 
-					]
+					"caption": "Now, open the tray that you wish to load tickets into by pushing this green lever towards the bin "
 				},
 				{
 
@@ -470,7 +468,7 @@
 						"time": "88.03",
 						"play": true
 					},
-					"caption": "To avoid ticket jams, do not load tickets over 10\" long into the lowest ticket trays - Bins 21 through 24.",
+					"caption": "To avoid ticket jams, do not load tickets over 10\" long into the lowest ticket trays.",
 					"overlays": [
 						{
 							"left": 0,

@@ -90,7 +90,8 @@
                         {
                             "left": 50,
                             "top": 15,
-                            "label": "Find the menu option that is used</br>to access functions for loading and unloading bins."
+                            "label": "Find the menu option that is used</br>to access functions for loading and unloading bins.",
+							"blink": "twice"
                         }
 					],
 				
@@ -126,9 +127,10 @@
 							"isCorrect": true
 						},
                         {
-                            "left": 50,
+                            "left": 425,
                             "top": 15,
-                            "label": "Find the menu option that is used</br>to access functions to check Device Status,</br>perform Device Tests and view Video Help."
+                            "label": "Great Job!</br></br>Find the menu option that is used</br>to access functions to check Device Status,</br>perform Device Tests and view Video Help.",
+							"blink": "twice"
                         }
 					],
 				
@@ -166,7 +168,8 @@
                         {
                             "left": 50,
                             "top": 15,
-                            "label": "Find the menu option that accesses</br>the Pack Management functions</br>used for confirming Scratcher game deliveries</br>and activating packs of tickets."
+                            "label": "Correct!</br></br>Find the menu option that accesses</br>the Pack Management functions</br>used for confirming Scratcher game deliveries</br>and activating packs of tickets.",
+							"blink": "twice"
                         }
 					],
 				
@@ -202,9 +205,10 @@
 							"isCorrect": true
 						},
                         {
-                            "left": 50,
-                            "top": 200,
-                            "label": "Find the Sign Off button."
+                            "left": 425,
+                            "top": 15,
+                            "label": "Correct!</br></br>Find the Sign Off button.",
+							"blink": "twice"
                         }
 					],
 				
