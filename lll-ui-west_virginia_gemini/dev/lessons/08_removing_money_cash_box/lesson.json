@@ -5,7 +5,7 @@
 			"type": "video",
 			"name": "Removing Money from the Cash Box",
 			"video": {
-				"url": "lessons/shared/videos/RemovingMoneyFromCashbox_1.mp4"
+				"url": "lessons/shared/videos/WV_RemovingMoneyFromCashbox.mp4"
 			},
 
 				"cuepoints": [
@@ -15,18 +15,7 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Below the Bar Code Scanner is the Bill Acceptor. Let's talk about how to remove cash from the Bill Acceptor's Cash Box.",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/ba-key.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-						]
+					"caption": "Below the Bar Code Scanner is the Bill Acceptor. Let's talk about how to remove cash from the Bill Acceptor's Cash Box."
 				},
 				{
 
@@ -133,7 +122,7 @@
 						"time": "41.29",
 						"play": true
 					},
-					"caption": "Now let’s re-insert the Cash Box. "
+					"caption": "Now let's re-insert the Cash Box. "
 				},
 				{
 
