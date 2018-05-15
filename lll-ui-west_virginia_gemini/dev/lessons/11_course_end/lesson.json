@@ -5,7 +5,7 @@
 			"type": "video",
 			"name": "Course End",
 			"video": {
-				"url": "lessons/shared/videos/CourseEnd_1.mp4"
+				"url": "lessons/shared/videos/WV_Course End.mp4"
 			},
 
 				"cuepoints": [
@@ -64,22 +64,6 @@
 						"play": true
 					},
 					"caption": "Good Luck!"
-				},
-				{
-
-					"videoControl" : {
-						"time": "22.29",
-						"play": true
-					},
-					"caption": "Well, that's it!"
-				},
-				{
-
-					"videoControl" : {
-						"time": "22.29",
-						"play": true
-					},
-					"caption": "We went over all of the parts of your new Gemini Touch."
 				}
 	]
 },
