@@ -21,7 +21,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/va-logo-screen-exercise.jpg",
+								"url": "lessons/shared/images/wv-logo-screen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -89,15 +89,7 @@
 			"cuepoints": [
 				{
 					"overlays": [
-						{
-							"left": -9990,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.png",
-								"width": 800,
-								"height": 450
-							}
-						},
+						
 						{
 							"left": 0,
 							"top": 0,
@@ -110,12 +102,12 @@
 		                   
 						},
 						{
-							"left": 181,
-							"top": 170,
+							"left": 148,
+							"top": 153,
 							"image": {
-								"url": "lessons/shared/images/instant_ticket_mgmt_btn.png",
-								"width": 219,
-								"height": 71
+								"url": "lessons/shared/images/transparent.png",
+								"width": 254,
+								"height": 87
 							},
                             "blink": "triple",
 							"hotspot": "null",
@@ -219,15 +211,7 @@
 				},
 				{
 					"overlays": [
-						{
-							"left": -9990,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/scan-first-submit.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
+						
                         {
 							"left": 0,
 							"top": 0,
@@ -266,15 +250,7 @@
 				},
 				{
 					"overlays": [
-						{
-							"left": -9990,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/scan-last-full-pack.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
+						
                         {
 							"left": 0,
 							"top": 0,
@@ -312,15 +288,7 @@
 				},
 				{
 					"overlays": [
-						{
-							"left": -9990,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/scan-last-ticket.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
+						
                         {
 							"left": 0,
 							"top": 0,
@@ -358,15 +326,7 @@
 				},
 				{
 					"overlays": [
-						{
-							"left": -9990,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/load-confirm.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
+						
                         {
 							"left": 0,
 							"top": 0,

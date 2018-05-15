@@ -44,6 +44,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_instant_inv_touch.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -82,6 +91,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_co_bin_number.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -98,6 +116,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/instant-tkt-mgmt.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_th_load_tickets.png",
 								"width": 800,
 								"height": 450
 							}
@@ -139,6 +166,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_th_submit.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -158,6 +194,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_th_fullpack.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -174,6 +219,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/load-tickets-enter-last-num.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_th_submit_again.png",
 								"width": 800,
 								"height": 450
 							}
@@ -272,6 +326,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_th_submit_again.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -310,6 +373,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_th_submit_again.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -326,6 +398,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/load-successful.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_th_okay.png",
 								"width": 800,
 								"height": 450
 							}
@@ -399,6 +480,12 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 150,
+							"top": 150,
+							"label": "Do not load 10” tickets in Bins 21 - 24",
+							"blink": "none"
 						}
 					]
 				},
@@ -418,6 +505,12 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 150,
+							"top": 150,
+							"label": "Tickets 8” or longer should be fed under the roller",
+							"blink": "none"
 						}
 					]
 				},
@@ -499,6 +592,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_th_bin4.png",
+								"width": 800,
+								"height": 450
+							}
 						} 
 					]
 				},
@@ -518,6 +620,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_th_unload_tickets.png",
+								"width": 800,
+								"height": 450
+							}
 						} 
 					]
 				},
@@ -534,6 +645,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/unload-bin-confirmation.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_th_unload_okay.png",
 								"width": 800,
 								"height": 450
 							}
@@ -613,7 +733,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_co_forward_tickets.png",
+								"width": 800,
+								"height": 450
+							}
+						}
 					]
 				},
 				{
