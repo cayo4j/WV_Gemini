@@ -5,7 +5,7 @@
 			"type": "video",
 			"name": "Clearing Jams in the Bill Acceptor",
 			"video": {
-				"url": "lessons/shared/videos/ClearningJams_1.mp4"
+				"url": "lessons/shared/videos/WV_Clearning Jams.mp4"
 			},
 
 				"cuepoints": [
@@ -15,45 +15,7 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Now I'll walk you through clearing a jam in the Bill Acceptor.",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/test-bill-acceptor.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/device-tests.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/test-ba-confirm.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "Now I'll walk you through clearing a jam in the Bill Acceptor."
 				},
 				{
 
@@ -143,33 +105,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/device-test.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 484,
-							"top": 280,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}
 						}
 					]
 				},
@@ -185,27 +120,9 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/device-tests.jpg",
+								"url": "lessons/shared/images/device-tests-menu.png",
 								"width": 800,
 								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/billaccept.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 214,
-							"top": 254,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}
 						}
 					]
@@ -289,7 +206,7 @@
 						"time": "50.197",
 						"play": true
 					},
-					"caption": "That’s it!  You've cleared a bill acceptor jam!"
+					"caption": "That's it!  You've cleared a bill acceptor jam!"
 				}
 	]
 },

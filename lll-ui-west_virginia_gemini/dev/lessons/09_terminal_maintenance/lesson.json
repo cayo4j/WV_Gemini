@@ -5,7 +5,7 @@
 			"type": "video",
 			"name": "Terminal Maintenance",
 			"video": {
-				"url": "lessons/shared/videos/TerminalMaintenance_v3_810.mp4"
+				"url": "lessons/shared/videos/WV_Terminal Maintenance.mp4"
 			},
 
 				"cuepoints": [
@@ -15,27 +15,7 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Let's review some steps to maintain your Gemini Touch.",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/alcohol.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/cleaner-cloth.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-						]
+					"caption": "Let's review some steps to maintain your Gemini Touch."
 				},
 				{
 
@@ -70,7 +50,7 @@
 					"caption": "In order to clean this component of the terminal, the acceptor module must be removed from the chassis in order to open the front sensor area.",
 					"overlays": [
 						{
-                            "left": 500,
+                            "left": 200,
                             "top": 15,
                             "label": "Remove the BA Module from the Chassis",
                             "blink": "none"
@@ -195,20 +175,13 @@
 						"time": "59.03",
 						"play": true
 					},
-					"caption": "To close the Bill Accepter compartment, lift up the door, "
+					"caption": "To close the Bill Accepter compartment, lift up the door, and close firmly. "
 				},
+				
 				{
 
 					"videoControl" : {
 						"time": "63.03",
-						"play": true
-					},
-					"caption": "and close firmly. "
-				},
-				{
-
-					"videoControl" : {
-						"time": "66.07",
 						"play": true
 					},
 					"caption": "Lock the Bill Acceptor door by turning the key to the left"
@@ -216,7 +189,7 @@
 				{
 
 					"videoControl" : {
-						"time": "67.21",
+						"time": "66.07",
 						"play": true
 					},
 					"caption": "and remove the key."
@@ -224,15 +197,15 @@
 				{
 
 					"videoControl" : {
-						"time": "70.23",
+						"time": "67.21",
 						"play": true
 					},
-					"caption": "OK, let’s look at how to clean the Play Slip Reader."
+					"caption": "OK, let's look at how to clean the Play Slip Reader."
 				},
 				{
 
 					"videoControl" : {
-						"time": "74.14",
+						"time": "70.23",
 						"play": true
 					},
 					"caption": "The Play Slip Reader is located here below the Bill Acceptor."
@@ -240,7 +213,7 @@
 				{
 
 					"videoControl" : {
-						"time": "78.06",
+						"time": "74.14",
 						"play": true
 					},
 					"caption": "To open the Play Slip Reader, gently lift up on the black raised lever."
@@ -248,7 +221,7 @@
 				{
 
 					"videoControl" : {
-						"time": "83.01",
+						"time": "78.06",
 						"play": true
 					},
 					"caption": "The reader itself is located on the bottom of the upper area inside the white strip."
@@ -256,7 +229,7 @@
 				{
 
 					"videoControl" : {
-						"time": "87.27",
+						"time": "83.01",
 						"play": true
 					},
 					"caption": "To clean it use a clean, dry, soft cloth dampened with water"
@@ -264,7 +237,7 @@
 				{
 
 					"videoControl" : {
-						"time": "92.01",
+						"time": "87.27",
 						"play": true
 					},
 					"caption": "and gently wipe the reader glass until all dirt particles are removed."
@@ -272,52 +245,18 @@
 				{
 
 					"videoControl" : {
-						"time": "95.24",
+						"time": "92.01",
 						"play": true
 					},
-					"caption": "To close the Play Slip Reader, just press down until it clicks. ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/alcohol.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-                            "left": 50,
-                            "top": 15,
-                            "label": "Use 91% Alcohol",
-                            "blink": "none"
-                        }
-					]
+					"caption": "To close the Play Slip Reader, just press down until it clicks. "
 				},
 				{
 
 					"videoControl" : {
-						"time": "97.895354",
+						"time": "95.24",
 						"play": true
 					},
-					"caption": "That’s it! Let’s move on.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/cleaner-cloth.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-                            "left": 50,
-                            "top": 390,
-                            "label": "Use 91% Alchohol OR Non-Ammonia Based Window Cleaner on Soft Cloth",
-                            "blink": "none"
-                        }
-					]
+					"caption": "That's it! Let's move on."
 				}
 	]
 },
