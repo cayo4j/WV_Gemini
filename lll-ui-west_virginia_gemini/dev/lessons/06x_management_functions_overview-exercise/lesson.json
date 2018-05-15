@@ -51,7 +51,7 @@
 				},
 				"invalid": {
 					"label": "Sorry,",
-					"text": "the correct answer is True. The Home screen was streamlined and all Reports are now accessed from a single Reports menu. Now, identify the various parts of the Management Functions Home screen we just reviewed. "
+					"text": "The correct answer is True. The Home screen was streamlined and all Reports are now accessed from a single Reports menu. Now, identify the various parts of the Management Functions Home screen we just reviewed. "
 				}
 			}
 		},
@@ -168,7 +168,7 @@
                         {
                             "left": 50,
                             "top": 15,
-                            "label": "Correct!</br></br>Find the menu option that accesses</br>the Pack Management functions</br>used for confirming Scratcher game deliveries</br>and activating packs of tickets.",
+                            "label": "Correct!</br></br>Find the menu option that accesses</br>the Pack Management function used for activating packs of Scratch Off games. ",
 							"blink": "twice"
                         }
 					],

@@ -190,12 +190,12 @@
 					"caption": "If a player wants to purchase a Draw game ticket using a play slip, ",
 					"overlays": [
 						{
-							"left": 0,
-							"top": 0,
+							"left": 650,
+							"top": 55,
 							"image": {
-								"url": "lessons/shared/images/playslip_shoulder.png",
-								"width": 800,
-								"height": 450
+								"url": "lessons/shared/images/wv-cash5-playslip.png",
+								"width": 82,
+								"height": 214
 							}
 						}
 					]

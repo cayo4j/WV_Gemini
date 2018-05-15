@@ -3,7 +3,7 @@
 	"activities": [
 		{
 			"type": "video",
-			"name": "Loading and Unloading Scratcher Tickets - Exercise",
+			"name": "Loading and Unloading Scratch Off Tickets - Exercise",
 			"label": "Multiple Choice",
 			"video": {
 				"url": "lessons/shared/html/chime.mp3"
@@ -33,7 +33,7 @@
 		},
 		{
 			"type": "singleChoice",
-			"name": "Loading and Unloading Scratcher Tickets - Exercise",
+			"name": "Loading and Unloading Scratch Off Tickets - Exercise",
 			"label": "There are several rules you should follow to avoid ticket jams in the Gemini Touch. When loading tickets that are 8 inches or longer, which of these rules apply?",
 			"options": [
 				{
@@ -58,15 +58,15 @@
 		},
 		{
 			"type": "singleChoice",
-			"name": "Loading and Unloading Scratcher Tickets - Exercise",
-			"label": "Never load ticket bins 25-28 with tickets greater than 10\" long.",
+			"name": "Loading and Unloading Scratch Off Tickets - Exercise",
+			"label": "Never load the lower ticket bins with tickets greater than 10\" long.",
 			"options": [
 				{
 					"label": "True",
 					"isCorrect": true
 				},
 				{
-					"label": "false",
+					"label": "False",
 					"isCorrect": false
 				}
 			],
@@ -77,13 +77,13 @@
 				},
 				"invalid": {
 					"label": "Sorry,",
-					"text": "the statement is True. Never load ticket bins 25-28 with tickets greater than 10\" long."
+					"text": "The statement is True. Never load the lower ticket bins with tickets greater than 10\" long."
 				}
 			}
 		},
 		{
 			"type": "guiSimulation",
-			"name": "Loading and Unloading Scratcher Tickets - Exercise",
+			"name": "Loading and Unloading Scratch Off Tickets - Exercise",
 			"label": "Now it's your turn to load a pack of Scratch Off tickets using the Management functions. Load a pack of tickets into Bin 4. ",
 			
 			"cuepoints": [
@@ -117,7 +117,7 @@
                         {
                             "left": 15,
                             "top": 10,
-                            "label": "Load a pack of tickets into Bin 4.",
+                            "label": "Now it's your turn to load a pack of Scratch Off tickets using the Management functions. </br></br>Load a pack of tickets into Bin 4.",
                             "blink": "once"
                         }
 					],
@@ -135,7 +135,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/instant-tkt-mgmt-bin1.png",
+								"url": "lessons/shared/images/instant-tkt-mgmt.png",
 								"width": 800,
 								"height": 450
 							},
@@ -143,12 +143,12 @@
 		                   
 						},
 						{
-							"left": 563,
-							"top": 130,
+							"left": 591,
+							"top": 93,
 							"image": {
-								"url": "lessons/shared/images/bin_4_btn.png",
-								"width": 55,
-								"height": 37
+								"url": "lessons/shared/images/transparent.png",
+								"width": 63,
+								"height": 39
 							},
                             "blink": "triple",
 							"hotspot": "null",
@@ -176,7 +176,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/instant-tkt-mgmt-zero.jpg",
+								"url": "lessons/shared/images/instant-tkt-mgmt-bin4.png",
 								"width": 800,
 								"height": 450
 							},
@@ -187,7 +187,7 @@
 							"left": 186,
 							"top": 278,
 							"image": {
-								"url": "lessons/shared/images/load_tickets_btn.png",
+								"url": "lessons/shared/images/transparent.png",
 								"width": 73,
 								"height": 41
 							},
@@ -255,7 +255,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/scan-first-submit.jpg",
+								"url": "lessons/shared/images/scan-first-submit.png",
 								"width": 800,
 								"height": 450
 							}
@@ -368,7 +368,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/load-confirm.jpg",
+								"url": "lessons/shared/images/load-confirm.png",
 								"width": 800,
 								"height": 450
 							}

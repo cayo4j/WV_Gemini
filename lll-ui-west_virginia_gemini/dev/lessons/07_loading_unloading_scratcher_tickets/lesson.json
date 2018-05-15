@@ -3,7 +3,7 @@
 	"activities": [
 		{
 			"type": "video",
-			"name": "Loading and Unloading Scratcher Tickets",
+			"name": "Loading and Unloading Scratch Off Tickets",
 			"video": {
 				"url": "lessons/shared/videos/WV_LoadingandUnloadingScratchOffTickets.mp4"
 			},
@@ -293,7 +293,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/parameters.png",
+								"url": "lessons/shared/images/wv-gemini-external.png",
 								"width": 800,
 								"height": 450
 							}
@@ -425,7 +425,7 @@
                 {
 
 					"videoControl" : {
-						"time": "67.21",
+						"time": "67.51",
 						"play": true
 					},
 					"caption": "Now, open the tray that you wish to load tickets into by pushing this green lever towards the bin "
@@ -480,8 +480,8 @@
 							}
 						},
 						{
-							"left": 150,
-							"top": 150,
+							"left": 50,
+							"top": 15,
 							"label": "Do not load 10” tickets in Bins 21 - 24",
 							"blink": "none"
 						}
@@ -505,8 +505,8 @@
 							}
 						},
 						{
-							"left": 150,
-							"top": 150,
+							"left": 50,
+							"top": 15,
 							"label": "Tickets 8” or longer should be fed under the roller",
 							"blink": "none"
 						}
@@ -683,7 +683,7 @@
 						"time": "131.27",
 						"play": true
 					},
-					"caption": "For ticket packs that are unloaded to return for credit, please provide this pack to your lottery sales rep to receive cred and documentation for return.",
+					"caption": "For ticket packs that are unloaded to return for credit, please provide this pack to your lottery sales rep to receive credit and documentation for return.",
 					"overlays": [
 						{
 							"left": 0,
