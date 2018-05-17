@@ -724,7 +724,7 @@
 
 		
         <item identifier="assessment" identifierref="assessment_resources" isvisible="true">
-          <title>Final Assessment</title>
+          <title>Assessment</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />

@@ -253,13 +253,13 @@
 				{
 
 					"videoControl" : {
-						"time": "90.18", 
+						"time": "90.58", 
 						"play": true
 					},
 					"caption": "The Help icon here ",
 			"overlays": [
 			{
-				"left": 0,
+				"left": -10,
 				"top": 0,
 				"image": {
 					"url": "lessons/shared/images/02_helpIcon.png",
@@ -311,8 +311,8 @@
 					"caption": "The Bill Acceptor is located here and accepts $1, $5, $10, $20, and $50 bills.",
 					"overlays": [
 						{
-                            "left": 50,
-                            "top": 15,
+                            "left": 650,
+                            "top": 159,
                             "label": "Bill Acceptor",
                             "blink": "none"
                         }

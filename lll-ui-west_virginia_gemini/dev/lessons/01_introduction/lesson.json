@@ -11,7 +11,7 @@
 				"time": "0",
 				"play": true
 			},
-			"caption": "Welcome to the Virginia Lottery Learning Link web-based retailer training!",
+			"caption": "Welcome to the West Virginia Lottery Learning Link web-based retailer training!",
 			"overlays": [
 			{
 				"left": 0,
@@ -169,19 +169,11 @@
 		},
 		{
 			"videoControl": {
-				"time": "62.23",
+				"time": "62.53",
 				"play": true
 			},
 			"caption": "When a game icon is selected ",
-			"overlays": [{
-				"left": 0,
-				"top": 0,
-				"image": {
-					"url": "lessons/shared/images/scratch-draw-icons.png",
-					"width": 800,
-					"height": 450
-				}
-			},
+			"overlays": [
 			{
 				"left": 50,
 				"top": 15,
@@ -265,7 +257,7 @@
 		},
 		{
 			"videoControl": {
-				"time": "92.05",
+				"time": "91.05",
 				"play": true
 			},
 			"caption": "Let's move on and look closer at the terminal hardware."

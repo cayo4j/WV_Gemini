@@ -137,18 +137,7 @@
 						"time": "18.28",
 						"play": true
 					},
-					"caption": "When loading a full pack of tickets, you can scan any bar code on the back of the tickets,",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/load-tickets-enter-first.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "When loading a full pack of tickets, you can scan any bar code on the back of the tickets,"
 				},
                 {
 
@@ -306,18 +295,7 @@
 						"time": "50.14",
 						"play": true
 					},
-					"caption": "When a partial pack of tickets is loaded, all you need to do is scan the bar code of the first ticket, ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/scan_that_ticket_pack.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "When a partial pack of tickets is loaded, all you need to do is scan the bar code of the first ticket, "
 				},
 				{
 
@@ -561,7 +539,7 @@
 						"time": "109.23",
 						"play": true
 					},
-					"caption": "From here you may either scan the Unload barcode on the bin you want to unload and the inventory unloads from the bin",
+					"caption": "From here you may either scan the Unload bar code on the bin you want to unload and the inventory unloads from the bin",
 					"overlays": [
 						{
 							"left": 0,

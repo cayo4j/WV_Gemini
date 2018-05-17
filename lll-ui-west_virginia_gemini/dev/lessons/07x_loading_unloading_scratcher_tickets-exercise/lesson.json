@@ -84,7 +84,7 @@
 		{
 			"type": "guiSimulation",
 			"name": "Loading and Unloading Scratch Off Tickets - Exercise",
-			"label": "Now it's your turn to load a pack of Scratch Off tickets using the Management functions. Load a pack of tickets into Bin 4. ",
+			"label": "Now it's your turn to load a pack of Scratch Off tickets using the Management functions. Load a pack of tickets into Bin 1. ",
 			
 			"cuepoints": [
 				{
@@ -198,7 +198,7 @@
 						},
                         {
                             "left": 15,
-                            "top": 10,
+                            "top": 40,
                             "label": "Load a pack of tickets into Bin 1.",
                             "blink": "once"
                         }
@@ -216,7 +216,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/scan_that_ticket_pack.jpg",
+								"url": "lessons/shared/images/AnthonyScan.png",
 								"width": 800,
 								"height": 450
 							},
@@ -226,7 +226,7 @@
 							"left": 325,
 							"top": 80,
 							"image": {
-								"url": "lessons/shared/images/scan_that_ticket_hotspot.png",
+								"url": "lessons/shared/images/transparent.png",
 								"width": 207,
 								"height": 249
 							},

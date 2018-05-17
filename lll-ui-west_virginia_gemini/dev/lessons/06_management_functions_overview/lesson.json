@@ -3,7 +3,7 @@
 	"activities": [
 		{
 			"type": "video",
-			"name": "Management Functions Overview",
+			"name": "Manager Functions Overview",
 			"video": {
 				"url": "lessons/shared/videos/WV_ManagementFunctionsOverview.mp4"
 			},

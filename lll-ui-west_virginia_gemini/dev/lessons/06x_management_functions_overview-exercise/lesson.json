@@ -3,7 +3,7 @@
 	"activities": [
 		{
 			"type": "video",
-			"name": "Management Functions Overview - Exercise",
+			"name": "Manager Functions Overview - Exercise",
 			"label": "Multiple Choice",
 			"video": {
 				"url": "lessons/shared/html/chime.mp3"
@@ -32,7 +32,7 @@
 		},
 		{
 			"type": "singleChoice",
-			"name": "Management Functions Overview - Exercise",
+			"name": "Manager Functions Overview - Exercise",
 			"label": "All Reports are accessed from the Reports menu on the Management Functions Home screen.",
 			"options": [
 				{
@@ -57,7 +57,7 @@
 		},
 		{
 			"type": "guiSimulation",
-			"name": "Management Functions Overview - Exercise",
+			"name": "Manager Functions Overview - Exercise",
 			"label": "Find the menu option that is used to access functions for loading and unloading bins.",
 			
 			"cuepoints": [

@@ -66,11 +66,11 @@
 				},
 				{
 					"label": "$200.00",
-					"isCorrect": true
+					"isCorrect": false
 				},
 				{
 					"label": "$250.00",
-					"isCorrect": false
+					"isCorrect": true
 				}
 			],
 			"feedback": {
@@ -88,7 +88,7 @@
 		{
 			"type": "multipleChoice",
 			"name": "Assessment",
-			"label": "True or False: The Gemini Touch features a Ticket Scan Plus function that allows players to scan Scratch Off and Draw Game ticket barcodes to see if it is a winner.",
+			"label": "True or False: The Gemini Touch features a Ticket Scan Plus function that allows players to scan Scratch Off and Draw Game ticket bar codes to see if it is a winner.",
 			"options": [
 				{
 					"label": "True",
