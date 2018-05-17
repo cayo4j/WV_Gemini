@@ -12,19 +12,19 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inside-gemini-front.jpg",
+								"url": "lessons/shared/images/inside-gemini-front.png",
 								"width": 800,
 								"height": 450
 							},
 		                    "isSubmit": true
 						},
 						{
-							"left": 376,
-							"top": 79,
+							"left": 399,
+							"top": 114,
 							"image": {
 								"url": "lessons/shared/images/transparent.png",
-								"width": 134,
-								"height": 241
+								"width": 103,
+								"height": 186
 							},
 							"hotspot": "Inner Doors",
 		                    "isSubmit": true,
@@ -48,19 +48,19 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inside-gemini-front.jpg",
+								"url": "lessons/shared/images/inside-gemini-front.png",
 								"width": 800,
 								"height": 450
 							},
 		                    "isSubmit": true
 						},
 						{
-							"left": 507,
-							"top": 113,
+							"left": 505,
+							"top": 141,
 							"image": {
 								"url": "lessons/shared/images/transparent.png",
-								"width": 69,
-								"height": 37
+								"width": 37,
+								"height": 31
 							},
 							"hotspot": "Bar Code Scanner",
 		                    "isSubmit": true,
@@ -84,19 +84,19 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inside-gemini-front.jpg",
+								"url": "lessons/shared/images/inside-gemini-front.png",
 								"width": 800,
 								"height": 450
 							},
 		                    "isSubmit": true
 						},
 						{
-							"left": 525,
-							"top": 21,
+							"left": 521,
+							"top": 70,
 							"image": {
 								"url": "lessons/shared/images/transparent.png",
-								"width": 47,
-								"height": 47
+								"width": 39,
+								"height": 20
 							},
 							"hotspot": "Power Button",
 		                    "isSubmit": true,
@@ -120,19 +120,19 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inside-gemini-front.jpg",
+								"url": "lessons/shared/images/inside-gemini-front.png",
 								"width": 800,
 								"height": 450
 							},
 		                    "isSubmit": true
 						},
 						{
-							"left": 485,
-							"top": 303,
+							"left": 488,
+							"top": 299,
 							"image": {
 								"url": "lessons/shared/images/transparent.png",
-								"width": 84,
-								"height": 92
+								"width": 49,
+								"height": 71
 							},
 							"hotspot": "Printer",
 		                    "isSubmit": true,
@@ -156,19 +156,19 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inside-gemini-front.jpg",
+								"url": "lessons/shared/images/inside-gemini-front.png",
 								"width": 800,
 								"height": 450
 							},
 		                    "isSubmit": true
 						},
 						{
-							"left": 505,
-							"top": 270,
+							"left": 492,
+							"top": 265,
 							"image": {
 								"url": "lessons/shared/images/transparent.png",
-								"width": 52,
-								"height": 45
+								"width": 39,
+								"height": 43
 							},
 							"hotspot": "Play Slip Reader",
 		                    "isSubmit": true,
@@ -192,19 +192,19 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inside-gemini-front.jpg",
+								"url": "lessons/shared/images/inside-gemini-front.png",
 								"width": 800,
 								"height": 450
 							},
 		                    "isSubmit": true
 						},
 						{
-							"left": 510,
-							"top": 73,
+							"left": 500,
+							"top": 108,
 							"image": {
 								"url": "lessons/shared/images/transparent.png",
-								"width": 52,
-								"height": 45
+								"width": 45,
+								"height": 36
 							},
 							"hotspot": " ",
 		                    "isSubmit": true,
