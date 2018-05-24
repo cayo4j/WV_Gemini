@@ -8,7 +8,7 @@
 </metadata>
  <organizations default="ORG1">
     <organization identifier="ORG1" structure="hierarchical" adlseq:objectivesGlobalToSystem="false" adlcp:sharedDataGlobalToSystem="false">
-      <title>West Virginia Gemini Touch</title>
+      <title>West Virginia Gemini Touch Retailer Training</title>
   
         <item identifier="sco1" identifierref="sco1_resources" isvisible="true">
           <title>Introduction to the Gemini Touch</title>
