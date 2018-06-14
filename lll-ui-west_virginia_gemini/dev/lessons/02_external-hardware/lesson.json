@@ -201,10 +201,10 @@
 				{
 
 					"videoControl" : {
-						"time": "69.12",
+						"time": "68.65",
 						"play": true
 					},
-					"caption": "The Gemini Touch supports American with Disabilities, or ADA regulations. "
+					"caption": "The Gemini Touch supports Americans with Disabilities, or ADA regulations. "
 				},
 				{
 
@@ -295,8 +295,8 @@
 					"caption": "Here is the Bar Code Scanner used to read ticket barcodes.",
 					"overlays": [
 						{
-                            "left": 50,
-                            "top": 15,
+                            "left": 300,
+                            "top": 150,
                             "label": "Bar Code Scanner",
                             "blink": "none"
                         }
@@ -305,14 +305,14 @@
 				{
 
 					"videoControl" : {
-						"time": "102.07",
+						"time": "102.15",
 						"play": true
 					},
 					"caption": "The Bill Acceptor is located here and accepts $1, $5, $10, $20, $50 and $100 bills.",
 					"overlays": [
 						{
-                            "left": 650,
-                            "top": 159,
+                            "left": 620,
+                            "top": 140,
                             "label": "Bill Acceptor",
                             "blink": "none"
                         }
@@ -328,8 +328,8 @@
 					"caption": "This is the Main Door lock.",
 					"overlays": [
 						{
-                            "left": 50,
-                            "top": 15,
+                            "left": 300,
+                            "top": 320,
                             "label": "Door Lock",
                             "blink": "none"
                         }
@@ -345,8 +345,8 @@
 					"caption": "Below the lock is the Play Slip Reader.",
 					"overlays": [
 						{
-                            "left": 50,
-                            "top": 15,
+                            "left": 280,
+                            "top": 340,
                             "label": "Play Slip Reader",
                             "blink": "none"
                         }
@@ -374,7 +374,7 @@
 				{
 
 					"videoControl" : {
-						"time": "120.12",
+						"time": "122.12",
 						"play": true
 					},
 					"caption": "where purchased Scratch Off games and Draw games are dispensed for the player."
