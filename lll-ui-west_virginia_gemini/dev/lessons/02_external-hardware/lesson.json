@@ -308,7 +308,7 @@
 						"time": "102.07",
 						"play": true
 					},
-					"caption": "The Bill Acceptor is located here and accepts $1, $5, $10, $20, and $50 bills.",
+					"caption": "The Bill Acceptor is located here and accepts $1, $5, $10, $20, $50 and $100 bills.",
 					"overlays": [
 						{
                             "left": 650,
@@ -322,7 +322,7 @@
 				{
 
 					"videoControl" : {
-						"time": "110.04",
+						"time": "112.11",
 						"play": true
 					},
 					"caption": "This is the Main Door lock.",
@@ -339,7 +339,7 @@
 				{
 
 					"videoControl" : {
-						"time": "113.24",
+						"time": "115.08",
 						"play": true
 					},
 					"caption": "Below the lock is the Play Slip Reader.",
@@ -356,7 +356,7 @@
 				{
 
 					"videoControl" : {
-						"time": "116.04",
+						"time": "118.08",
 						"play": true
 					},
 					"caption": "And finally, below the Play Slip Reader, is the Ticket Retrieval Area ",
@@ -383,7 +383,7 @@
 				{
 
 					"videoControl" : {
-						"time": "124.06",
+						"time": "126.10",
 						"play": true
 					},
 					"caption": "So now let's move on to the next lesson where we'll take a look inside of the Gemini Touch!"

@@ -1,8 +1,8 @@
 {
-  "title" : "Clearing Jams",
+  "title" : "Clearing Jams New Template",
   "activities" : [ {
     "type" : "video",
-    "name" : " Version 2",
+    "name" : "",
     "label" : "",
     "video" : {
       "url" : "lessons/shared/videos/WV_Clearning Jams.mp4"
@@ -42,7 +42,7 @@
         "time" : "13.19",
         "play" : true
       },
-      "caption" : "Now clear the jammed bills."
+      "caption" : "Now, clear the jammed bills."
     }, {
       "videoControl" : {
         "time" : "16.07",
@@ -60,13 +60,13 @@
         "time" : "26.14",
         "play" : true
       },
-      "caption" : "Now run a Bill Acceptor Test."
+      "caption" : "Now run a Bill Acceptor Test. "
     }, {
       "videoControl" : {
         "time" : "28.21",
         "play" : true
       },
-      "caption" : "From the Device Tests menu, ",
+      "caption" : "From the Device Tests menu,",
       "overlays" : [ {
         "left" : 0,
         "top" : 0,
@@ -86,7 +86,7 @@
         "left" : 0,
         "top" : 0,
         "image" : {
-          "url" : "lessons/shared/images/device-tests-menu.png",
+          "url" : "lessons/shared/images/bill-acceptor-test.png",
           "width" : 800,
           "height" : 450
         }
@@ -96,22 +96,13 @@
         "time" : "32.20",
         "play" : true
       },
-      "caption" : "The Bill Acceptor Test screen displays.",
-      "overlays" : [ {
-        "left" : 0,
-        "top" : 0,
-        "image" : {
-          "url" : "lessons/shared/images/bill-acceptor-test.png",
-          "width" : 800,
-          "height" : 450
-        }
-      } ]
+      "caption" : "The Test Bill Acceptor screen displays."
     }, {
       "videoControl" : {
         "time" : "35.01",
         "play" : true
       },
-      "caption" : "Insert a bill into the acceptor "
+      "caption" : "Insert a bill into the acceptor"
     }, {
       "videoControl" : {
         "time" : "37.23",
